@@ -1,0 +1,978 @@
+,address,price,beds,baths,parking,propertyTypeFormatted,latitudes,longitudes
+0,EAST MELBOURNE 12/174 George Street VIC 3002,495,1,1,1,Apartment / Unit / Flat,-37.8167,144.9879
+1,BRIGHTON 210/26 Warleigh Grove VIC 3186,595,2,2,1,Apartment / Unit / Flat,-37.9057,145.0067
+2,MELBOURNE 605/455 Elizabeth Street VIC 3000,500,2,1,0,Apartment / Unit / Flat,45.5916,14.1546
+3,MELBOURNE 3510/500 Elizabeth Street VIC 3000,580,2,2,0,Apartment / Unit / Flat,45.5916,14.1546
+4,MELBOURNE 309/402-408 La Trobe Street VIC 3000,450,2,1,0,Apartment / Unit / Flat,45.5916,14.1546
+5,CARLTON G06/81 Cemetery Road VIC 3053,375,1,1,0,Apartment / Unit / Flat,-37.8004,144.9684
+6,ST KILDA EAST 7/1A Hughenden Road VIC 3183,340,1,1,1,Apartment / Unit / Flat,-37.8692,144.9977
+7,ABBOTSFORD EG07/11 Flockhart Street VIC 3067,375,2,1,0,Apartment / Unit / Flat,-37.8046,144.9998
+8,BRUNSWICK WEST 10/5 Allard Street VIC 3055,370,1,1,1,Apartment / Unit / Flat,-37.7603,144.9502
+9,EAST MELBOURNE 1105/162 Albert Street VIC 3002,420,2,1,1,Apartment / Unit / Flat,-37.8167,144.9879
+10,ARMADALE 6/6 Denbigh Road VIC 3143,710,2,2,1,Apartment / Unit / Flat,-37.85,145.0333
+11,EAST MELBOURNE 107K/211 Powlett Street VIC 3002,550,1,1,1,Apartment / Unit / Flat,-37.8167,144.9879
+12,PORT MELBOURNE 409/108 Bay Street VIC 3207,550,1,2,1,Apartment / Unit / Flat,-37.8329,144.922
+13,HAWTHORN 15/64 Auburn Rd VIC 3122,330,1,1,1,Apartment / Unit / Flat,-37.8199,145.0358
+14,ELWOOD 205/95 Ormond Road VIC 3184,410,1,1,1,Apartment / Unit / Flat,-37.8809,144.9855
+15,SOUTH YARRA 603/101 River Street VIC 3141,850,2,2,2,Apartment / Unit / Flat,-37.8333,144.9833
+16,MONTMORENCY 2/14 Binns Street VIC 3094,450,2,1,2,Apartment / Unit / Flat,-37.7167,145.1167
+17,SOUTHBANK 602/250 City Road VIC 3006,385,1,1,0,Apartment / Unit / Flat,-37.8228,144.9643
+18,ELWOOD 7/23 Bendigo Avenue VIC 3184,240,1,1,1,Apartment / Unit / Flat,-37.8809,144.9855
+19,MURRUMBEENA 5/34 Bute Street VIC 3163,340,1,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+20,COLLINGWOOD 204/107 Cambridge Street VIC 3066,480,1,1,1,Apartment / Unit / Flat,-37.8,144.9833
+21,CAULFIELD NORTH 10/663 Inkerman Road VIC 3161,525,2,1,1,Apartment / Unit / Flat,-37.872,145.0216
+22,GLEN IRIS 1492 Malvern Road VIC 3146,230,1,1,0,Apartment / Unit / Flat,-37.8599,145.0549
+23,PORT MELBOURNE 214/54 Nott Street VIC 3207,440,1,1,1,Apartment / Unit / Flat,-37.8329,144.922
+24,WODONGA 1/6 Rattray Avenue VIC 3690,250,2,1,1,Apartment / Unit / Flat,-36.0997,146.802
+25,MOONEE PONDS 105/333 Ascot Vale Rd VIC 3039,480,2,2,1,Apartment / Unit / Flat,-37.7667,144.9167
+26,WINDSOR 12/30 James Street VIC 3181,70,1,1,1,Apartment / Unit / Flat,-37.853,144.9929
+27,MELBOURNE 918/422 Collins St VIC 3000,600,2,1,0,Apartment / Unit / Flat,45.5916,14.1546
+28,BENTLEIGH 2/116 Jasper Road VIC 3204,450,2,1,1,Apartment / Unit / Flat,46.3375,15.2264
+29,FOOTSCRAY 1003/8 Joseph Road VIC 3011,480,2,2,1,Apartment / Unit / Flat,-37.7995,144.8963
+30,HAWTHORN 6/566 Glenferrie Road VIC 3122,480,2,1,1,Apartment / Unit / Flat,-37.8199,145.0358
+31,SOUTH YARRA 1203/77 River Street VIC 3141,570,2,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+32,SOUTH YARRA 1102/32 Bray Street VIC 3141,525,2,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+33,RESERVOIR 2/24 O'Connor Street VIC 3073,430,2,1,1,Apartment / Unit / Flat,-37.7167,145.0
+34,MELBOURNE 911/408 Lonsdale Street VIC 3000,330,1,1,0,Apartment / Unit / Flat,45.5916,14.1546
+35,HAWTHORN 3/23 Auburn Grove VIC 3122,450,2,1,1,Apartment / Unit / Flat,-37.8199,145.0358
+36,ELWOOD 3/27 Ruskin Street VIC 3184,550,2,1,1,Apartment / Unit / Flat,-37.8809,144.9855
+37,WODONGA 4/5 BELL COURT VIC 3690,230,1,1,1,Apartment / Unit / Flat,-36.0997,146.802
+38,FITZROY NORTH 204/378-390 St George Road VIC 3068,800,2,2,1,Apartment / Unit / Flat,-37.7865,144.9897
+39,HAWTHORN 303/81 Riversdale Road VIC 3122,500,2,2,1,Apartment / Unit / Flat,-37.8199,145.0358
+40,TOORAK 3/402 Toorak Road VIC 3142,475,2,1,2,Apartment / Unit / Flat,-37.8416,145.0177
+41,WODONGA 4/4-6 WILSON STREET VIC 3690,350,2,1,1,Apartment / Unit / Flat,-36.0997,146.802
+42,BRUNSWICK WEST 504/1 Olive York Way VIC 3055,450,2,2,1,Apartment / Unit / Flat,-37.7603,144.9502
+43,RINGWOOD 410/92 Maroondah Highway VIC 3134,440,2,2,1,Apartment / Unit / Flat,-37.7667,145.25
+44,NOBLE PARK 10/10 Larbert Road VIC 3174,240,1,1,1,Apartment / Unit / Flat,-37.9667,145.1667
+45,ABBOTSFORD 514/6 Acacia Place VIC 3067,440,1,1,1,Apartment / Unit / Flat,-37.8046,144.9998
+46,GEELONG WEST 3/47 Wellington Street VIC 3218,340,2,1,1,Apartment / Unit / Flat,-38.1343,144.3241
+47,ABBOTSFORD 902/627 Victoria Street VIC 3067,425,1,1,0,Apartment / Unit / Flat,-37.8046,144.9998
+48,HIGHETT 314/284 Highett Rd VIC 3190,430,2,1,1,Apartment / Unit / Flat,-37.9517,145.0394
+49,RICHMOND 612/30 Burnley Street VIC 3121,425,1,1,1,Apartment / Unit / Flat,-37.8271,145.0064
+50,HAMPTON 2/36 Crisp St VIC 3188,625,2,2,1,Apartment / Unit / Flat,-37.9374,145.0151
+51,EAST MELBOURNE 4/23 Albert Street VIC 3002,475,1,1,0,Apartment / Unit / Flat,-37.8167,144.9879
+52,ST KILDA EAST 31/55 Hotham Street VIC 3183,550,3,1,1,Apartment / Unit / Flat,-37.8692,144.9977
+53,BRUNSWICK EAST 105/26 Barkly Street VIC 3057,400,1,1,1,Apartment / Unit / Flat,-37.7603,144.9502
+54,ELWOOD 2/117 Tennyson Street VIC 3184,560,2,2,2,Apartment / Unit / Flat,-37.8809,144.9855
+55,ST KILDA EAST 1/28 Wilgah Street VIC 3183,495,2,1,1,Apartment / Unit / Flat,-37.8692,144.9977
+56,CAULFIELD 313/15 Bond Street VIC 3162,450,2,1,1,Apartment / Unit / Flat,-37.8914,145.0254
+57,SOUTH YARRA 3/59 Avoca Street VIC 3141,580,2,1,0,Apartment / Unit / Flat,-37.8333,144.9833
+58,CAULFIELD SOUTH 2/193 Bambra Road VIC 3162,590,3,2,1,Apartment / Unit / Flat,-37.8914,145.0254
+59,CAULFIELD 2A Stephens Street VIC 3162,670,3,2,2,Apartment / Unit / Flat,-37.8914,145.0254
+60,ABBOTSFORD 714/20 Shamrock Street VIC 3067,350,1,1,0,Apartment / Unit / Flat,-37.8046,144.9998
+61,ELWOOD 4/5 Southey Court VIC 3184,575,2,1,1,Apartment / Unit / Flat,-37.8809,144.9855
+62,CANTERBURY 2/28 Milton Street VIC 3126,430,2,1,1,Apartment / Unit / Flat,-37.8247,145.0848
+63,CHADSTONE 336/70 Batesford Road VIC 3148,375,1,1,1,Apartment / Unit / Flat,-37.8833,145.1167
+64,SOUTH YARRA 512/77 River Street VIC 3141,430,1,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+65,SOUTH MELBOURNE 1703/89-103 Gladstone Street VIC 3205,460,1,1,0,Apartment / Unit / Flat,46.3817,15.2958
+66,WODONGA 2/4 ANNE STREET VIC 3690,240,1,1,1,Apartment / Unit / Flat,-36.0997,146.802
+67,ST KILDA 5/2 Kipling Street VIC 3182,325,2,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+68,ST KILDA 14/21 Marine Parade VIC 3182,1300,3,2,2,Apartment / Unit / Flat,-37.8633,144.9802
+69,FITZROY NORTH 111L/378-390 St Georges Road VIC 3068,440,1,1,1,Apartment / Unit / Flat,-37.7865,144.9897
+70,BALACLAVA 4/360 Carlisle Street VIC 3183,650,2,1,1,Apartment / Unit / Flat,-37.8692,144.9977
+71,MALVERN EAST 508/839 Dandenong Road VIC 3145,360,1,1,1,Apartment / Unit / Flat,-37.874,145.0425
+72,MELBOURNE 1112/333-351 Exhibition Street VIC 3000,600,2,2,0,Apartment / Unit / Flat,45.5916,14.1546
+73,FITZROY NORTH 22L/378-390 St Georges Road VIC 3068,570,2,2,1,Apartment / Unit / Flat,-37.7865,144.9897
+74,MENTONE G01/97 Beach Road VIC 3194,750,1,1,2,Apartment / Unit / Flat,-37.9833,145.0667
+75,MELBOURNE 602/118 Franklin Street VIC 3000,330,1,1,0,Apartment / Unit / Flat,45.5916,14.1546
+76,GLEN IRIS 2/49 Osborne Avenue VIC 3146,770,2,2,2,Apartment / Unit / Flat,-37.8599,145.0549
+77,ABBOTSFORD 509A/1 Acacia Place VIC 3067,410,1,1,1,Apartment / Unit / Flat,-37.8046,144.9998
+78,BRUNSWICK 208/34 Union Street VIC 3056,490,2,1,1,Apartment / Unit / Flat,-37.7667,144.9667
+79,GLEN IRIS 12/70 Edgar Street North VIC 3146,295,1,1,1,Apartment / Unit / Flat,-37.8599,145.0549
+80,SOUTH YARRA 113/2 Hobson Street VIC 3141,410,1,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+81,SOUTH YARRA 130/471 Malvern Road VIC 3141,400,1,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+82,FOOTSCRAY 1303/8 Joseph Road VIC 3011,490,2,2,1,Apartment / Unit / Flat,-37.7995,144.8963
+83,EAST MELBOURNE 23/2 Wellington Crescent VIC 3002,750,2,2,2,Apartment / Unit / Flat,-37.8167,144.9879
+84,COLLINGWOOD 1304e/9 Robert Street VIC 3066,450,1,1,1,Apartment / Unit / Flat,-37.8,144.9833
+85,MELBOURNE 4/180 Little Collins Street VIC 3000,500,1,1,0,Apartment / Unit / Flat,45.5916,14.1546
+86,SOUTH YARRA 516/77 River Street VIC 3141,370,1,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+87,MALVERN EAST 2/997 Dandenong Road VIC 3145,400,2,1,1,Apartment / Unit / Flat,-37.874,145.0425
+88,RICHMOND 2/2 Smith Street VIC 3121,300,1,1,1,Apartment / Unit / Flat,-37.8271,145.0064
+89,SOUTH YARRA 9/63 Millswyn Street VIC 3141,495,2,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+90,GLEN IRIS 310/770B Toorak Road Road VIC 3146,80,1,1,1,Apartment / Unit / Flat,-37.8599,145.0549
+91,BOX HILL 3/1 John Street VIC 3128,420,2,1,1,Apartment / Unit / Flat,-37.8256,145.1232
+92,BALWYN 4/84 Rochester Rd VIC 3103,480,2,1,1,Apartment / Unit / Flat,-37.8117,145.081
+93,CAULFIELD NORTH 8/62 Hawthorn Road VIC 3161,600,2,2,2,Apartment / Unit / Flat,-37.8764333,145.0239926
+94,BURWOOD 108/326-328 Burwood Highway VIC 3125,500,2,1,1,Apartment / Unit / Flat,-37.8498,145.119
+95,HUGHESDALE 1/30 Swindon Road VIC 3166,420,2,1,1,Apartment / Unit / Flat,-37.8995,145.0811
+96,GLEN IRIS 3/76 Glen Iris Road VIC 3146,415,2,1,2,Apartment / Unit / Flat,-37.8599,145.0549
+97,SOUTH MELBOURNE 1/333 Coventry Street VIC 3205,550,2,1,1,Apartment / Unit / Flat,46.3817,15.2958
+98,MELBOURNE 1507/12 Queens Rd VIC 3004,700,2,2,1,Apartment / Unit / Flat,-37.814,144.9633
+99,MELBOURNE 3002/288 Spencer St VIC 3000,510,2,1,1,Apartment / Unit / Flat,45.5916,14.1546
+100,ELSTERNWICK 806/18 McCombie St VIC 3185,520,2,2,1,Apartment / Unit / Flat,-37.8984,145.0088
+101,OAKLEIGH 109/6 Dalgety Street VIC 3166,500,1,1,1,Apartment / Unit / Flat,-37.8995,145.0811
+102,MURRUMBEENA 4/15 Howe Street VIC 3163,290,1,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+103,RICHMOND 6/137 Coppin Street VIC 3121,360,1,1,0,Apartment / Unit / Flat,-37.8271,145.0064
+104,FOOTSCRAY 2308/6 Joseph Road VIC 3011,400,1,1,1,Apartment / Unit / Flat,-37.7995,144.8963
+105,BRUNSWICK EAST 2005/178 Edward Street VIC 3057,550,2,1,1,Apartment / Unit / Flat,-37.7603,144.9502
+106,HAMPTON G05/18 Railway Crescent VIC 3188,750,2,2,1,Apartment / Unit / Flat,-37.9374,145.0151
+107,ELWOOD 6/30 Docker Street VIC 3184,470,1,1,1,Apartment / Unit / Flat,-37.8809,144.9855
+108,ST KILDA 1/38 Alma Rd VIC 3182,450,2,1,0,Apartment / Unit / Flat,-37.8633,144.9802
+109,SOUTHBANK 705/26 Southgate Avenue VIC 3006,530,1,1,1,Apartment / Unit / Flat,-37.8228,144.9643
+110,MELBOURNE 1605/565 Flinders Street VIC 3000,500,2,2,1,Apartment / Unit / Flat,45.5916,14.1546
+111,RICHMOND 126/243-249A Bridge Road VIC 3121,400,1,1,1,Apartment / Unit / Flat,-37.8271,145.0064
+112,SOUTH YARRA 10/2 Lawson Grove VIC 3141,415,1,1,0,Apartment / Unit / Flat,-37.8333,144.9833
+113,RICHMOND 17/81 Edinburgh Street VIC 3121,300,1,1,1,Apartment / Unit / Flat,-37.8271,145.0064
+114,BRUNSWICK 9/67 Blyth St VIC 3056,490,2,1,1,Apartment / Unit / Flat,-37.7667,144.9667
+115,WINDSOR 16/174 Peel Street VIC 3181,385,1,1,1,Apartment / Unit / Flat,-37.853,144.9929
+116,FITZROY 107/176 Argyle Street VIC 3065,450,1,1,0,Apartment / Unit / Flat,-37.7984,144.9783
+117,ABBOTSFORD 9/328 Johnston Street VIC 3067,600,2,1,1,Apartment / Unit / Flat,-37.8046,144.9998
+118,BRUNSWICK 2/6 Millward Street VIC 3056,390,2,1,1,Apartment / Unit / Flat,-37.7667,144.9667
+119,RICHMOND 209/8 Garfield Street VIC 3121,450,1,1,1,Apartment / Unit / Flat,-37.8271,145.0064
+120,MELBOURNE 2108/288 Spencer Street VIC 3000,350,1,1,0,Apartment / Unit / Flat,45.5916,14.1546
+121,SOUTH YARRA 402/20 Garden Street VIC 3141,350,1,1,0,Apartment / Unit / Flat,-37.8333,144.9833
+122,FOOTSCRAY 2003/8 Joseph Road VIC 3011,520,2,2,1,Apartment / Unit / Flat,-37.7995,144.8963
+123,SOUTH MELBOURNE 1009/338 Kings Way VIC 3205,500,2,1,2,Apartment / Unit / Flat,46.3817,15.2958
+124,TOORAK 11/8 Lamin Lane VIC 3142,465,1,1,1,Apartment / Unit / Flat,-37.8416,145.0177
+125,PRAHRAN 306/25 Clifton Street VIC 3181,425,2,1,0,Apartment / Unit / Flat,-37.853,144.9929
+126,BRUNSWICK WEST 4/2 Waxman Parade VIC 3055,380,2,1,1,Apartment / Unit / Flat,-37.7603,144.9502
+127,WINDSOR 12/28 The Avenue VIC 3181,550,2,1,1,Apartment / Unit / Flat,-37.853,144.9929
+128,PASCOE VALE 4/7 Vale Street VIC 3044,375,2,1,1,Apartment / Unit / Flat,-37.7319,144.9381
+129,RICHMOND 616/14 David Street VIC 3121,550,2,1,1,Apartment / Unit / Flat,-37.8271,145.0064
+130,BOX HILL NORTH 75A Watts Street VIC 3129,440,2,1,1,Apartment / Unit / Flat,-37.8004,145.1083
+131,PRAHRAN 310/22 Chatham Street VIC 3181,450,1,1,1,Apartment / Unit / Flat,-37.853,144.9929
+132,PORT MELBOURNE 701/57 Bay Street VIC 3207,750,2,1,2,Apartment / Unit / Flat,-37.8329,144.922
+133,MIDDLE PARK 8/49 Patterson Street VIC 3206,490,2,1,1,Apartment / Unit / Flat,46.3636,15.3653
+134,HAWTHORN G.04/567 Glenferrie Road VIC 3122,430,1,1,1,Apartment / Unit / Flat,-37.8199,145.0358
+135,ELSTERNWICK 103/5-7 Nepean Highway VIC 3185,500,2,2,1,Apartment / Unit / Flat,-37.8984,145.0088
+136,SOUTH MELBOURNE 203/333 Ferrars Street VIC 3205,650,2,2,1,Apartment / Unit / Flat,46.3817,15.2958
+137,MURRUMBEENA 6/19 Sydney Street VIC 3163,300,1,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+138,KEW 14/58-62 Mary Street VIC 3101,470,2,1,1,Apartment / Unit / Flat,-37.8064,145.0309
+139,MELBOURNE 612/408 Lonsdale Street VIC 3000,350,1,1,0,Apartment / Unit / Flat,45.5916,14.1546
+140,HAWTHORN 11/64 Auburn Rd VIC 3122,350,1,1,1,Apartment / Unit / Flat,-37.8199,145.0358
+141,HAWTHORN 7/165 Power Street VIC 3122,350,1,1,1,Apartment / Unit / Flat,-37.8199,145.0358
+142,DONCASTER 2/11 Firth Street VIC 3108,360,2,1,1,Apartment / Unit / Flat,-37.7883,145.1237
+143,MELBOURNE 902/133 Russell St VIC 3004,650,1,1,0,Apartment / Unit / Flat,-37.814,144.9633
+144,FITZROY NORTH 5/55 May Street VIC 3068,350,2,1,1,Apartment / Unit / Flat,-37.7865,144.9897
+145,BRIGHTON 1/128 Male Street VIC 3186,525,2,1,1,Apartment / Unit / Flat,-37.9057,145.0067
+146,NORTHCOTE 2/3 Jessie Street VIC 3070,375,2,1,1,Apartment / Unit / Flat,-37.7667,145.0
+147,BALWYN 5/19 Kireep Road VIC 3103,400,2,1,1,Apartment / Unit / Flat,-37.8117,145.081
+148,TOORAK 15/21 Tintern Avenue VIC 3142,520,2,1,1,Apartment / Unit / Flat,-37.8416,145.0177
+149,CARNEGIE 2/44 Rosstown Road VIC 3163,545,3,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+150,ELSTERNWICK 3/24 Elster Avenue VIC 3185,450,2,1,1,Apartment / Unit / Flat,-37.8984,145.0088
+151,EDITHVALE 5/8-10 Turakina Avenue VIC 3196,350,1,1,1,Apartment / Unit / Flat,-38.0372,145.1097
+152,ST KILDA 5/9 Marlton Crescent VIC 3182,520,2,1,0,Apartment / Unit / Flat,-37.8633,144.9802
+153,GLEN HUNTLY 3/22 Roseberry Grove VIC 3163,335,2,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+154,GLEN IRIS 10/304 Tooronga Road VIC 3146,350,2,1,1,Apartment / Unit / Flat,-37.8599,145.0549
+155,MURRUMBEENA 8/24 Melbourne Street VIC 3163,270,1,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+156,PRAHRAN 4/34 Clarke Street VIC 3181,360,1,1,1,Apartment / Unit / Flat,-37.853,144.9929
+157,ST KILDA EAST 3/206 Alma Rd VIC 3183,250,1,1,0,Apartment / Unit / Flat,-37.8692,144.9977
+158,PRAHRAN 510/42 Porter Street VIC 3181,260,1,1,0,Apartment / Unit / Flat,-37.853,144.9929
+159,CAMBERWELL 3/9 Eddy Street VIC 3124,470,2,1,1,Apartment / Unit / Flat,-37.8248,145.0705
+160,SOUTHBANK 3402/61 Haig Street VIC 3006,395,1,1,0,Apartment / Unit / Flat,-37.8228,144.9643
+161,ST KILDA EAST 12/7 Raglan Street VIC 3183,290,1,1,0,Apartment / Unit / Flat,-37.8692,144.9977
+162,MELBOURNE 309/77 Queens Road VIC 3004,430,1,1,1,Apartment / Unit / Flat,-37.814,144.9633
+163,BRUNSWICK 805/288 Albert Street VIC 3056,450,2,1,1,Apartment / Unit / Flat,-37.7667,144.9667
+164,HAWTHORN 6/146 Riversdale Road VIC 3122,445,2,1,1,Apartment / Unit / Flat,-37.8199,145.0358
+165,ALPHINGTON 12/1 Rex Avenue VIC 3078,460,2,1,1,Apartment / Unit / Flat,-37.7829,145.0226
+166,CARNEGIE 5/20 Anzac Street VIC 3163,320,1,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+167,PRAHRAN 2/227 Chapel Street VIC 3181,430,2,1,0,Apartment / Unit / Flat,-37.853,144.9929
+168,ST KILDA EAST 6/23 Lansdowne Rd VIC 3183,350,2,1,1,Apartment / Unit / Flat,-37.8692,144.9977
+169,BRUNSWICK 208/5 Union Street VIC 3056,550,2,1,1,Apartment / Unit / Flat,-37.7667,144.9667
+170,MIDDLE PARK 1/262 Beaconsfield Parade VIC 3206,500,2,1,1,Apartment / Unit / Flat,46.3636,15.3653
+171,SOUTHBANK 1306/285 City Road VIC 3006,500,2,1,1,Apartment / Unit / Flat,-37.8228,144.9643
+172,OAKLEIGH 16/30 Swindon Road VIC 3166,570,3,2,2,Apartment / Unit / Flat,-37.8995,145.0811
+173,EAST MELBOURNE Unit 13P/189 Powlett St VIC 3002,600,2,2,1,Apartment / Unit / Flat,-37.8167,144.9879
+174,PORT MELBOURNE 112/1 Danks Street VIC 3207,525,2,1,1,Apartment / Unit / Flat,-37.8329,144.922
+175,HIGHETT 2/15 Karen Street VIC 3190,390,2,1,2,Apartment / Unit / Flat,-37.9517,145.0394
+176,ST KILDA WEST 30/233-235 Canterbury Road VIC 3182,310,1,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+177,NORTH MELBOURNE 310/350 Victoria Street VIC 3051,445,2,1,1,Apartment / Unit / Flat,-37.8029,144.9482
+178,MELBOURNE 1505/250 Elizabeth Street VIC 3000,520,2,1,0,Apartment / Unit / Flat,45.5916,14.1546
+179,DANDENONG 2/24 Power Street VIC 3175,399,3,2,2,Apartment / Unit / Flat,-37.9833,145.2
+180,MELBOURNE 3510/442 Elizabeth St VIC 3000,680,2,1,0,Apartment / Unit / Flat,45.5916,14.1546
+181,DOCKLANDS 1209/8 Pearl River Rd VIC 3008,420,1,1,0,Apartment / Unit / Flat,-37.8149,144.9505
+182,CANTERBURY 2/42 Hopetoun Avenue VIC 3126,650,3,1,2,Apartment / Unit / Flat,-37.8247,145.0848
+183,MELBOURNE 9/15 Rankins Lane VIC 3000,900,2,2,0,Apartment / Unit / Flat,45.5916,14.1546
+184,BRUNSWICK 7/213-219 Brunswick Road VIC 3056,625,2,2,1,Apartment / Unit / Flat,-37.7667,144.9667
+185,MELBOURNE 2205/22-24 Jane Bell Lane VIC 3000,550,2,1,0,Apartment / Unit / Flat,45.5916,14.1546
+186,SOUTH YARRA 4/209 Domain Road VIC 3141,575,2,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+187,MCKINNON 8/66 Bent Street VIC 3204,495,2,2,1,Apartment / Unit / Flat,46.3375,15.2264
+188,DOCKLANDS 1811/8 Marmion Pl VIC 3008,480,1,1,1,Apartment / Unit / Flat,-37.8149,144.9505
+189,GLENROY 4/48 William Street VIC 3046,380,2,1,1,Apartment / Unit / Flat,-37.7,144.9333
+190,ST KILDA 2/52 Alma Road VIC 3182,330,1,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+191,SOUTH YARRA 2003/7 Yarra Street VIC 3141,425,1,1,0,Apartment / Unit / Flat,-37.8333,144.9833
+192,BRUNSWICK EAST 401/269 Stewart Street VIC 3057,650,2,2,1,Apartment / Unit / Flat,-37.7603,144.9502
+193,CARNEGIE 3/16 Oakleigh Road VIC 3163,450,2,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+194,KOOYONG 7/717 Toorak Road VIC 3144,1100,3,2,2,Apartment / Unit / Flat,-37.8512,145.0317
+195,SOUTH YARRA 7/38A Kensington Road VIC 3141,525,2,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+196,PRAHRAN 716/15 Clifton Street VIC 3181,500,2,1,1,Apartment / Unit / Flat,-37.853,144.9929
+197,ELSTERNWICK 222/138 Glen Eira Road VIC 3185,550,2,2,1,Apartment / Unit / Flat,-37.8984,145.0088
+198,PORT MELBOURNE 402/49 Beach Street VIC 3207,940,2,2,2,Apartment / Unit / Flat,-37.8329,144.922
+199,RICHMOND 511/2 McGoun Street VIC 3121,550,2,2,1,Apartment / Unit / Flat,-37.8271,145.0064
+200,ST KILDA EAST 2/47 Gourlay Street VIC 3183,345,2,1,1,Apartment / Unit / Flat,-37.8692,144.9977
+201,MELBOURNE 2201/288 Spencer Street VIC 3000,400,1,1,0,Apartment / Unit / Flat,45.5916,14.1546
+202,CAULFIELD 16/667 Glenhuntly Road VIC 3162,450,2,1,1,Apartment / Unit / Flat,-37.8914,145.0254
+203,GLEN IRIS 1.07/281 Tooronga Road VIC 3146,595,2,2,1,Apartment / Unit / Flat,-37.8599,145.0549
+204,CAULFIELD NORTH 4/14 Narong Road VIC 3161,570,2,1,2,Apartment / Unit / Flat,-37.8680946,145.0209649
+205,MALVERN EAST 6/919 Dandenong Road VIC 3145,365,1,1,1,Apartment / Unit / Flat,-37.874,145.0425
+206,ST KILDA 206/126 Chapel Street VIC 3182,450,1,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+207,ELSTERNWICK 5/39 Nepean Highway VIC 3185,430,2,1,1,Apartment / Unit / Flat,-37.8984,145.0088
+208,KOOYONG 2/11 Mernda Road VIC 3144,550,3,1,0,Apartment / Unit / Flat,-37.8512,145.0317
+209,MELBOURNE 2004/288 Spencer Street VIC 3000,360,1,1,0,Apartment / Unit / Flat,45.5916,14.1546
+210,PRAHRAN 101/6 Percy Place VIC 3181,490,1,1,1,Apartment / Unit / Flat,-37.853,144.9929
+211,TOORAK 5/1 St Georges Road VIC 3142,280,1,1,0,Apartment / Unit / Flat,-37.8416,145.0177
+212,CAULFIELD NORTH 1/17 Sebastopol Street VIC 3161,650,2,2,2,Apartment / Unit / Flat,-37.8717083,145.0213365
+213,NORTH MELBOURNE 315/188 Peel Street VIC 3051,310,1,1,0,Apartment / Unit / Flat,-37.8029,144.9482
+214,EAST MELBOURNE 104/150 Clarendon Street VIC 3002,950,1,1,1,Apartment / Unit / Flat,-37.8167,144.9879
+215,WEST MELBOURNE 201/65 Dudley Street VIC 3003,420,1,1,0,Apartment / Unit / Flat,-37.8101,144.95
+216,RICHMOND 604/8 Burnley Street VIC 3121,600,2,2,2,Apartment / Unit / Flat,-37.8271,145.0064
+217,ELWOOD 2/24 Tennyson Street VIC 3184,420,2,1,1,Apartment / Unit / Flat,-37.8809,144.9855
+218,BOX HILL 19/16-18 Poplar Street VIC 3128,230,1,1,0,Apartment / Unit / Flat,-37.8256,145.1232
+219,MELBOURNE 405/15 Queens Road VIC 3004,550,2,2,1,Apartment / Unit / Flat,-37.814,144.9633
+220,IVANHOE 108/56 Myrtle Street VIC 3079,385,1,1,1,Apartment / Unit / Flat,-37.769,145.0431
+221,ARMADALE 4/597 Orrong Road VIC 3143,400,1,1,1,Apartment / Unit / Flat,-37.85,145.0333
+222,SANDRINGHAM 6/36 Edward Street VIC 3191,410,2,1,1,Apartment / Unit / Flat,-37.95,145.0
+223,CARNEGIE 9/1264 Glen Huntly Road VIC 3163,340,1,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+224,RICHMOND 13/160 Coppin Street VIC 3121,330,1,1,1,Apartment / Unit / Flat,-37.8271,145.0064
+225,WINDSOR 8/13 Lewisham Road VIC 3181,475,2,1,0,Apartment / Unit / Flat,-37.853,144.9929
+226,KOOYONG 3/459 Glenferrie Road VIC 3144,660,2,1,1,Apartment / Unit / Flat,-37.8512,145.0317
+227,CAULFIELD NORTH 4/60 Eskdale Road VIC 3161,575,3,1,0,Apartment / Unit / Flat,-37.8764653,145.0287536
+228,ST KILDA 312/196 St Kilda Road VIC 3182,450,2,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+229,ST KILDA 24/3 Herbert Street VIC 3182,350,1,1,0,Apartment / Unit / Flat,-37.8633,144.9802
+230,ELWOOD 3/97 Spray Street VIC 3184,450,2,1,1,Apartment / Unit / Flat,-37.8809,144.9855
+231,HAWTHORN 309/17 Lynch Street VIC 3122,495,2,2,1,Apartment / Unit / Flat,-37.8199,145.0358
+232,HAWTHORN 8/5 Glenroy Road VIC 3122,450,2,1,1,Apartment / Unit / Flat,-37.8199,145.0358
+233,CARNEGIE 3/27 Coorigil Rd VIC 3163,420,2,1,2,Apartment / Unit / Flat,-37.8895,145.0581
+234,HAWTHORN EAST 3/866 Toorak Road VIC 3123,430,1,1,1,Apartment / Unit / Flat,-37.8248,145.0464
+235,KEW 3/17 Pakington Street VIC 3101,850,3,2,2,Apartment / Unit / Flat,-37.8064,145.0309
+236,SOUTH KINGSVILLE 1/16 Vernon Street VIC 3015,475,2,1,1,Apartment / Unit / Flat,-37.8302,144.8709
+237,HAWTHORN EAST 7/50 Leura Grove VIC 3123,430,2,1,1,Apartment / Unit / Flat,-37.8248,145.0464
+238,MELBOURNE 101/25-33 Wills Street VIC 3000,400,1,1,0,Apartment / Unit / Flat,45.5916,14.1546
+239,CARNEGIE 9/55 Blackwood Street VIC 3163,295,1,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+240,MELBOURNE 18e/481 St Kilda Road VIC 3004,2800,3,3,2,Apartment / Unit / Flat,-37.814,144.9633
+241,GLEN IRIS 2/5 Ellis Road VIC 3146,695,3,2,1,Apartment / Unit / Flat,-37.8599,145.0549
+242,SURREY HILLS 1/15 Union Road VIC 3127,560,3,2,1,Apartment / Unit / Flat,-37.8128,145.1043
+243,SOUTH YARRA 2C/381 Toorak Road VIC 3141,480,2,2,1,Apartment / Unit / Flat,-37.8333,144.9833
+244,BALWYN 4/48 Weir Street VIC 3103,470,1,1,0,Apartment / Unit / Flat,-37.8117,145.081
+245,ALTONA 10/3 Robin Street VIC 3018,280,2,1,1,Apartment / Unit / Flat,-37.8696,144.8304
+246,BRIGHTON EAST 5/661-663 Nepean Highway VIC 3187,470,2,1,1,Apartment / Unit / Flat,-37.9014,145.0188
+247,HAWTHORN EAST 2/841 Toorak Road VIC 3123,570,3,1,1,Apartment / Unit / Flat,-37.8248,145.0464
+248,MELBOURNE 1211/200 Spencer Street VIC 3000,480,1,1,1,Apartment / Unit / Flat,45.5916,14.1546
+249,MELBOURNE 1901/368 St Kilda Road VIC 3000,1800,3,2,2,Apartment / Unit / Flat,45.5916,14.1546
+250,BRUNSWICK 504/2-6 Duckett Street VIC 3056,480,1,1,1,Apartment / Unit / Flat,-37.7667,144.9667
+251,KEW 6/103 Walpole Street VIC 3101,435,2,1,1,Apartment / Unit / Flat,-37.8064,145.0309
+252,COBURG 8/7-9 Bell Street VIC 3058,420,2,2,1,Apartment / Unit / Flat,-37.75,144.9667
+253,ARMADALE 24/6-8 Avondale Road VIC 3143,400,2,1,0,Apartment / Unit / Flat,-37.85,145.0333
+254,GLEN IRIS G03/1457 High Street VIC 3146,725,2,2,2,Apartment / Unit / Flat,-37.8599,145.0549
+255,MELBOURNE 2905B/11 Rose Lane VIC 3000,575,2,1,1,Apartment / Unit / Flat,45.5916,14.1546
+256,BOX HILL 204/2-4 Kent Road VIC 3128,450,2,1,1,Apartment / Unit / Flat,-37.8256,145.1232
+257,SOUTH YARRA 1807/2 Claremont Street VIC 3141,630,2,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+258,BRUNSWICK WEST 601/5 Olive York Way VIC 3055,430,2,1,1,Apartment / Unit / Flat,-37.7603,144.9502
+259,COLLINGWOOD 105/88 Cambridge Street VIC 3066,500,1,1,1,Apartment / Unit / Flat,-37.8,144.9833
+260,FOOTSCRAY 1102/6 Joseph Road VIC 3011,550,2,2,1,Apartment / Unit / Flat,-37.7995,144.8963
+261,CARNEGIE 3/102 Truganini Road VIC 3163,375,2,1,0,Apartment / Unit / Flat,-37.8895,145.0581
+262,CAULFIELD NORTH 3/40 Northcote Avenue VIC 3161,520,3,1,1,Apartment / Unit / Flat,-37.8781478,145.0272893
+263,CAULFIELD NORTH 5/556 Dandenong Rd VIC 3161,460,2,1,1,Apartment / Unit / Flat,-37.8645254,145.0232047
+264,ALBERT PARK 9/123 Beaconsfield Parade VIC 3206,810,2,2,1,Apartment / Unit / Flat,46.3636,15.3653
+265,ST KILDA 2401/14-16 The Esplanade VIC 3182,2800,3,2,2,Apartment / Unit / Flat,-37.8633,144.9802
+266,ELWOOD 1/3 Goldsmith St VIC 3184,425,1,1,1,Apartment / Unit / Flat,-37.8809,144.9855
+267,CAULFIELD NORTH 3/20 Malvern Grove VIC 3161,470,2,1,1,Apartment / Unit / Flat,-37.0,145.0
+268,PORT MELBOURNE 6d/9 Beach Street VIC 3207,650,2,2,1,Apartment / Unit / Flat,-37.8329,144.922
+269,SOUTH YARRA 9/47-49 Caroline Street VIC 3141,895,3,2,2,Apartment / Unit / Flat,-37.8333,144.9833
+270,PRAHRAN 604/7 King Street VIC 3181,510,2,2,1,Apartment / Unit / Flat,-37.853,144.9929
+271,BRUNSWICK 404/466 Lygon Street VIC 3056,380,1,1,1,Apartment / Unit / Flat,-37.7667,144.9667
+272,ELSTERNWICK 1/66 Riddell Parade VIC 3185,575,2,1,1,Apartment / Unit / Flat,-37.8984,145.0088
+273,CAULFIELD NORTH 6/359 Balaclava Road VIC 3161,310,1,1,0,Apartment / Unit / Flat,-37.8725189,145.0235436
+274,FOOTSCRAY 807/2 Joseph Road VIC 3011,390,1,1,1,Apartment / Unit / Flat,-37.7995,144.8963
+275,RICHMOND 5/26 Union Street VIC 3121,340,1,1,1,Apartment / Unit / Flat,-37.8271,145.0064
+276,TOORAK 1/11 Woorigoleen Road VIC 3142,750,3,2,1,Apartment / Unit / Flat,-37.8416,145.0177
+277,PRAHRAN 10/11 Irving Avenue VIC 3181,540,2,1,1,Apartment / Unit / Flat,-37.853,144.9929
+278,BOX HILL 408/2 Elland Avenue VIC 3128,450,2,1,1,Apartment / Unit / Flat,-37.8256,145.1232
+279,RICHMOND 15/2 The Vaucluse VIC 3121,325,1,1,1,Apartment / Unit / Flat,-37.8271,145.0064
+280,GLEN IRIS 14 Straughan St VIC 3146,1250,6,4,3,Apartment / Unit / Flat,-37.8599,145.0549
+281,RINGWOOD NORTH 9/96 Oban Road VIC 3134,390,2,1,1,Apartment / Unit / Flat,-37.7667,145.25
+282,PORT MELBOURNE 17/3 Seisman Place VIC 3207,625,2,1,1,Apartment / Unit / Flat,-37.8329,144.922
+283,CAULFIELD NORTH 9/20 Kooyong Road VIC 3161,550,2,1,2,Apartment / Unit / Flat,-37.8720234,145.0177277
+284,BRIGHTON 9/9-11 Adamson Street VIC 3186,3000,3,3,2,Apartment / Unit / Flat,-37.9057,145.0067
+285,ELSTERNWICK 304/17 Gordon Street VIC 3185,0,1,1,1,Apartment / Unit / Flat,-37.8984,145.0088
+286,SOUTH YARRA 607/7 Claremont Street VIC 3141,620,2,2,1,Apartment / Unit / Flat,-37.8333,144.9833
+287,SOUTH YARRA 201/18 Claremont Street VIC 3141,420,1,1,0,Apartment / Unit / Flat,-37.8333,144.9833
+288,ELSTERNWICK 4/34 Horne Street VIC 3185,395,2,1,1,Apartment / Unit / Flat,-37.8984,145.0088
+289,MELBOURNE 102/9 Bligh Place VIC 3000,600,2,1,1,Apartment / Unit / Flat,45.5916,14.1546
+290,ST KILDA EAST 3/45 Westbury St VIC 3183,320,2,1,1,Apartment / Unit / Flat,-37.8692,144.9977
+291,ELSTERNWICK 613B/455 Glen Huntly Road VIC 3185,470,1,1,1,Apartment / Unit / Flat,-37.8984,145.0088
+292,RICHMOND 45/69 Palmer Street VIC 3121,430,1,1,1,Apartment / Unit / Flat,-37.8271,145.0064
+293,MELBOURNE 3/27 Flinders Lane VIC 3000,420,1,1,0,Apartment / Unit / Flat,45.5916,14.1546
+294,SOUTH YARRA 10/110 Caroline Street VIC 3141,475,2,1,0,Apartment / Unit / Flat,-37.8333,144.9833
+295,ST KILDA 2705/14-16 The Esplanade VIC 3182,1300,1,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+296,SANDRINGHAM 8/19-21 Abbott Street VIC 3191,420,1,1,1,Apartment / Unit / Flat,-37.95,145.0
+297,KEW EAST 1/1 Namur Street VIC 3102,500,3,1,1,Apartment / Unit / Flat,-37.7976,145.0538
+298,BURWOOD EAST 1/235 Burwood Highway VIC 3151,475,3,2,2,Apartment / Unit / Flat,-37.8535,145.1503
+299,FOOTSCRAY 1202/8 Joseph Road VIC 3011,485,2,2,1,Apartment / Unit / Flat,-37.7995,144.8963
+300,COLLINGWOOD 311/75 Wellington St VIC 3066,700,2,2,1,Apartment / Unit / Flat,-37.8,144.9833
+301,FOOTSCRAY 1305/8 Joseph Road VIC 3011,490,2,2,1,Apartment / Unit / Flat,-37.7995,144.8963
+302,FOOTSCRAY 705/8 Joseph Road VIC 3011,475,2,2,1,Apartment / Unit / Flat,-37.7995,144.8963
+303,CARNEGIE 8/27 Beena Avenue VIC 3163,360,2,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+304,GLENROY 9/139 Melbourne Avenue VIC 3046,300,1,1,1,Apartment / Unit / Flat,-37.7,144.9333
+305,HAMPTON EAST 11/290 South Road VIC 3188,400,2,1,1,Apartment / Unit / Flat,-37.9374,145.0151
+306,MALVERN EAST 205/2A Clarence Street VIC 3145,410,2,1,1,Apartment / Unit / Flat,-37.874,145.0425
+307,GLEN IRIS 8/1512 Malvern Road VIC 3146,430,2,1,1,Apartment / Unit / Flat,-37.8599,145.0549
+308,BRUNSWICK 307/1C Michael Street VIC 3056,400,1,1,1,Apartment / Unit / Flat,-37.7667,144.9667
+309,MONT ALBERT 107/801 Whitehorse Road VIC 3127,535,2,1,2,Apartment / Unit / Flat,-37.8128,145.1043
+310,PRAHRAN 105/10 Porter Street VIC 3181,410,1,1,1,Apartment / Unit / Flat,-37.853,144.9929
+311,SOUTH YARRA 1006/1 Clara Street VIC 3141,450,1,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+312,SPRINGVALE 3/27 Royal Avenue VIC 3171,440,3,1,1,Apartment / Unit / Flat,-37.9457,145.1581
+313,SOUTH YARRA 205/20 Garden Street VIC 3141,450,2,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+314,BRUNSWICK EAST 538/22 Barkly Street VIC 3057,600,2,1,1,Apartment / Unit / Flat,-37.7603,144.9502
+315,PORT MELBOURNE 30/8 Graham Street VIC 3207,530,2,1,1,Apartment / Unit / Flat,-37.8329,144.922
+316,SOUTHBANK 1008/80 Clarendon Street VIC 3006,650,2,2,1,Apartment / Unit / Flat,-37.8228,144.9643
+317,DONCASTER 104/88 Tram Road VIC 3108,420,2,1,1,Apartment / Unit / Flat,-37.7883,145.1237
+318,THORNBURY 20/12 Dundas Street VIC 3071,240,1,1,1,Apartment / Unit / Flat,-37.7583,145.0051
+319,ST KILDA 2/257 Barkly Street VIC 3182,280,1,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+320,FOOTSCRAY 1402/8 Joseph Road VIC 3011,485,2,2,1,Apartment / Unit / Flat,-37.7995,144.8963
+321,FOOTSCRAY 1608/8 Joseph Road VIC 3011,500,2,2,1,Apartment / Unit / Flat,-37.7995,144.8963
+322,HAWTHORN 102/21 Riversdale Road VIC 3122,800,2,2,2,Apartment / Unit / Flat,-37.8199,145.0358
+323,EAST MELBOURNE 1306V/296 Victoria Parade VIC 3002,750,1,1,0,Apartment / Unit / Flat,-37.8167,144.9879
+324,GLEN HUNTLY 4/3 Park Avenue VIC 3163,550,3,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+325,COBURG 8/46 The Grove VIC 3058,340,1,1,1,Apartment / Unit / Flat,-37.75,144.9667
+326,RICHMOND 3/34 Leslie Street VIC 3121,320,1,1,1,Apartment / Unit / Flat,-37.8271,145.0064
+327,ALBERT PARK 188B Kerferd Road VIC 3206,650,1,1,0,Apartment / Unit / Flat,46.3636,15.3653
+328,ARMADALE 6/770 Malvern Road VIC 3143,450,3,1,1,Apartment / Unit / Flat,-37.85,145.0333
+329,BLACKBURN NORTH 3/89 Surrey Road VIC 3130,405,2,1,1,Apartment / Unit / Flat,-37.8232,145.1511
+330,MELBOURNE 303/250 St Kilda Road VIC 3004,1395,2,2,2,Apartment / Unit / Flat,-37.814,144.9633
+331,FITZROY NORTH 8/182 Barkly Street VIC 3068,310,1,1,0,Apartment / Unit / Flat,-37.7865,144.9897
+332,BRIGHTON 101/439 Bay Street VIC 3186,540,2,2,1,Apartment / Unit / Flat,-37.9057,145.0067
+333,PRESTON 11/326 Plenty Road VIC 3072,250,1,1,1,Apartment / Unit / Flat,-37.75,145.0167
+334,BRUNSWICK 803/597 Sydney Road VIC 3056,350,1,1,1,Apartment / Unit / Flat,-37.7667,144.9667
+335,ST KILDA 4/73 Alma Road VIC 3182,425,2,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+336,CLAYTON 2/17 Sarton Road VIC 3168,595,5,3,2,Apartment / Unit / Flat,-37.9167,145.1333
+337,PRAHRAN 6 Percy Place VIC 3181,715,2,2,1,Apartment / Unit / Flat,-37.853,144.9929
+338,COLLINGWOOD 2/61 Little Oxford Street VIC 3066,550,2,1,1,Apartment / Unit / Flat,-37.8,144.9833
+339,MELBOURNE 5401/464 Collins Street VIC 3000,2500,3,3,2,Apartment / Unit / Flat,45.5916,14.1546
+340,MALVERN EAST 104/226 Waverley Road VIC 3145,375,1,1,1,Apartment / Unit / Flat,-37.874,145.0425
+341,PRAHRAN 203/72 High Street VIC 3181,360,2,1,1,Apartment / Unit / Flat,-37.853,144.9929
+342,PRAHRAN 48/321 Chapel Street VIC 3181,450,1,1,0,Apartment / Unit / Flat,-37.853,144.9929
+343,CAULFIELD NORTH 2/372 Orrong Road VIC 3161,550,2,1,1,Apartment / Unit / Flat,-37.8674998,145.0091886
+344,SOUTH YARRA 15/85 Caroline Street VIC 3141,400,1,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+345,FLEMINGTON 4/121 Wellington St VIC 3031,415,2,1,1,Apartment / Unit / Flat,-37.7899,144.9226
+346,PRAHRAN 1/8 Princes Close VIC 3181,620,2,2,0,Apartment / Unit / Flat,-37.853,144.9929
+347,PRAHRAN 817/132 Commercial Road VIC 3181,450,1,1,1,Apartment / Unit / Flat,-37.853,144.9929
+348,BALACLAVA 201/356 Carlisle Street VIC 3183,375,1,1,1,Apartment / Unit / Flat,-37.8692,144.9977
+349,EAST MELBOURNE 13/86 Hotham Street VIC 3002,450,1,1,1,Apartment / Unit / Flat,-37.8167,144.9879
+350,SOUTH YARRA 4/90 Clowes Street VIC 3141,550,2,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+351,ELWOOD 3/5 Greig Court VIC 3184,410,2,1,1,Apartment / Unit / Flat,-37.8809,144.9855
+352,SOUTH YARRA 202/4 Chapel Mews VIC 3141,600,2,2,1,Apartment / Unit / Flat,-37.8333,144.9833
+353,CAULFIELD 18/214 Kambrook Road VIC 3162,450,2,1,1,Apartment / Unit / Flat,-37.8914,145.0254
+354,HAWTHORN EAST UG05 /708 BURWOOD ROAD VIC 3123,625,2,2,1,Apartment / Unit / Flat,-37.8248,145.0464
+355,CARLTON 421/528 Swanston Street VIC 3053,350,1,1,0,Apartment / Unit / Flat,-37.8004,144.9684
+356,CAULFIELD NORTH 105/337 Balaclava Road VIC 3161,600,2,2,1,Apartment / Unit / Flat,-37.872,145.0216
+357,ELSTERNWICK 6/89 Seymour Road VIC 3185,425,2,1,1,Apartment / Unit / Flat,-37.8984,145.0088
+358,MELBOURNE 55/1 Albert Road VIC 3000,950,2,2,2,Apartment / Unit / Flat,45.5916,14.1546
+359,BUNDOORA 502/21 Plenty Road VIC 3083,330,1,1,1,Apartment / Unit / Flat,-37.7062,145.0474
+360,WINDSOR 439/111 Punt Road VIC 3181,550,2,2,1,Apartment / Unit / Flat,-37.853,144.9929
+361,ST KILDA 13/9 Fitzroy Street VIC 3182,430,1,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+362,SOUTH MELBOURNE 705/89 Gladstone Street VIC 3205,550,2,2,1,Apartment / Unit / Flat,46.3817,15.2958
+363,MURRUMBEENA 1/12 Toward Street VIC 3163,350,2,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+364,"SOUTHBANK Level 35, 3501/7 Riverside Quay VIC 3006",850,2,2,1,Apartment / Unit / Flat,-37.8228,144.9643
+365,BRIGHTON 4/16 Manor Street VIC 3186,620,3,2,1,Apartment / Unit / Flat,-37.9057,145.0067
+366,COLLINGWOOD 206/75 Wellington Street VIC 3066,470,1,1,1,Apartment / Unit / Flat,-37.8,144.9833
+367,HUGHESDALE 5/158 Kangaroo Road VIC 3166,400,2,1,1,Apartment / Unit / Flat,-37.8995,145.0811
+368,OAKLEIGH SOUTH 2/30 Clarendon Avenue VIC 3167,520,3,1,1,Apartment / Unit / Flat,-37.927,145.0964
+369,PASCOE VALE SOUTH 2/21-23 Westgate Street VIC 3044,420,2,1,0,Apartment / Unit / Flat,-37.7319,144.9381
+370,BRIGHTON 210/79-81 Asling Street VIC 3186,525,2,1,1,Apartment / Unit / Flat,-37.9057,145.0067
+371,EAST MELBOURNE 7/126 Wellington Parade VIC 3002,1800,3,2,1,Apartment / Unit / Flat,-37.8167,144.9879
+372,CHADSTONE 14/13 Churchill Avenue VIC 3148,350,2,1,1,Apartment / Unit / Flat,-37.8833,145.1167
+373,ABBOTSFORD 532/631 Victoria Street VIC 3067,650,2,2,1,Apartment / Unit / Flat,-37.8046,144.9998
+374,MELBOURNE 1206/118 Russell Street VIC 3000,550,2,1,0,Apartment / Unit / Flat,45.5916,14.1546
+375,TOORAK 4/151 Canterbury Road VIC 3142,650,2,2,1,Apartment / Unit / Flat,-37.8416,145.0177
+376,ELSTERNWICK 2/9 Bertram Street VIC 3185,630,2,2,1,Apartment / Unit / Flat,-37.8984,145.0088
+377,WINDSOR 8/K3 Union Street VIC 3181,400,1,1,1,Apartment / Unit / Flat,-37.853,144.9929
+378,PRAHRAN 502/27 Macquarie Street VIC 3181,440,1,1,1,Apartment / Unit / Flat,-37.853,144.9929
+379,SOUTH YARRA 7/13 Hawksburn Road VIC 3141,450,2,1,2,Apartment / Unit / Flat,-37.8333,144.9833
+380,SOUTHBANK 2204/250 City Road VIC 3006,475,2,1,0,Apartment / Unit / Flat,-37.8228,144.9643
+381,ST ALBANS rear/25 Alfreida St VIC 3021,250,2,1,0,Apartment / Unit / Flat,-37.7371,144.8283
+382,SOUTH YARRA 414/77 River Street VIC 3141,420,1,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+383,KEW EAST 4/829 High Street VIC 3102,1580,4,4,3,Apartment / Unit / Flat,-37.7976,145.0538
+384,PRAHRAN 29/10 Clifton Street VIC 3181,540,2,1,1,Apartment / Unit / Flat,-37.853,144.9929
+385,NUNAWADING 5/5 Luckie Street VIC 3131,370,2,1,1,Apartment / Unit / Flat,-37.8275,145.1739
+386,ST KILDA 4/260 St Kilda Road VIC 3182,450,2,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+387,GARDENVALE 2/48 Magnolia Road VIC 3185,320,1,1,1,Apartment / Unit / Flat,-37.8984,145.0088
+388,ASCOT VALE 1/28 Ormond Road VIC 3032,300,1,1,1,Apartment / Unit / Flat,-37.7808,144.9354
+389,SOUTHBANK 3606/45 Clarke Street VIC 3006,650,2,2,0,Apartment / Unit / Flat,-37.8228,144.9643
+390,FITZROY NORTH G09/22 Nicholson Street VIC 3068,900,3,2,2,Apartment / Unit / Flat,-37.7865,144.9897
+391,ELWOOD 3/38 Mitford Street VIC 3184,340,1,1,0,Apartment / Unit / Flat,-37.8809,144.9855
+392,SOUTHBANK 1701a/60 Dorcas Street VIC 3006,400,1,1,0,Apartment / Unit / Flat,-37.8228,144.9643
+393,CARNEGIE 76B Oakleigh Road VIC 3163,900,4,3,1,Apartment / Unit / Flat,-37.8895,145.0581
+394,BENTLEIGH 107/15 Hamilton Street VIC 3204,540,2,2,1,Apartment / Unit / Flat,46.3375,15.2264
+395,BRIGHTON 1.04/26 Warleigh Grove VIC 3186,450,1,1,1,Apartment / Unit / Flat,-37.9057,145.0067
+396,ST KILDA 204/171-173 Inkerman Street VIC 3182,370,1,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+397,GLEN IRIS 202/23 Maverston Street VIC 3146,500,2,1,1,Apartment / Unit / Flat,-37.8599,145.0549
+398,WINDSOR 3/30 The Avenue VIC 3181,595,2,1,2,Apartment / Unit / Flat,-37.853,144.9929
+399,CANTERBURY 1/51 Rochester Road VIC 3126,450,2,1,1,Apartment / Unit / Flat,-37.8247,145.0848
+400,BALWYN NORTH 2/14 Hatfield Street VIC 3104,430,2,1,1,Apartment / Unit / Flat,-37.7909,145.0939
+401,HAWTHORN 9/488 Glenferrie Road VIC 3122,450,2,1,1,Apartment / Unit / Flat,-37.8199,145.0358
+402,BENTLEIGH 302/270 Centre Road VIC 3204,480,2,1,1,Apartment / Unit / Flat,46.3375,15.2264
+403,WINDSOR 207/120 High Street VIC 3181,400,1,1,1,Apartment / Unit / Flat,-37.853,144.9929
+404,SOUTH YARRA 14/245 Williams Road VIC 3141,350,1,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+405,HIGHETT 105/20 Station Street VIC 3190,500,2,2,1,Apartment / Unit / Flat,-37.9517,145.0394
+406,CAULFIELD NORTH 4/129-131 Kambrook Road VIC 3161,425,2,1,1,Apartment / Unit / Flat,-37.872,145.0216
+407,SOUTH MELBOURNE 354B Clarendon Street VIC 3205,620,2,1,0,Apartment / Unit / Flat,46.3817,15.2958
+408,WINDSOR 8/237 Dandenong Road VIC 3181,455,3,1,1,Apartment / Unit / Flat,-37.853,144.9929
+409,NORTH MELBOURNE 202/9-13 O'Connell Street VIC 3051,395,1,1,0,Apartment / Unit / Flat,-37.8029,144.9482
+410,GLEN HUNTLY 5/2 Park Avenue VIC 3163,500,2,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+411,BRUNSWICK EAST 119/8 Lygon Street VIC 3057,400,1,1,1,Apartment / Unit / Flat,-37.7603,144.9502
+412,HAWTHORN 26/219-227 Auburn Road VIC 3122,460,2,1,1,Apartment / Unit / Flat,-37.8199,145.0358
+413,GLEN IRIS 301/10-12 High Street VIC 3146,400,1,1,1,Apartment / Unit / Flat,-37.8599,145.0549
+414,MARIBYRNONG 16F/54 La Scala Avenue VIC 3032,410,2,1,1,Apartment / Unit / Flat,-37.7808,144.9354
+415,CAMBERWELL 12/126 Wattle Valley Road VIC 3124,400,2,1,1,Apartment / Unit / Flat,-37.8248,145.0705
+416,ST KILDA 802/181 Fitzroy St VIC 3182,1975,4,2,2,Apartment / Unit / Flat,-37.8633,144.9802
+417,BRUNSWICK WEST 3/9 Moule Street VIC 3055,360,2,1,1,Apartment / Unit / Flat,-37.7603,144.9502
+418,SURREY HILLS 5/972 Riversdale Road VIC 3127,370,1,1,1,Apartment / Unit / Flat,-37.8128,145.1043
+419,NORTH MELBOURNE 410/9-13 O'Connell Street VIC 3051,395,1,1,0,Apartment / Unit / Flat,-37.8029,144.9482
+420,SOUTH YARRA 1802/7 Claremont Street VIC 3141,800,2,2,1,Apartment / Unit / Flat,-37.8333,144.9833
+421,EAST MELBOURNE 8/108 George Street VIC 3002,450,1,1,1,Apartment / Unit / Flat,-37.8167,144.9879
+422,ST KILDA 27/352 Canterbury Road VIC 3182,500,2,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+423,PRAHRAN 8/21 Irving Avenue VIC 3181,400,2,1,1,Apartment / Unit / Flat,-37.853,144.9929
+424,BALWYN NORTH 1/1062 Burke Rd VIC 3104,425,2,1,1,Apartment / Unit / Flat,-37.7909,145.0939
+425,HAWTHORN EAST 4/2 Clifton Road VIC 3123,520,2,1,1,Apartment / Unit / Flat,-37.8248,145.0464
+426,KEW 103/56 Harp Road VIC 3101,475,2,1,1,Apartment / Unit / Flat,-37.8064,145.0309
+427,RESERVOIR 3/72 Leamington Street VIC 3073,420,2,1,1,Apartment / Unit / Flat,-37.7167,145.0
+428,COLLINGWOOD 8/375 Hoddle Street VIC 3066,450,2,1,1,Apartment / Unit / Flat,-37.8,144.9833
+429,FITZROY NORTH 111/378-390 Saint Georges Road VIC 3068,490,1,1,1,Apartment / Unit / Flat,-37.7865,144.9897
+430,HAWTHORN EAST 3/24 Auburn Grove VIC 3123,400,2,1,1,Apartment / Unit / Flat,-37.8248,145.0464
+431,RICHMOND 24/343 Church Street VIC 3121,600,2,1,2,Apartment / Unit / Flat,-37.8271,145.0064
+432,BALWYN 12/2A Brenbeal Street VIC 3103,400,2,1,1,Apartment / Unit / Flat,-37.8117,145.081
+433,WINDSOR 1/29 The Avenue VIC 3181,500,2,1,2,Apartment / Unit / Flat,-37.853,144.9929
+434,MELBOURNE 104/300 Swanston Street VIC 3000,550,2,1,0,Apartment / Unit / Flat,45.5916,14.1546
+435,ABBOTSFORD 215/56 Nicholson Street VIC 3067,560,2,2,2,Apartment / Unit / Flat,-37.8046,144.9998
+436,RICHMOND 1/8 Murphy Street VIC 3121,470,2,1,1,Apartment / Unit / Flat,-37.8271,145.0064
+437,HAWTHORN G01/39 Riversdale Road VIC 3122,580,2,2,1,Apartment / Unit / Flat,-37.8199,145.0358
+438,SOUTH YARRA 12/37 Domain Street VIC 3141,500,2,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+439,MOONEE PONDS 12/108 Maribyrnong Road VIC 3039,400,2,1,1,Apartment / Unit / Flat,-37.7667,144.9167
+440,ST KILDA 8/38 Fitzroy Street VIC 3182,495,2,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+441,SOUTH MELBOURNE 215/253 Normanby Road VIC 3205,735,2,2,1,Apartment / Unit / Flat,46.3817,15.2958
+442,CAULFIELD NORTH 3/24 Park Crescent VIC 3161,275,1,1,1,Apartment / Unit / Flat,-37.0,145.0
+443,MELBOURNE 2104/38 Rose Lane VIC 3000,550,2,1,0,Apartment / Unit / Flat,45.5916,14.1546
+444,MELBOURNE 517/74 Queens Road VIC 3004,450,2,1,1,Apartment / Unit / Flat,-37.814,144.9633
+445,ST KILDA 206/126 Carlisle Street VIC 3182,495,2,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+446,BRUNSWICK WEST 412/5 Olive York Way VIC 3055,450,2,2,1,Apartment / Unit / Flat,-37.7603,144.9502
+447,ST KILDA EAST 3/2 Celeste Ct VIC 3183,395,2,1,0,Apartment / Unit / Flat,-37.8692,144.9977
+448,CARNEGIE 3/19 Truganini Road VIC 3163,420,2,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+449,MELBOURNE 314/499 St Kilda Road VIC 3004,900,2,2,1,Apartment / Unit / Flat,-37.814,144.9633
+450,MELBOURNE 1715/220 Spencer Street VIC 3000,600,2,2,1,Apartment / Unit / Flat,45.5916,14.1546
+451,SOUTH YARRA 11/16 Kensington Road VIC 3141,420,2,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+452,ST KILDA 4/26 Wellington Street VIC 3182,500,2,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+453,GLEN HUNTLY 1/10 Roseberry Grove VIC 3163,375,3,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+454,ST KILDA 8/16 Chapel Street VIC 3182,395,2,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+455,ST KILDA EAST 1/106 Alexandra Street St VIC 3183,335,1,1,1,Apartment / Unit / Flat,-37.8692,144.9977
+456,ST KILDA WEST 10/86 Park Street VIC 3182,350,1,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+457,GLEN HUNTLY 301/18 Etna Street VIC 3163,460,2,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+458,MIDDLE PARK 11/90 Hambleton Street VIC 3206,365,1,1,1,Apartment / Unit / Flat,46.3636,15.3653
+459,BRUNSWICK EAST 111/8 Lygon Street VIC 3057,510,2,2,1,Apartment / Unit / Flat,-37.7603,144.9502
+460,PRAHRAN 5/17 Ellesmere Road VIC 3181,415,1,1,1,Apartment / Unit / Flat,-37.853,144.9929
+461,TOORAK 6/645 Malvern Road VIC 3142,430,1,1,1,Apartment / Unit / Flat,-37.8416,145.0177
+462,MELBOURNE Unit 1713/200 Spencer St VIC 3000,440,1,1,1,Apartment / Unit / Flat,45.5916,14.1546
+463,SOUTH YARRA 7/27 Avoca Street VIC 3141,440,2,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+464,HAWTHORN EAST 3/11 Stewart Street VIC 3123,390,2,1,1,Apartment / Unit / Flat,-37.8248,145.0464
+465,CAMBERWELL 113/436 Burke Road VIC 3124,565,2,2,1,Apartment / Unit / Flat,-37.8248,145.0705
+466,TOORAK 5/8 Devorgilla Ave VIC 3142,725,2,1,1,Apartment / Unit / Flat,-37.8416,145.0177
+467,ALPHINGTON 704/111 Parkview Road VIC 3078,540,2,2,1,Apartment / Unit / Flat,-37.7829,145.0226
+468,BOX HILL 14/98-100 Carrington Road VIC 3128,475,2,2,1,Apartment / Unit / Flat,-37.8256,145.1232
+469,WEST FOOTSCRAY 313/110 Roberts Street VIC 3012,550,2,1,1,Apartment / Unit / Flat,-37.8302,144.8709
+470,SANDRINGHAM 10/39-41 Abbott Street VIC 3191,450,3,1,1,Apartment / Unit / Flat,-37.95,145.0
+471,ELWOOD 4/84 Ormond Road VIC 3184,565,2,2,0,Apartment / Unit / Flat,-37.8809,144.9855
+472,MALVERN EAST 205/1059-1061 Dandenong Road VIC 3145,460,2,1,1,Apartment / Unit / Flat,-37.874,145.0425
+473,CAMBERWELL 2/6 Stanhope Grove VIC 3124,475,2,1,1,Apartment / Unit / Flat,-37.8248,145.0705
+474,CAMBERWELL G43/347 Camberwell Road VIC 3124,430,1,1,1,Apartment / Unit / Flat,-37.8248,145.0705
+475,FOOTSCRAY 1603/8 Joseph Road VIC 3011,490,2,2,1,Apartment / Unit / Flat,-37.7995,144.8963
+476,CAULFIELD SOUTH 5/14 Olive Street VIC 3162,360,1,1,1,Apartment / Unit / Flat,-37.8914,145.0254
+477,ABBOTSFORD 408D/615 Victoria Street VIC 3067,550,2,2,1,Apartment / Unit / Flat,-37.8046,144.9998
+478,FOOTSCRAY 1201/8 Joseph Road VIC 3011,485,2,2,1,Apartment / Unit / Flat,-37.7995,144.8963
+479,ST KILDA 11/43 Spenser Street VIC 3182,250,1,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+480,HAWTHORN EAST 516/480 Riversdale Road VIC 3123,550,2,2,1,Apartment / Unit / Flat,-37.8248,145.0464
+481,BLACKBURN 208/20 Queen Street VIC 3130,360,1,1,1,Apartment / Unit / Flat,-37.8232,145.1511
+482,ST KILDA EAST 26/55 Alexandra St VIC 3183,330,1,1,1,Apartment / Unit / Flat,-37.8692,144.9977
+483,MENTONE 12/30 Swanston Street VIC 3194,320,1,1,1,Apartment / Unit / Flat,-37.9833,145.0667
+484,BENTLEIGH EAST 2/26 Patricia Street VIC 3165,595,2,1,2,Apartment / Unit / Flat,-37.9201,145.0599
+485,CAMBERWELL 2/1266 Toorak Road VIC 3124,695,3,1,4,Apartment / Unit / Flat,-37.8248,145.0705
+486,BALWYN 3/1 Birtles St VIC 3103,575,3,2,1,Apartment / Unit / Flat,-37.8117,145.081
+487,RICHMOND 5/69 River Street VIC 3121,650,2,2,2,Apartment / Unit / Flat,-37.8271,145.0064
+488,PRAHRAN 4/317 Dandenong Road VIC 3181,430,2,1,1,Apartment / Unit / Flat,-37.853,144.9929
+489,TOORAK 3/34 Mathoura Road VIC 3142,400,1,1,1,Apartment / Unit / Flat,-37.8416,145.0177
+490,OAKLEIGH 2/52 William Street VIC 3166,495,3,1,1,Apartment / Unit / Flat,-37.8995,145.0811
+491,RICHMOND 405/14 David Street VIC 3121,530,2,1,1,Apartment / Unit / Flat,-37.8271,145.0064
+492,COBURG 102/729 Sydney Road VIC 3058,410,1,1,1,Apartment / Unit / Flat,-37.75,144.9667
+493,CAULFIELD SOUTH 206/2 Cedar Street VIC 3162,450,2,2,1,Apartment / Unit / Flat,-37.8914,145.0254
+494,ARMADALE G05/523 Dandenong Road VIC 3143,435,1,1,1,Apartment / Unit / Flat,-37.85,145.0333
+495,BRUNSWICK EAST 316/330 Lygon Street VIC 3057,475,2,2,1,Apartment / Unit / Flat,-37.7603,144.9502
+496,MELBOURNE 504/350 La Trobe Street VIC 3000,395,2,1,0,Apartment / Unit / Flat,45.5916,14.1546
+497,BRUNSWICK EAST 2/20 Lyndhurst Crescent VIC 3057,445,2,1,1,Apartment / Unit / Flat,-37.7603,144.9502
+498,BALACLAVA G10/43-45 The Avenue VIC 3183,570,2,2,1,Apartment / Unit / Flat,-37.8692,144.9977
+499,ESSENDON 2/16 Lyon Street VIC 3040,320,2,1,1,Apartment / Unit / Flat,-37.7538,144.8883
+500,PRAHRAN 104/139 York Street VIC 3181,410,1,1,0,Apartment / Unit / Flat,-37.853,144.9929
+501,BURWOOD 222 Burwood Highway VIC 3125,220,1,1,0,Apartment / Unit / Flat,-37.8498,145.119
+502,GLEN IRIS 3/6 Creswick Street VIC 3146,450,2,1,1,Apartment / Unit / Flat,-37.8599,145.0549
+503,ST KILDA 4/9 Marlton Crescent VIC 3182,390,2,1,0,Apartment / Unit / Flat,-37.8633,144.9802
+504,HERNE HILL 1/3 Colville Court VIC 3218,380,2,1,1,Apartment / Unit / Flat,-38.1343,144.3241
+505,THORNBURY 2/9 Rennie Street VIC 3071,390,2,1,1,Apartment / Unit / Flat,-37.7583,145.0051
+506,MELBOURNE 1211/260 Spencer Street VIC 3000,700,2,2,0,Apartment / Unit / Flat,45.5916,14.1546
+507,SOUTH MELBOURNE 2/187 Bank Street VIC 3205,520,1,1,0,Apartment / Unit / Flat,46.3817,15.2958
+508,GLEN IRIS 207/770B Toorak Road VIC 3146,395,1,1,1,Apartment / Unit / Flat,-37.8599,145.0549
+509,MELBOURNE 1007/238 Flinders St VIC 3000,320,1,1,0,Apartment / Unit / Flat,45.5916,14.1546
+510,BRUNSWICK WEST 3/14 McColl Court VIC 3055,400,2,1,1,Apartment / Unit / Flat,-37.7603,144.9502
+511,OAKLEIGH EAST 4/13 Elizabeth Street VIC 3166,615,3,2,1,Apartment / Unit / Flat,-37.8985673,145.1105504
+512,CANTERBURY 205/85 Maling Road VIC 3126,650,2,2,1,Apartment / Unit / Flat,-37.8247,145.0848
+513,PRAHRAN 15/21 Irving Avenue VIC 3181,440,2,1,1,Apartment / Unit / Flat,-37.853,144.9929
+514,SOUTH YARRA 4/67 Walsh Street VIC 3141,1200,3,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+515,MURRUMBEENA 6/28 Ardyne Street VIC 3163,250,1,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+516,SOUTH YARRA 511/8 Garden Street VIC 3141,400,1,1,0,Apartment / Unit / Flat,-37.8333,144.9833
+517,SOUTH YARRA 2/4 Ralston Street VIC 3141,425,1,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+518,ST KILDA 4/29 Marine Parade VIC 3182,450,1,1,0,Apartment / Unit / Flat,-37.8633,144.9802
+519,MELBOURNE 113/350 St Kilda Road VIC 3004,1500,2,3,2,Apartment / Unit / Flat,-37.814,144.9633
+520,ELSTERNWICK 1/453 Kooyong Rd VIC 3185,550,3,2,2,Apartment / Unit / Flat,-37.8984,145.0088
+521,SOUTH YARRA 904/50 Claremont Street VIC 3141,510,1,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+522,BENTLEIGH EAST 1/51 Browns Rd VIC 3165,520,2,2,1,Apartment / Unit / Flat,-37.9201,145.0599
+523,ST KILDA EAST 4/25 Cardigan Street VIC 3183,450,2,1,0,Apartment / Unit / Flat,-37.8692,144.9977
+524,ELWOOD 8/12 May Street VIC 3184,320,1,1,0,Apartment / Unit / Flat,-37.8809,144.9855
+525,HIGHETT 209/20 Station Street VIC 3190,530,2,2,1,Apartment / Unit / Flat,-37.9517,145.0394
+526,NORTHCOTE 8/4 McCracken Avenue VIC 3070,450,2,1,1,Apartment / Unit / Flat,-37.7667,145.0
+527,GLEN HUNTLY 7/1204 Glen Huntly Road VIC 3163,495,2,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+528,ORMOND 13/40 Lillimur Road VIC 3204,280,1,1,1,Apartment / Unit / Flat,46.3375,15.2264
+529,KEW 3/8-10 James Avenue VIC 3101,390,2,1,1,Apartment / Unit / Flat,-37.8064,145.0309
+530,CAULFIELD NORTH 5/20 Kooyong Rd VIC 3161,570,3,1,2,Apartment / Unit / Flat,-37.8720234,145.0177277
+531,PRAHRAN 201/323 Dandenong Road VIC 3181,525,2,2,1,Apartment / Unit / Flat,-37.853,144.9929
+532,PRAHRAN 502/283 High Street VIC 3181,1200,3,2,2,Apartment / Unit / Flat,-37.853,144.9929
+533,BRUNSWICK WEST 614/5 Olive York Way VIC 3055,440,2,2,1,Apartment / Unit / Flat,-37.7603,144.9502
+534,CARLTON 909/528 Swanston Street VIC 3053,345,1,1,0,Apartment / Unit / Flat,-37.8004,144.9684
+535,MALVERN EAST 5/419 Waverley Road VIC 3145,495,2,2,1,Apartment / Unit / Flat,-37.874,145.0425
+536,RICHMOND 105/39 Appleton Street VIC 3121,430,1,1,1,Apartment / Unit / Flat,-37.8271,145.0064
+537,SOUTH YARRA 808/2 Claremont Street VIC 3141,600,2,2,1,Apartment / Unit / Flat,-37.8333,144.9833
+538,BRUNSWICK 34/97 Brickworks Drive VIC 3056,450,2,1,1,Apartment / Unit / Flat,-37.7667,144.9667
+539,CAULFIELD NORTH 2/74 Hawthorn Rd VIC 3161,560,2,1,1,Apartment / Unit / Flat,-37.8764333,145.0239926
+540,BRUNSWICK WEST 107/358 Moreland Road VIC 3055,430,2,1,1,Apartment / Unit / Flat,-37.7603,144.9502
+541,MELBOURNE 1411/120 A Beckett St VIC 3000,680,2,2,0,Apartment / Unit / Flat,45.5916,14.1546
+542,PRAHRAN 1/42 Grandview Grove VIC 3181,800,3,1,0,Apartment / Unit / Flat,-37.853,144.9929
+543,MENTONE 508/7 Balcombe Rd VIC 3194,350,1,1,1,Apartment / Unit / Flat,-37.9833,145.0667
+544,CARLTON NORTH 4/867-883 Drummond Street VIC 3054,500,2,1,1,Apartment / Unit / Flat,-37.7866,144.9685
+545,ELSTERNWICK 3/4 Orrong Road VIC 3185,410,2,1,1,Apartment / Unit / Flat,-37.8984,145.0088
+546,ELWOOD 4/2 Selwyn Avenue VIC 3184,265,1,1,0,Apartment / Unit / Flat,-37.8809,144.9855
+547,ELWOOD 9/106 Addison Street VIC 3184,530,2,2,1,Apartment / Unit / Flat,-37.8809,144.9855
+548,BENTLEIGH EAST 105/801 Centre Road VIC 3165,440,2,2,1,Apartment / Unit / Flat,-37.9201,145.0599
+549,WEST MELBOURNE 503/9 Dryburgh Street VIC 3003,500,2,2,1,Apartment / Unit / Flat,-37.8101,144.95
+550,HAWTHORN 29/70 Church Street VIC 3122,450,2,1,1,Apartment / Unit / Flat,-37.8199,145.0358
+551,WINDSOR 10/K7 High Street VIC 3181,350,1,1,0,Apartment / Unit / Flat,-37.853,144.9929
+552,MURRUMBEENA 10/18 Gerald Street VIC 3163,310,1,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+553,EAST MELBOURNE 38/400 Victoria Parade VIC 3002,770,3,2,2,Apartment / Unit / Flat,-37.8167,144.9879
+554,HIGHETT G04/12 Major Street VIC 3190,480,2,2,1,Apartment / Unit / Flat,-37.9517,145.0394
+555,BRUNSWICK WEST 511/5 Olive York Way VIC 3055,440,2,1,1,Apartment / Unit / Flat,-37.7603,144.9502
+556,FITZROY 312/416 Gore Street VIC 3065,595,2,1,2,Apartment / Unit / Flat,-37.7984,144.9783
+557,KEW 7/47 Pakington Street VIC 3101,380,2,1,1,Apartment / Unit / Flat,-37.8064,145.0309
+558,PRAHRAN 1/34 Wynnstay Road VIC 3181,290,1,1,1,Apartment / Unit / Flat,-37.853,144.9929
+559,ST KILDA 12/45 Marine Parade VIC 3182,790,2,2,2,Apartment / Unit / Flat,-37.8633,144.9802
+560,PORT MELBOURNE 505/25 Nott Street VIC 3207,395,1,1,0,Apartment / Unit / Flat,-37.8329,144.922
+561,CLAYTON 5/265 Clayton Road VIC 3168,400,2,1,2,Apartment / Unit / Flat,-37.9167,145.1333
+562,MOUNT WAVERLEY 2/11 Therese Avenue VIC 3149,495,3,1,2,Apartment / Unit / Flat,-37.8771,145.1294
+563,ORMOND 4/13 Lillimur Road VIC 3204,525,2,1,1,Apartment / Unit / Flat,-37.9024678,145.0409643
+564,MALVERN EAST 402/1399 Dandenong Road VIC 3145,650,2,2,1,Apartment / Unit / Flat,-37.874,145.0425
+565,CAULFIELD SOUTH 1/27 Venus St VIC 3162,430,2,1,1,Apartment / Unit / Flat,-37.8914,145.0254
+566,EAST MELBOURNE P08P/191 Powlett Street VIC 3002,625,2,1,1,Apartment / Unit / Flat,-37.8167,144.9879
+567,COBURG 417/11 Urquhart Street VIC 3058,365,1,1,1,Apartment / Unit / Flat,-37.75,144.9667
+568,MURRUMBEENA 101/17 Murrumbeena Road VIC 3163,460,2,2,1,Apartment / Unit / Flat,-37.8895,145.0581
+569,BLACK ROCK 5/310 Beach Road VIC 3193,480,2,1,1,Apartment / Unit / Flat,-37.9736,145.0164
+570,ELWOOD 206/96 Ormond Road VIC 3184,425,1,1,1,Apartment / Unit / Flat,-37.8809,144.9855
+571,HAWTHORN 2/474 Glenferrie Road VIC 3122,520,2,1,1,Apartment / Unit / Flat,-37.8199,145.0358
+572,EAST MELBOURNE 203/150 Clarendon Street VIC 3002,950,1,1,1,Apartment / Unit / Flat,-37.8167,144.9879
+573,BRUNSWICK EAST 102/9 Village Avenue VIC 3057,550,2,2,1,Apartment / Unit / Flat,-37.7603,144.9502
+574,FOOTSCRAY 609/2 Joseph Road VIC 3011,800,1,1,1,Apartment / Unit / Flat,-37.7995,144.8963
+575,PORT MELBOURNE 7A/9 Beach Street VIC 3207,750,2,1,1,Apartment / Unit / Flat,-37.8329,144.922
+576,MALVERN EAST 9/1 Tooronga Road VIC 3145,440,2,1,1,Apartment / Unit / Flat,-37.874,145.0425
+577,ST KILDA 41/64 Fitzroy Street VIC 3182,430,1,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+578,WINDSOR 112/270 High St VIC 3181,390,1,1,0,Apartment / Unit / Flat,-37.853,144.9929
+579,EAST MELBOURNE 27/155 Powlett Street VIC 3002,575,2,1,1,Apartment / Unit / Flat,-37.8167,144.9879
+580,SOUTH YARRA 21/32 Darling Street VIC 3141,390,1,1,0,Apartment / Unit / Flat,-37.8333,144.9833
+581,FITZROY NORTH 221/378-390 Saint Georges Road VIC 3068,630,2,2,1,Apartment / Unit / Flat,-37.7865,144.9897
+582,SANDRINGHAM 2/91 Beach Road VIC 3191,475,2,1,2,Apartment / Unit / Flat,-37.95,145.0
+583,PORT MELBOURNE 415/99 Nott Street VIC 3207,500,2,1,2,Apartment / Unit / Flat,-37.8329,144.922
+584,FITZROY 203/57-61 Johnston Street VIC 3065,640,2,2,1,Apartment / Unit / Flat,-37.7984,144.9783
+585,MELBOURNE 217/339 Swanston St VIC 3000,380,2,1,0,Apartment / Unit / Flat,45.5916,14.1546
+586,NORTH MELBOURNE 19 Little Cobden Street VIC 3051,415,1,1,1,Apartment / Unit / Flat,-37.8029,144.9482
+587,FOOTSCRAY 1608/6 Joseph Road VIC 3011,400,1,1,1,Apartment / Unit / Flat,-37.7995,144.8963
+588,CAULFIELD 5/8 Anderson Street VIC 3162,525,3,1,0,Apartment / Unit / Flat,-37.8914,145.0254
+589,FAIRFIELD 38/262 Heidelberg Road VIC 3078,380,1,1,1,Apartment / Unit / Flat,-37.7829,145.0226
+590,PASCOE VALE 4/4 Essex Street VIC 3044,410,2,1,1,Apartment / Unit / Flat,-37.7319,144.9381
+591,MELBOURNE 405/442 St Kilda Road VIC 3004,380,1,1,1,Apartment / Unit / Flat,-37.814,144.9633
+592,CANTERBURY 3/22 Wentworth Avenue VIC 3126,395,2,1,1,Apartment / Unit / Flat,-37.8247,145.0848
+593,SOUTHBANK 1003/75 Coventry Street VIC 3006,425,1,1,1,Apartment / Unit / Flat,-37.8228,144.9643
+594,CLIFTON HILL 5/75 Field Street VIC 3068,620,2,1,1,Apartment / Unit / Flat,-37.7865,144.9897
+595,SOUTH YARRA 1/74 Leopold Street VIC 3141,800,3,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+596,MOUNT WAVERLEY 208/436-442 Huntingdale Road VIC 3149,370,1,1,1,Apartment / Unit / Flat,-37.8771,145.1294
+597,CLAYTON SOUTH 7/8-10 Hayden Road VIC 3169,460,2,1,1,Apartment / Unit / Flat,-37.9431,145.106
+598,CARLTON 8/97 Elgin Street VIC 3053,540,2,1,1,Apartment / Unit / Flat,-37.8004,144.9684
+599,MOUNT WAVERLEY 211/436-442 Huntingdale Road VIC 3149,360,1,1,1,Apartment / Unit / Flat,-37.8771,145.1294
+600,ARMADALE 1/9 Barnato Grove VIC 3143,460,2,1,2,Apartment / Unit / Flat,-37.85,145.0333
+601,PORT MELBOURNE 4/211 Esplanade West VIC 3207,380,1,1,0,Apartment / Unit / Flat,-37.8329,144.922
+602,CAULFIELD NORTH 3/101-103 Orrong Crescent VIC 3161,450,2,1,1,Apartment / Unit / Flat,-37.0,145.0
+603,ST KILDA 11/23 Robe Street VIC 3182,310,1,1,0,Apartment / Unit / Flat,-37.8633,144.9802
+604,ASHBURTON G01/313 High Street VIC 3147,525,2,1,1,Apartment / Unit / Flat,-37.8626,145.0794
+605,DOCKLANDS S3209/231 Harbour Esplanade VIC 3008,495,1,1,1,Apartment / Unit / Flat,-37.8149,144.9505
+606,KEW EAST 1/15 Munro St VIC 3102,620,2,2,1,Apartment / Unit / Flat,-37.7976,145.0538
+607,FOOTSCRAY 1/32 Macpherson Street VIC 3011,385,1,1,1,Apartment / Unit / Flat,-37.7995,144.8963
+608,GLEN HUNTLY 3/10 Roseberry Grove VIC 3163,360,2,1,2,Apartment / Unit / Flat,-37.8895,145.0581
+609,FOOTSCRAY 3/32 Macpherson Street VIC 3011,375,1,1,1,Apartment / Unit / Flat,-37.7995,144.8963
+610,FOOTSCRAY 6/32 Macpherson Street VIC 3011,355,1,1,1,Apartment / Unit / Flat,-37.7995,144.8963
+611,HAWTHORN 10/45 Church Street VIC 3122,415,2,1,1,Apartment / Unit / Flat,-37.8199,145.0358
+612,ELSTERNWICK 6/65 Clarence Street VIC 3185,450,2,1,1,Apartment / Unit / Flat,-37.8984,145.0088
+613,ST KILDA EAST 9/22 Crimea Street VIC 3183,310,1,1,1,Apartment / Unit / Flat,-37.8692,144.9977
+614,SOUTH YARRA 4/44 Walsh Street VIC 3141,700,2,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+615,CAULFIELD 6/667 Glenhuntly Road VIC 3162,460,2,1,1,Apartment / Unit / Flat,-37.8914,145.0254
+616,KEW 25/380 High Street VIC 3101,620,3,2,1,Apartment / Unit / Flat,-37.8064,145.0309
+617,NORTH MELBOURNE 2/352-362 Victoria Street VIC 3051,330,1,1,0,Apartment / Unit / Flat,-37.8029,144.9482
+618,PRAHRAN 4/36 Aberdeen Road VIC 3181,400,2,1,1,Apartment / Unit / Flat,-37.853,144.9929
+619,RICHMOND 24/24 Tanner Street VIC 3121,650,2,1,1,Apartment / Unit / Flat,-37.8271,145.0064
+620,BENTLEIGH G06/261 Centre Road VIC 3204,385,1,1,1,Apartment / Unit / Flat,46.3375,15.2264
+621,HAWTHORN EAST 11/2 Freeman St VIC 3123,275,1,1,0,Apartment / Unit / Flat,-37.822268,145.0521513
+622,GEELONG WEST 6/48 Gordon Avenue VIC 3218,450,2,1,1,Apartment / Unit / Flat,-38.1343,144.3241
+623,GLEN IRIS Level 1/1475A Malvern Road VIC 3146,450,3,1,1,Apartment / Unit / Flat,-37.8599,145.0549
+624,PORT MELBOURNE 4/42 Princes Street VIC 3207,800,2,1,1,Apartment / Unit / Flat,-37.8329,144.922
+625,RICHMOND 2/2-6 Docker St VIC 3121,325,1,1,1,Apartment / Unit / Flat,-37.8271,145.0064
+626,ELWOOD 6/169 Ormond Road VIC 3184,330,1,1,0,Apartment / Unit / Flat,-37.8809,144.9855
+627,SURREY HILLS 2/969 Riversdale Road VIC 3127,460,2,1,1,Apartment / Unit / Flat,-37.8128,145.1043
+628,FITZROY NORTH 1S/378-390 St Georges Road VIC 3068,460,1,1,1,Apartment / Unit / Flat,-37.7865,144.9897
+629,FITZROY NORTH 1B/378-390 St Georges Road VIC 3068,470,1,1,1,Apartment / Unit / Flat,-37.7865,144.9897
+630,MELBOURNE 925/555 Flinders Street VIC 3000,500,2,2,1,Apartment / Unit / Flat,45.5916,14.1546
+631,RICHMOND 402/229 Bridge Road VIC 3121,450,2,1,1,Apartment / Unit / Flat,-37.8271,145.0064
+632,KEW G09/59 Earl Street VIC 3101,420,2,1,1,Apartment / Unit / Flat,-37.8064,145.0309
+633,CAULFIELD NORTH 6/11 Kooyong Road VIC 3161,395,1,1,1,Apartment / Unit / Flat,-37.8720234,145.0177277
+634,SURREY HILLS 1/5 Montrose Street VIC 3127,620,2,2,2,Apartment / Unit / Flat,-37.8128,145.1043
+635,ST KILDA EAST 11/30 Westbury Street VIC 3183,320,1,1,1,Apartment / Unit / Flat,-37.8692,144.9977
+636,HAWTHORN 5/45 Evansdale Road VIC 3122,485,2,1,1,Apartment / Unit / Flat,-37.8199,145.0358
+637,CAULFIELD NORTH 2/470 Glen Eira Road VIC 3161,570,3,1,2,Apartment / Unit / Flat,-37.880679,145.0284873
+638,CARNEGIE R/1134 Dandenong Road VIC 3163,200,1,1,0,Apartment / Unit / Flat,-37.8895,145.0581
+639,BRIGHTON 24/18 Cochrane Street VIC 3186,410,2,1,1,Apartment / Unit / Flat,-37.9057,145.0067
+640,CARNEGIE 106/2 Morton Avenue VIC 3163,495,2,2,1,Apartment / Unit / Flat,-37.8895,145.0581
+641,TOORAK 5/693 Malvern Rd VIC 3142,540,2,1,1,Apartment / Unit / Flat,-37.8416,145.0177
+642,SOUTH YARRA 9/22A Rockley Road VIC 3141,375,1,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+643,HAWTHORN EAST 509/30-32 Lilydale Grove VIC 3123,90,1,1,1,Apartment / Unit / Flat,-37.8248,145.0464
+644,GEELONG WEST 9/50 Bowlers Avenue VIC 3218,450,1,1,1,Apartment / Unit / Flat,-38.1343,144.3241
+645,HAWTHORN 3/11 Austin Street VIC 3122,435,2,1,0,Apartment / Unit / Flat,-37.8199,145.0358
+646,ST KILDA 201/7 Brighton Road VIC 3182,420,2,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+647,DOCKLANDS 1401N/889 Collins St VIC 3008,590,2,1,1,Apartment / Unit / Flat,-37.8149,144.9505
+648,MALVERN EAST 708B Waverley Road VIC 3145,550,2,1,1,Apartment / Unit / Flat,-37.874,145.0425
+649,MELBOURNE 3604/568 Collins Street VIC 3000,550,2,2,1,Apartment / Unit / Flat,45.5916,14.1546
+650,BRIGHTON EAST 2/14 Palmer Avenue VIC 3187,370,2,1,1,Apartment / Unit / Flat,-37.9014,145.0188
+651,MELBOURNE 711/500 Flinders Street VIC 3000,250,1,1,0,Apartment / Unit / Flat,45.5916,14.1546
+652,HUGHESDALE 1/9 Hotham Street VIC 3166,520,4,2,1,Apartment / Unit / Flat,-37.8995,145.0811
+653,CHADSTONE 2/20 Thurloo Street VIC 3148,480,2,1,1,Apartment / Unit / Flat,-37.8833,145.1167
+654,ARMADALE 303/835 High Street VIC 3143,1100,2,2,1,Apartment / Unit / Flat,-37.85,145.0333
+655,SOUTH YARRA 19/43 Caroline Street VIC 3141,370,1,1,0,Apartment / Unit / Flat,-37.8333,144.9833
+656,FOOTSCRAY 2/23-25 Steet Street VIC 3011,325,2,1,1,Apartment / Unit / Flat,-37.7995,144.8963
+657,ST KILDA 15/18 Princes Street VIC 3182,565,2,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+658,EAST MELBOURNE 2/8 Wellington Crescent VIC 3002,750,2,2,2,Apartment / Unit / Flat,-37.8167,144.9879
+659,SOUTH MELBOURNE 316/253 Normanby Road VIC 3205,530,1,1,0,Apartment / Unit / Flat,46.3817,15.2958
+660,SOUTHBANK 1103/33 Clarke Street VIC 3006,350,1,1,0,Apartment / Unit / Flat,-37.8228,144.9643
+661,MCKINNON 2/21 Hopkins Street VIC 3204,630,3,2,1,Apartment / Unit / Flat,46.3375,15.2264
+662,BRUNSWICK 603/611 Sydney Road VIC 3056,420,1,1,1,Apartment / Unit / Flat,-37.7667,144.9667
+663,FITZROY NORTH 51/378-390 St Georges Road VIC 3068,450,1,1,1,Apartment / Unit / Flat,-37.7865,144.9897
+664,ELWOOD 103/51 Ormond Esplanade VIC 3184,550,1,1,1,Apartment / Unit / Flat,-37.8809,144.9855
+665,SOUTHBANK 5/116 Dodds Street VIC 3006,675,3,1,1,Apartment / Unit / Flat,-37.8228,144.9643
+666,MELBOURNE 2807/81 Abeckett Street VIC 3000,650,2,1,0,Apartment / Unit / Flat,45.5916,14.1546
+667,ASHBURTON 2A St Georges Cres VIC 3147,380,2,1,2,Apartment / Unit / Flat,-37.8626,145.0794
+668,EAST MELBOURNE Unit 101/170 Albert St VIC 3002,435,1,1,1,Apartment / Unit / Flat,-37.8167,144.9879
+669,COLLINGWOOD 703/75 Wellington St VIC 3066,600,2,1,1,Apartment / Unit / Flat,-37.8,144.9833
+670,PORT MELBOURNE 207/107 Beach Street VIC 3207,820,2,2,1,Apartment / Unit / Flat,-37.8329,144.922
+671,CARNEGIE 11/2 Belsize Avenue VIC 3163,495,2,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+672,FITZROY NORTH 2S/378-390 St Georges Road VIC 3068,585,2,2,1,Apartment / Unit / Flat,-37.7865,144.9897
+673,HAWTHORN EAST 9/26 Auburn Grove VIC 3123,380,2,1,1,Apartment / Unit / Flat,-37.8248,145.0464
+674,ST KILDA WEST 21/313 Beaconsfield Parade VIC 3182,450,1,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+675,ST KILDA 1/27 Eildon Road VIC 3182,625,2,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+676,CARLTON 915/528 Swanston Street VIC 3053,350,1,1,0,Apartment / Unit / Flat,-37.8004,144.9684
+677,ST KILDA 318/181 Fitzroy Street VIC 3182,580,1,1,0,Apartment / Unit / Flat,-37.8633,144.9802
+678,ARMADALE 10 Mercer Way VIC 3143,670,2,1,2,Apartment / Unit / Flat,-37.85,145.0333
+679,HAWTHORN 1/42a Hawthorn Grove VIC 3122,450,2,1,1,Apartment / Unit / Flat,-37.8199,145.0358
+680,SOUTHBANK 2410/45 Haig Street VIC 3006,495,1,1,1,Apartment / Unit / Flat,-37.8228,144.9643
+681,RICHMOND 106/36 Regent Street VIC 3121,620,2,2,1,Apartment / Unit / Flat,-37.8271,145.0064
+682,BALACLAVA 7/127 Hotham Street VIC 3183,440,2,1,1,Apartment / Unit / Flat,-37.8692,144.9977
+683,CAMBERWELL 423/347 Camberwell Rd VIC 3124,375,1,1,1,Apartment / Unit / Flat,-37.8248,145.0705
+684,BRIGHTON EAST 4/16 Clive Street VIC 3187,370,2,1,0,Apartment / Unit / Flat,-37.9014,145.0188
+685,MELBOURNE 5003/464-466 Collins Street VIC 3000,550,1,1,1,Apartment / Unit / Flat,45.5916,14.1546
+686,SOUTH MELBOURNE 605/51 Thislethwaite Street VIC 3205,600,2,2,1,Apartment / Unit / Flat,46.3817,15.2958
+687,NEWPORT 13/114 Mason Street VIC 3015,400,2,1,1,Apartment / Unit / Flat,-37.8302,144.8709
+688,MCKINNON 1/21 Hopkins Street VIC 3204,700,3,2,2,Apartment / Unit / Flat,46.3375,15.2264
+689,CLAYTON SOUTH 3A Maltarra Street VIC 3169,460,3,1,1,Apartment / Unit / Flat,-37.9431,145.106
+690,MIDDLE PARK 22/109 Nimmo Street VIC 3206,475,1,1,0,Apartment / Unit / Flat,46.3636,15.3653
+691,HIGHETT 3/21 Tibrockney Street VIC 3190,350,2,1,1,Apartment / Unit / Flat,-37.9517,145.0394
+692,MELBOURNE 1312/35 Albert Rd VIC 3004,570,2,2,1,Apartment / Unit / Flat,-37.814,144.9633
+693,ELWOOD 6/39 Southey Street VIC 3184,320,1,1,1,Apartment / Unit / Flat,-37.8809,144.9855
+694,KEW 7/8-10 James Avenue VIC 3101,330,1,1,1,Apartment / Unit / Flat,-37.8064,145.0309
+695,ABBOTSFORD 220/631 Victoria Street VIC 3067,625,2,2,1,Apartment / Unit / Flat,-37.8046,144.9998
+696,HAMLYN HEIGHTS 3/30 Logan Street VIC 3215,470,3,1,1,Apartment / Unit / Flat,46.283,15.258
+697,HAWTHORN EAST 7/161 Victoria Road VIC 3123,500,2,1,1,Apartment / Unit / Flat,-37.8248,145.0464
+698,CAULFIELD NORTH 7/56 Kooyong Road VIC 3161,500,2,1,1,Apartment / Unit / Flat,-37.8720234,145.0177277
+699,NORTH MELBOURNE 607/3 - 11 High St VIC 3051,280,1,1,0,Apartment / Unit / Flat,-37.8029,144.9482
+700,SOUTH YARRA 2/274A Domain Road VIC 3141,380,1,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+701,MELBOURNE 104/12 Queens Road VIC 3004,440,1,1,1,Apartment / Unit / Flat,-37.814,144.9633
+702,ST KILDA EAST 7/13 Hughenden Road VIC 3183,460,2,1,1,Apartment / Unit / Flat,-37.8692,144.9977
+703,MELBOURNE 3108/500 Elizabeth St VIC 3000,410,1,1,0,Apartment / Unit / Flat,45.5916,14.1546
+704,HAMPTON 10/520 Hampton Street VIC 3188,425,1,1,1,Apartment / Unit / Flat,-37.9374,145.0151
+705,BALWYN 10/3 Boston Road VIC 3103,450,2,1,1,Apartment / Unit / Flat,-37.8117,145.081
+706,ST KILDA 701/18 Grey Street VIC 3182,620,2,2,1,Apartment / Unit / Flat,-37.8633,144.9802
+707,SOUTH YARRA 1/12 Darling Street VIC 3141,550,2,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+708,KEW EAST 101/1377 Burke Road VIC 3102,460,2,2,1,Apartment / Unit / Flat,-37.7976,145.0538
+709,PARKVILLE 12 Yates Lane VIC 3052,780,3,2,1,Apartment / Unit / Flat,-37.7603,144.9502
+710,WEST MELBOURNE 322/23 Batman Street VIC 3003,400,1,1,0,Apartment / Unit / Flat,-37.8101,144.95
+711,ST KILDA EAST 5/1 Ardoch Avenue VIC 3183,575,2,1,1,Apartment / Unit / Flat,-37.8692,144.9977
+712,GLEN IRIS 6/1544 Malvern Road VIC 3146,395,2,1,0,Apartment / Unit / Flat,-37.8599,145.0549
+713,SOUTH YARRA 3/2 Tivoli Place VIC 3141,450,2,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+714,SOUTHBANK 2503/245 City Road VIC 3006,525,2,2,0,Apartment / Unit / Flat,-37.8228,144.9643
+715,HAMPTON 4/519 Hampton St VIC 3188,480,2,1,1,Apartment / Unit / Flat,-37.9374,145.0151
+716,NEWPORT 7/58 Mason Street VIC 3015,380,2,1,1,Apartment / Unit / Flat,-37.8302,144.8709
+717,KEW 3/18 Gladstone Street VIC 3101,420,2,1,1,Apartment / Unit / Flat,-37.8064,145.0309
+718,SOUTH YARRA 1/4 Coolullah Avenue VIC 3141,600,2,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+719,MCKINNON 5/2 Capitol Avenue VIC 3204,480,2,1,1,Apartment / Unit / Flat,46.3375,15.2264
+720,DEEPDENE 15/31 Barnsbury Road VIC 3103,400,2,1,1,Apartment / Unit / Flat,-37.8117,145.081
+721,ARMADALE 104/959 High Street VIC 3143,770,2,2,2,Apartment / Unit / Flat,-37.85,145.0333
+722,BRUNSWICK 11/170 Albion Street VIC 3056,510,2,1,1,Apartment / Unit / Flat,-37.7667,144.9667
+723,FLEMINGTON 7/2 Newmarket Way VIC 3031,440,2,2,1,Apartment / Unit / Flat,-37.7899,144.9226
+724,ELWOOD 4/111 Ruskin Street VIC 3184,685,2,2,1,Apartment / Unit / Flat,-37.8809,144.9855
+725,MELBOURNE 19/73 Queens Road VIC 3004,580,2,2,1,Apartment / Unit / Flat,-37.814,144.9633
+726,IVANHOE 4/45 St Elmo Road VIC 3079,390,2,1,1,Apartment / Unit / Flat,-37.769,145.0431
+727,MALVERN 12/1325 High Street VIC 3144,495,2,1,1,Apartment / Unit / Flat,-37.8512,145.0317
+728,BRUNSWICK WEST 702/1 Olive York Way VIC 3055,380,1,1,1,Apartment / Unit / Flat,-37.7603,144.9502
+729,FITZROY NORTH 211/392 St Georges Road VIC 3068,460,1,1,1,Apartment / Unit / Flat,-37.7865,144.9897
+730,HAWTHORN EAST 210B /55 Camberwell Road VIC 3123,600,2,2,1,Apartment / Unit / Flat,-37.8248,145.0464
+731,PRAHRAN 2/76 Williams Road VIC 3181,500,2,1,2,Apartment / Unit / Flat,-37.853,144.9929
+732,SOUTH YARRA 7/371 Toorak Road VIC 3141,1050,4,2,2,Apartment / Unit / Flat,-37.8333,144.9833
+733,ELWOOD 7/56 Byron Street VIC 3184,320,1,1,1,Apartment / Unit / Flat,-37.8809,144.9855
+734,BOX HILL 602/9-11 Ellingworth Parade VIC 3128,480,2,1,1,Apartment / Unit / Flat,-37.8256,145.1232
+735,CLAYTON SOUTH 2/4 Sydney Street VIC 3169,425,2,1,1,Apartment / Unit / Flat,-37.9431,145.106
+736,ELWOOD 16/197 Brighton Road VIC 3184,370,1,1,1,Apartment / Unit / Flat,-37.8809,144.9855
+737,MALVERN EAST 1/97 Chadstone Road VIC 3145,470,3,1,1,Apartment / Unit / Flat,-37.874,145.0425
+738,ST KILDA 6/9 Eildon Road VIC 3182,430,1,1,0,Apartment / Unit / Flat,-37.8633,144.9802
+739,SOUTHBANK 901/109 Clarendon Street VIC 3006,410,1,1,0,Apartment / Unit / Flat,-37.8228,144.9643
+740,SOUTH MELBOURNE 57 Emerald Hill VIC 3205,720,3,1,1,Apartment / Unit / Flat,-37.8398149,144.9549272
+741,ABBOTSFORD 225/4 Acacia Place VIC 3067,420,1,1,1,Apartment / Unit / Flat,-37.8046,144.9998
+742,BENTLEIGH 108/79-83 Mitchell Street VIC 3204,525,2,2,1,Apartment / Unit / Flat,46.3375,15.2264
+743,MIDDLE PARK 5/90 Hambleton Street VIC 3206,365,1,1,1,Apartment / Unit / Flat,46.3636,15.3653
+744,MELBOURNE 908/500 Flinders Street VIC 3000,200,1,1,0,Apartment / Unit / Flat,45.5916,14.1546
+745,HAWTHORN EAST 313/757 Toorak Road VIC 3123,540,2,2,1,Apartment / Unit / Flat,-37.8248,145.0464
+746,ST KILDA 2601/14-16 The Esplanade VIC 3182,2700,3,2,2,Apartment / Unit / Flat,-37.8633,144.9802
+747,SURREY HILLS 2/31 Guildford Road VIC 3127,520,2,1,2,Apartment / Unit / Flat,-37.8128,145.1043
+748,NORTH MELBOURNE 102/11 Stawell Street VIC 3051,380,1,1,1,Apartment / Unit / Flat,-37.8029,144.9482
+749,OAKLEIGH 2/21 Logie Street VIC 3166,599,3,1,2,Apartment / Unit / Flat,-37.8995,145.0811
+750,RINGWOOD 2/24 Bond Street VIC 3134,370,2,1,1,Apartment / Unit / Flat,-37.7667,145.25
+751,HAWTHORN EAST 301/469 Riversdale Road VIC 3123,895,2,2,2,Apartment / Unit / Flat,-37.8248,145.0464
+752,MALVERN EAST 10/50-52 Tennyson Street VIC 3145,525,3,1,1,Apartment / Unit / Flat,-37.874,145.0425
+753,OAKLEIGH 1/21 Logie Street VIC 3166,750,4,2,4,Apartment / Unit / Flat,-37.8995,145.0811
+754,ESSENDON NORTH 40/100 Keilor Road VIC 3041,380,2,2,1,Apartment / Unit / Flat,-37.7133,144.8969
+755,ELSTERNWICK 710B/455 Glen Huntly Road VIC 3185,830,3,2,2,Apartment / Unit / Flat,-37.8984,145.0088
+756,BENTLEIGH 1/148 Tucker Road VIC 3204,470,2,2,1,Apartment / Unit / Flat,46.3375,15.2264
+757,CHELTENHAM 8/131 Cavanagh Street VIC 3192,340,2,1,1,Apartment / Unit / Flat,-37.9694,145.0481
+758,HAWTHORN EAST 124D / 55 Camberwell Road VIC 3123,625,2,2,1,Apartment / Unit / Flat,-37.8248,145.0464
+759,DOCKLANDS 805/103 South Wharf Drive VIC 3008,630,2,1,1,Apartment / Unit / Flat,-37.8149,144.9505
+760,ST KILDA WEST 7/206 Canterbury Road VIC 3182,330,1,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+761,ST KILDA EAST 5/6 Wando Grove VIC 3183,750,3,1,2,Apartment / Unit / Flat,-37.8692,144.9977
+762,OAKLEIGH 501/19-21 Hanover Street VIC 3166,370,1,1,1,Apartment / Unit / Flat,-37.8995,145.0811
+763,BRUNSWICK EAST 511/22 Barkly Street VIC 3057,385,1,1,1,Apartment / Unit / Flat,-37.7603,144.9502
+764,NORTH MELBOURNE 26/171 Flemington Road VIC 3051,350,1,1,2,Apartment / Unit / Flat,-37.8029,144.9482
+765,CAMBERWELL 324/347 Camberwell Road VIC 3124,450,2,1,1,Apartment / Unit / Flat,-37.8248,145.0705
+766,NORTH MELBOURNE 308/11 Stawell Street VIC 3051,500,2,1,1,Apartment / Unit / Flat,-37.8029,144.9482
+767,"WEST MELBOURNE Level 2, 208/16 Anderson Street VIC 3003",390,1,1,0,Apartment / Unit / Flat,-37.8049913,144.94188
+768,KENSINGTON 507/60 Speakmen Street VIC 3031,420,2,1,1,Apartment / Unit / Flat,-37.7899,144.9226
+769,MORDIALLOC 106/5 Bear Street VIC 3195,360,1,1,1,Apartment / Unit / Flat,-37.9995,145.1163
+770,MOORABBIN 412/6 Station Street VIC 3189,420,2,1,1,Apartment / Unit / Flat,-37.9415,145.0578
+771,MOORABBIN 402/6 Station St VIC 3189,440,2,1,1,Apartment / Unit / Flat,-37.9415,145.0578
+772,REDAN 2/112 Lonsdale Street VIC 3350,310,2,1,0,Apartment / Unit / Flat,-37.5292,143.8591
+773,PORT MELBOURNE 105/52 Dow Street VIC 3207,425,1,1,1,Apartment / Unit / Flat,-37.8329,144.922
+774,CLAYTON 1/14 Alice St VIC 3168,620,3,2,2,Apartment / Unit / Flat,-37.9167,145.1333
+775,MORDIALLOC 4/2 Woods Avenue VIC 3195,360,1,1,1,Apartment / Unit / Flat,-37.9995,145.1163
+776,BRUNSWICK 304/5 Duckett Street VIC 3056,695,2,1,0,Apartment / Unit / Flat,-37.7667,144.9667
+777,PORT MELBOURNE 18/156 Bay Street VIC 3207,1650,3,2,3,Apartment / Unit / Flat,-37.8329,144.922
+778,ASPENDALE GARDENS 1/3 McIntosh Court VIC 3195,410,2,1,1,Apartment / Unit / Flat,-37.9995,145.1163
+779,WENDOUREE 4/52 Hastings Street VIC 3355,280,2,1,0,Apartment / Unit / Flat,-37.5314,143.8286
+780,PORT MELBOURNE 108/1 Danks Street VIC 3207,495,2,1,1,Apartment / Unit / Flat,-37.8329,144.922
+781,MORDIALLOC 1/25 John Street VIC 3195,400,2,1,1,Apartment / Unit / Flat,-37.9995,145.1163
+782,ELWOOD 2/4-6 Kingsley Street VIC 3184,490,2,1,1,Apartment / Unit / Flat,-37.8809,144.9855
+783,ST KILDA 101/34 Fitzroy Street VIC 3182,2000,3,2,1,Apartment / Unit / Flat,-37.8633,144.9802
+784,CAMBERWELL G01/1011 Toorak Road VIC 3124,380,1,1,1,Apartment / Unit / Flat,-37.8248,145.0705
+785,BORONIA 3/31 Cypress Avenue VIC 3155,370,2,1,1,Apartment / Unit / Flat,-37.8667,145.2833
+786,WINDSOR 2/1A Peel Street VIC 3181,550,2,2,1,Apartment / Unit / Flat,-37.853,144.9929
+787,DOCKLANDS 808/60 Lorimer Street VIC 3008,600,1,1,1,Apartment / Unit / Flat,-37.8149,144.9505
+788,DOCKLANDS 3704/90 Lorimer Street VIC 3008,700,2,1,2,Apartment / Unit / Flat,-37.8149,144.9505
+789,DOCKLANDS 1406/81 South Wharf Drive VIC 3008,750,2,2,1,Apartment / Unit / Flat,-37.8149,144.9505
+790,BOX HILL 4/7-9 Archibald Street VIC 3128,400,2,2,1,Apartment / Unit / Flat,-37.8256,145.1232
+791,BOX HILL 13/32-34 Albion Road VIC 3128,360,2,1,1,Apartment / Unit / Flat,-37.8256,145.1232
+792,CARLTON 20/75 Drummond Street VIC 3053,650,2,1,1,Apartment / Unit / Flat,-37.8004,144.9684
+793,SOUTHBANK 802/33 Clarke Street VIC 3006,320,1,1,0,Apartment / Unit / Flat,-37.8228,144.9643
+794,WINDSOR 208/1a Peel Street VIC 3181,410,1,1,1,Apartment / Unit / Flat,-37.853,144.9929
+795,FITZROY 8/130 Nicholson Street VIC 3065,340,1,1,0,Apartment / Unit / Flat,-37.7984,144.9783
+796,PORT MELBOURNE 405/65 Beach Street VIC 3207,1200,3,2,2,Apartment / Unit / Flat,-37.8329,144.922
+797,PARKVILLE 12/196 The Avenue VIC 3052,410,1,1,1,Apartment / Unit / Flat,-37.7603,144.9502
+798,MELBOURNE 22/187 Collins Street VIC 3000,400,1,1,0,Apartment / Unit / Flat,45.5916,14.1546
+799,NORTH MELBOURNE 18/55 Haines Street VIC 3051,415,2,1,0,Apartment / Unit / Flat,-37.8029,144.9482
+800,SOUTH MELBOURNE 1/1 Anderson Street VIC 3205,550,1,1,1,Apartment / Unit / Flat,46.3817,15.2958
+801,HAWTHORN 31/168 Power Street VIC 3122,360,1,1,1,Apartment / Unit / Flat,-37.8199,145.0358
+802,NORTH MELBOURNE 125/68 Leveson Street VIC 3051,430,1,1,1,Apartment / Unit / Flat,-37.8029,144.9482
+803,GLENROY 1/21 Morell Street VIC 3046,600,3,1,2,Apartment / Unit / Flat,-37.7,144.9333
+804,MELBOURNE 6/410 Queen Street VIC 3000,695,3,2,1,Apartment / Unit / Flat,45.5916,14.1546
+805,MELBOURNE 508/616 Little Collins Street Street VIC 3000,500,2,1,0,Apartment / Unit / Flat,45.5916,14.1546
+806,MORDIALLOC G03/55-57 Barkly Street VIC 3195,410,1,1,1,Apartment / Unit / Flat,-37.9995,145.1163
+807,MORDIALLOC 8/13 Barkly Street VIC 3195,480,2,1,2,Apartment / Unit / Flat,-37.9995,145.1163
+808,MOORABBIN 1/17 Central Ave VIC 3189,485,2,1,2,Apartment / Unit / Flat,-37.9415,145.0578
+809,MELBOURNE 305/594 St Kilda Road VIC 3000,610,2,2,1,Apartment / Unit / Flat,45.5916,14.1546
+810,BALLARAT CENTRAL 2/6 Bath Lane VIC 3350,500,2,1,1,Apartment / Unit / Flat,-37.5292,143.8591
+811,ABBOTSFORD H307/12 Trenerry Crescent VIC 3067,390,1,1,1,Apartment / Unit / Flat,-37.8046,144.9998
+812,ELWOOD 7/4-6 Kingsley Street VIC 3184,475,2,1,1,Apartment / Unit / Flat,-37.8809,144.9855
+813,PORT MELBOURNE 410A/3 Tarver Street VIC 3207,600,2,1,1,Apartment / Unit / Flat,-37.8329,144.922
+814,PRAHRAN 210/18-30 Chatham Street VIC 3181,355,1,1,0,Apartment / Unit / Flat,-37.853,144.9929
+815,ST KILDA 308/181 Fitzroy Street VIC 3182,500,2,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+816,FITZROY 203/424 Gore Street VIC 3065,620,2,1,1,Apartment / Unit / Flat,-37.7984,144.9783
+817,TOORAK 10/49 Grange Road VIC 3142,495,2,1,1,Apartment / Unit / Flat,-37.8416,145.0177
+818,MOONEE PONDS 3/26 Hopetoun Street VIC 3039,470,2,1,1,Apartment / Unit / Flat,-37.7667,144.9167
+819,MELBOURNE 7/7 Drewery Lane VIC 3000,650,2,2,1,Apartment / Unit / Flat,45.5916,14.1546
+820,PARKDALE 3/219 Como Parade East VIC 3195,300,1,1,1,Apartment / Unit / Flat,-37.9995,145.1163
+821,BENTLEIGH 303/277-279 Centre Road VIC 3204,575,2,2,2,Apartment / Unit / Flat,46.3375,15.2264
+822,SOUTH MELBOURNE 2205/89 Gladstone Street VIC 3205,520,2,2,1,Apartment / Unit / Flat,46.3817,15.2958
+823,WILLIAMSTOWN 77A Ferguson Street VIC 3016,475,2,1,0,Apartment / Unit / Flat,-37.857,144.8977
+824,EAST MELBOURNE 303V/162 Albert Street VIC 3002,485,2,1,1,Apartment / Unit / Flat,-37.8167,144.9879
+825,MORDIALLOC 4/114 Warren Road VIC 3195,425,2,1,2,Apartment / Unit / Flat,-37.9995,145.1163
+826,MAIDSTONE 1/101 Ballarat Road VIC 3012,315,2,1,1,Apartment / Unit / Flat,-37.8302,144.8709
+827,BORONIA 5/12 Valerie Street VIC 3155,450,3,2,2,Apartment / Unit / Flat,-37.8667,145.2833
+828,RESERVOIR 1/117 Purinuan Road VIC 3073,400,3,2,1,Apartment / Unit / Flat,-37.7167,145.0
+829,PRESTON 603/9 High Street VIC 3072,370,2,1,1,Apartment / Unit / Flat,-37.75,145.0167
+830,PRESTON 1/22 High Street VIC 3072,380,2,1,1,Apartment / Unit / Flat,-37.75,145.0167
+831,CARLTON 540A Drummond Street VIC 3053,435,1,1,1,Apartment / Unit / Flat,-37.8004,144.9684
+832,WILLIAMSTOWN 203/133 Railway Place VIC 3016,490,2,1,1,Apartment / Unit / Flat,-37.857,144.8977
+833,WARRAGUL 2/73A Smith Street VIC 3820,1434,2,1,1,Apartment / Unit / Flat,-38.1591,145.9312
+834,PAKENHAM 5/23 Main Street VIC 3810,380,2,1,1,Apartment / Unit / Flat,-38.1333,145.5167
+835,BEAUMARIS 10/182 Weatherall Road VIC 3193,440,2,1,1,Apartment / Unit / Flat,-37.9736,145.0164
+836,WODONGA 2/48 Acacia Crescent VIC 3690,300,2,1,1,Apartment / Unit / Flat,-36.0997,146.802
+837,CARLTON NORTH 1/172 Princes Street VIC 3054,550,2,1,1,Apartment / Unit / Flat,-37.7866,144.9685
+838,GLENROY 3/16 Ogden Street VIC 3046,440,2,1,1,Apartment / Unit / Flat,-37.7,144.9333
+839,HAWTHORN 101/22 Findon Street VIC 3122,450,2,1,1,Apartment / Unit / Flat,-37.8199,145.0358
+840,WILLIAMSTOWN 27/18 Station Road VIC 3016,400,2,1,1,Apartment / Unit / Flat,-37.857,144.8977
+841,TANGAMBALANGA 5/2 Kiewa East Road VIC 3691,190,2,1,1,Apartment / Unit / Flat,46.51367,9.13501
+842,FOOTSCRAY 4 Cirque Drive VIC 3011,300,1,1,0,Apartment / Unit / Flat,-37.7995,144.8963
+843,SANDRINGHAM 324/18 Station Street VIC 3191,350,1,1,1,Apartment / Unit / Flat,-37.95,145.0
+844,CARRUM DOWNS 2/25 Lats Avenue VIC 3201,400,2,1,1,Apartment / Unit / Flat,46.2945,15.2431
+845,SUNSHINE NORTH 3/57 Phoenix Street VIC 3020,220,1,1,0,Apartment / Unit / Flat,-37.775,144.8333
+846,MENTONE 5/130 Warrigal Road VIC 3194,380,2,1,1,Apartment / Unit / Flat,-37.9833,145.0667
+847,SOUTH YARRA 4/2-6 Caroline Street South VIC 3141,295,1,1,0,Apartment / Unit / Flat,-37.8333,144.9833
+848,NORTHCOTE 1/30 Aberdeen Grove VIC 3070,295,1,1,1,Apartment / Unit / Flat,-37.7667,145.0
+849,MARIBYRNONG 3/61 Wests Road VIC 3032,370,2,1,1,Apartment / Unit / Flat,-37.7808,144.9354
+850,RINGWOOD EAST 2/14 Lois Street VIC 3135,410,3,1,1,Apartment / Unit / Flat,-37.8213,145.2489
+851,WERRIBEE 2/137 Market Road VIC 3030,340,3,2,1,Apartment / Unit / Flat,-37.8887,144.726
+852,STRATHMORE 2/467 Pascoe Vale Road VIC 3041,400,2,1,1,Apartment / Unit / Flat,-37.7133,144.8969
+853,ST KILDA EAST 3/50 Wilgah Street VIC 3183,395,2,1,1,Apartment / Unit / Flat,-37.8692,144.9977
+854,PORT MELBOURNE 4/76 Crockford Street VIC 3207,330,1,1,1,Apartment / Unit / Flat,-37.8329,144.922
+855,ELWOOD 7/30 Mitford Street VIC 3184,380,1,1,0,Apartment / Unit / Flat,-37.8809,144.9855
+856,ENDEAVOUR HILLS 217A Power Road VIC 3802,380,3,1,1,Apartment / Unit / Flat,-37.977,145.2587
+857,WEST MELBOURNE 202/87-89 Roden Street VIC 3003,575,2,2,1,Apartment / Unit / Flat,-37.8101,144.95
+858,PRESTON 3/11 Mihil Street VIC 3072,475,2,1,1,Apartment / Unit / Flat,-37.75,145.0167
+859,CARNEGIE G09/33 Belsize Avenue VIC 3163,420,1,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+860,HOPPERS CROSSING 5/6-8 Willmott Drive VIC 3029,295,2,1,0,Apartment / Unit / Flat,-37.885012,144.688335
+861,FITZROY NORTH 14/272 Barkly Street VIC 3068,420,2,1,1,Apartment / Unit / Flat,-37.7865,144.9897
+862,CHIRNSIDE PARK 3/9 El Centro VIC 3116,390,2,1,1,Apartment / Unit / Flat,-37.7386,145.3143
+863,WERRIBEE 11/2-6 Kelly Street VIC 3030,300,1,1,1,Apartment / Unit / Flat,-37.8887,144.726
+864,ASCOT VALE 8/103 The Parade VIC 3032,420,2,1,1,Apartment / Unit / Flat,-37.7808,144.9354
+865,FOOTSCRAY 2/20 Empire Street VIC 3011,300,2,1,1,Apartment / Unit / Flat,-37.7995,144.8963
+866,FLEMINGTON 11/7 Waltham Street VIC 3031,330,1,1,1,Apartment / Unit / Flat,-37.7899,144.9226
+867,MITCHAM 3/19 Orient Ave VIC 3132,450,3,1,2,Apartment / Unit / Flat,-37.8182,145.199
+868,NORTH MELBOURNE 117a flemington Road VIC 3051,530,2,1,0,Apartment / Unit / Flat,-37.8029,144.9482
+869,ST KILDA WEST 1/34 Longmore Street VIC 3182,300,1,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+870,SOUTHBANK 907/250 St Kilda Road VIC 3006,1300,3,2,2,Apartment / Unit / Flat,-37.8228,144.9643
+871,PARKDALE 203/131 Parkers Road VIC 3195,460,2,1,1,Apartment / Unit / Flat,-37.9995,145.1163
+872,ESSENDON 1/11 Fitzgerald Road VIC 3040,305,1,1,1,Apartment / Unit / Flat,-37.7538,144.8883
+873,SOUTH MELBOURNE 507/2 Albert Road VIC 3205,550,1,1,1,Apartment / Unit / Flat,46.3817,15.2958
+874,CLAYTON 1/60 Stockdale Avenue VIC 3168,490,3,2,0,Apartment / Unit / Flat,-37.9167,145.1333
+875,NORTH MELBOURNE 7/49 Haines Street VIC 3051,350,2,1,1,Apartment / Unit / Flat,-37.8029,144.9482
+876,BRUNSWICK EAST U 2/321 Amess Street VIC 3057,350,2,1,1,Apartment / Unit / Flat,-37.7603,144.9502
+877,SOUTH MELBOURNE 72A Napier Street VIC 3205,575,2,2,1,Apartment / Unit / Flat,46.3817,15.2958
+878,SPRINGVALE 1/33 Royal Avenue VIC 3171,380,2,1,1,Apartment / Unit / Flat,-37.9457,145.1581
+879,SEABROOK 1/25 Point Cook Road VIC 3028,330,2,1,1,Apartment / Unit / Flat,-37.8809,144.7587
+880,MELBOURNE 3511/157 A'Beckett Street VIC 3000,680,2,2,0,Apartment / Unit / Flat,45.5916,14.1546
+881,THORNBURY 7/44 Woolton Avenue VIC 3071,365,2,1,1,Apartment / Unit / Flat,-37.7583,145.0051
+882,CARLTON 725/488 Swanston Street VIC 3053,360,2,1,0,Apartment / Unit / Flat,-37.8004,144.9684
+883,NORTHCOTE 2/8 Short Street VIC 3070,530,2,1,1,Apartment / Unit / Flat,-37.7667,145.0
+884,CROYDON 1/175 Maroondah Highway VIC 3136,390,2,1,1,Apartment / Unit / Flat,-37.7744,145.2756
+885,VERMONT 1/6 Short Street VIC 3133,400,2,1,2,Apartment / Unit / Flat,-37.8362,145.1943
+886,MARIBYRNONG 7/82 Raleigh Road VIC 3032,295,1,1,1,Apartment / Unit / Flat,-37.7808,144.9354
+887,GLEN HUNTLY 5/12 Rosedale Avenue VIC 3163,340,1,1,1,Apartment / Unit / Flat,-37.8895,145.0581
+888,CHELTENHAM 109/321 Charman Road VIC 3192,380,2,1,1,Apartment / Unit / Flat,-37.9694,145.0481
+889,BERWICK 5/7-8 Roseville Court VIC 3806,400,3,2,1,Apartment / Unit / Flat,-38.0,145.35
+890,BRUNSWICK WEST 2/380-382 Brunswick Road VIC 3055,350,2,1,1,Apartment / Unit / Flat,-37.7603,144.9502
+891,DROUIN 17/98 Lampard Road VIC 3818,415,3,2,2,Apartment / Unit / Flat,-38.1561,145.8431
+892,ALTONA MEADOWS 3/26-28 Balmoral Street South VIC 3028,320,2,1,1,Apartment / Unit / Flat,-37.8809,144.7587
+893,ESSENDON 4/242 Pascoe Vale Road VIC 3040,295,1,1,1,Apartment / Unit / Flat,-37.7538,144.8883
+894,FOOTSCRAY 8/55 Swan Street VIC 3011,220,1,1,0,Apartment / Unit / Flat,-37.7995,144.8963
+895,CHELSEA 1/59 Argyle Avenue VIC 3196,460,3,1,2,Apartment / Unit / Flat,-38.0372,145.1097
+896,NOBLE PARK 5/2-4 Fintonia Road VIC 3174,350,2,1,1,Apartment / Unit / Flat,-37.9667,145.1667
+897,CARLTON 35 Drummond Street VIC 3053,1100,4,1,4,Apartment / Unit / Flat,-37.8004,144.9684
+898,ASCOT VALE 22/22 Leonard Crescent VIC 3032,400,2,1,1,Apartment / Unit / Flat,-37.7808,144.9354
+899,NORTH MELBOURNE 209/55 Villiers Street VIC 3051,330,1,1,0,Apartment / Unit / Flat,-37.8029,144.9482
+900,ST KILDA 4/36 Waterloo Crescent VIC 3182,290,1,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+901,TYABB 7/14 William Street VIC 3913,330,2,1,0,Apartment / Unit / Flat,-38.25,145.1833
+902,WARRNAMBOOL  VIC 3280,270,1,1,1,Apartment / Unit / Flat,-38.3826241,142.4814191
+903,ST KILDA 6/76 Carlisle Street VIC 3182,325,2,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+904,WERRIBEE 3/42-44 Cottrell Street VIC 3030,280,2,1,1,Apartment / Unit / Flat,-37.8887,144.726
+905,BRUNSWICK WEST 605/8 Olive York Way VIC 3055,390,2,1,1,Apartment / Unit / Flat,-37.7603,144.9502
+906,ST KILDA 28/12 Fitzroy Street VIC 3182,525,2,1,2,Apartment / Unit / Flat,-37.8633,144.9802
+907,SOUTH MELBOURNE 906/2-14 Albert Road VIC 3205,650,1,1,1,Apartment / Unit / Flat,46.3817,15.2958
+908,ELSTERNWICK 404/17 Gordon Street VIC 3185,440,1,1,1,Apartment / Unit / Flat,-37.8984,145.0088
+909,KENSINGTON 103/102 Rankins Road VIC 3031,350,1,1,1,Apartment / Unit / Flat,-37.7899,144.9226
+910,ST KILDA WEST 3/21 Park Street VIC 3182,360,1,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+911,ELWOOD 6/17A Milton Street VIC 3184,550,2,1,1,Apartment / Unit / Flat,-37.8809,144.9855
+912,MIDDLE PARK 12/55 Canterbury Road VIC 3206,850,3,3,1,Apartment / Unit / Flat,46.3636,15.3653
+913,PRAHRAN 107/7 King Street VIC 3181,365,1,1,0,Apartment / Unit / Flat,-37.853,144.9929
+914,ST KILDA 7/25 Brighton Road VIC 3182,280,1,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+915,GLENROY 5/836 Pascoe Vale Road VIC 3046,330,2,1,0,Apartment / Unit / Flat,-37.7,144.9333
+916,BRUNSWICK 3/35 Henkel Street VIC 3056,310,1,1,1,Apartment / Unit / Flat,-37.7667,144.9667
+917,"WERRIBEE SOUTH Ground Level, Apartment 5, 33 Quay Boulevard VIC 3030",400,2,2,2,Apartment / Unit / Flat,-37.0,145.0
+918,SOUTHBANK 3601/241 City Road VIC 3006,500,2,1,0,Apartment / Unit / Flat,-37.8228,144.9643
+919,OAKLEIGH SOUTH 2/224 Warrigal Road VIC 3167,350,2,1,1,Apartment / Unit / Flat,-37.927,145.0964
+920,WILLIAMSTOWN 16/83 Verdon Street VIC 3016,330,1,1,1,Apartment / Unit / Flat,-37.857,144.8977
+921,WILLIAMSTOWN NORTH 5/111 Park Crescent VIC 3016,410,2,1,1,Apartment / Unit / Flat,-37.857,144.8977
+922,BRUNSWICK 6/27 Balmoral Avenue VIC 3056,380,2,1,1,Apartment / Unit / Flat,-37.7667,144.9667
+923,FOOTSCRAY 19/697 Barkly Street VIC 3011,260,1,1,1,Apartment / Unit / Flat,-37.7995,144.8963
+924,ST KILDA 11/15-17 Crimea Street VIC 3182,375,1,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+925,ST KILDA WEST 31/82 Park Street VIC 3182,375,1,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+926,NORTH MELBOURNE 9/417 Dryburgh Street VIC 3051,390,2,1,1,Apartment / Unit / Flat,-37.8029,144.9482
+927,PORT MELBOURNE 402/88 Dow Street VIC 3207,750,3,2,2,Apartment / Unit / Flat,-37.8329,144.922
+928,ST KILDA 3/33 Neptune Street VIC 3182,480,2,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+929,KENSINGTON 3/86 Rankins Road VIC 3031,330,1,1,1,Apartment / Unit / Flat,-37.7899,144.9226
+930,MARIBYRNONG 1/4 Rowe Street VIC 3032,430,3,2,1,Apartment / Unit / Flat,-37.7808,144.9354
+931,SOUTH MELBOURNE 12/2-4 Heather Street VIC 3205,340,1,1,1,Apartment / Unit / Flat,46.3817,15.2958
+932,FITZROY NORTH 205/144 Queens Parade VIC 3068,600,2,2,1,Apartment / Unit / Flat,-37.7865,144.9897
+933,MARIBYRNONG 2/20 Navigator Street VIC 3032,355,2,1,1,Apartment / Unit / Flat,-37.7808,144.9354
+934,PARKVILLE 106/459 Royal Parade VIC 3052,400,1,1,1,Apartment / Unit / Flat,-37.7603,144.9502
+935,ASCOT VALE 1/25 Harold Street VIC 3032,280,1,1,1,Apartment / Unit / Flat,-37.7808,144.9354
+936,ALBERT PARK 4/78 Kerferd Road VIC 3206,470,2,1,0,Apartment / Unit / Flat,46.3636,15.3653
+937,WILLIAMSTOWN 1/105 Railway Place VIC 3016,510,2,1,1,Apartment / Unit / Flat,-37.857,144.8977
+938,BEECHWORTH 55 Ford Street VIC 3747,350,2,1,1,Apartment / Unit / Flat,-36.3416,146.7067
+939,ASCOT VALE 1/5 Rothwell Street VIC 3032,380,2,1,1,Apartment / Unit / Flat,-37.7808,144.9354
+940,PAKENHAM 8/107 Army Road VIC 3810,330,2,1,1,Apartment / Unit / Flat,-38.1333,145.5167
+941,PARKVILLE 406/459 Royal Parade VIC 3052,560,2,2,1,Apartment / Unit / Flat,-37.7603,144.9502
+942,ST KILDA EAST 7/154 Alma Road VIC 3183,395,2,1,1,Apartment / Unit / Flat,-37.8692,144.9977
+943,FITZROY 303/81 Argyle Street VIC 3065,470,1,1,1,Apartment / Unit / Flat,-37.7984,144.9783
+944,IVANHOE 2/17 Green Street VIC 3079,410,2,1,1,Apartment / Unit / Flat,-37.769,145.0431
+945,BRUNSWICK EAST 2/72 Victoria Street VIC 3057,390,2,1,0,Apartment / Unit / Flat,-37.7603,144.9502
+946,WERRIBEE 1/137 Greaves Street VIC 3030,330,2,1,1,Apartment / Unit / Flat,-37.8887,144.726
+947,PRAHRAN 4/28 Raleigh Street VIC 3181,385,1,1,1,Apartment / Unit / Flat,-37.853,144.9929
+948,BUNDOORA 101B/1091 Plenty Road VIC 3083,395,2,2,1,Apartment / Unit / Flat,-37.7062,145.0474
+949,PAKENHAM 6/40 Army Road VIC 3810,370,3,1,1,Apartment / Unit / Flat,-38.1333,145.5167
+950,MARIBYRNONG 207/8 Horizon Drive VIC 3032,465,2,2,1,Apartment / Unit / Flat,-37.7808,144.9354
+951,ELWOOD 1/445 St Kilda Street VIC 3184,500,2,1,1,Apartment / Unit / Flat,-37.8809,144.9855
+952,FITZROY 302/270 Young Street VIC 3065,950,2,2,2,Apartment / Unit / Flat,-37.7984,144.9783
+953,TOORAK 2/12 Chastleton Avenue VIC 3142,460,2,1,1,Apartment / Unit / Flat,-37.8416,145.0177
+954,NORTH MELBOURNE 9/49 Brougham Street VIC 3051,280,1,1,0,Apartment / Unit / Flat,-37.8029,144.9482
+955,FOOTSCRAY 201/21 Buckingham Street VIC 3011,390,2,1,1,Apartment / Unit / Flat,-37.7995,144.8963
+956,WARRNAMBOOL 2/18 Kielli Drive VIC 3280,350,2,1,1,Apartment / Unit / Flat,-37.0,145.0
+957,HAWTHORN 1/17 Muir Street VIC 3122,450,3,1,1,Apartment / Unit / Flat,-37.8199,145.0358
+958,SOUTH YARRA 607/8 Daly Street VIC 3141,540,2,2,1,Apartment / Unit / Flat,-37.8333,144.9833
+959,HEIDELBERG HEIGHTS 105/452 Waterdale Road VIC 3081,399,2,1,1,Apartment / Unit / Flat,-37.7531,145.0385
+960,HAWTHORN 6/42 Morang Road VIC 3122,300,1,1,1,Apartment / Unit / Flat,-37.8199,145.0358
+961,CARNEGIE 315/1060 Dandenong Road VIC 3163,530,2,2,1,Apartment / Unit / Flat,-37.8895,145.0581
+962,EAST MELBOURNE 1/9 Garden Avenue VIC 3002,490,2,1,1,Apartment / Unit / Flat,-37.8167,144.9879
+963,CAULFIELD NORTH 1/55 Wanda Rd VIC 3161,750,3,2,2,Apartment / Unit / Flat,-37.8671941,145.0210764
+964,ST KILDA 3502/14-16 The Esplanade VIC 3182,5000,3,3,3,Apartment / Unit / Flat,-37.8633,144.9802
+965,PORT MELBOURNE 301/130 Bay Street VIC 3207,1600,3,3,2,Apartment / Unit / Flat,-37.8329,144.922
+966,SOUTH YARRA 14/110 Caroline Street VIC 3141,500,2,1,1,Apartment / Unit / Flat,-37.8333,144.9833
+967,MELBOURNE 60/485 St Kilda Road VIC 3004,395,1,1,1,Apartment / Unit / Flat,-37.814,144.9633
+968,COLLINGWOOD 201/109 Dight Street VIC 3066,500,1,1,1,Apartment / Unit / Flat,-37.8,144.9833
+969,SOUTHBANK 3908E/18 Hoff Blvd VIC 3006,700,2,2,0,Apartment / Unit / Flat,-37.8228,144.9643
+970,MENTONE 1/57 Milan Street VIC 3194,440,2,1,2,Apartment / Unit / Flat,-37.9833,145.0667
+971,ASCOT VALE 1/26 Epsom Road VIC 3032,400,2,1,1,Apartment / Unit / Flat,-37.7808,144.9354
+972,ST KILDA 22/19 Robe Street VIC 3182,450,2,1,1,Apartment / Unit / Flat,-37.8633,144.9802
+973,MALVERN 9/12 Irving Street VIC 3144,400,1,1,1,Apartment / Unit / Flat,-37.8512,145.0317
+974,COBURG 5/144 Nicholson Street VIC 3058,300,2,1,1,Apartment / Unit / Flat,-37.75,144.9667
+975,TAWONGA SOUTH 1 Heberles Road VIC 3698,320,1,1,0,Apartment / Unit / Flat,-36.7359,147.1521
+976,THORNBURY 4/97 Gooch Street VIC 3071,395,2,1,1,Apartment / Unit / Flat,-37.7583,145.0051
