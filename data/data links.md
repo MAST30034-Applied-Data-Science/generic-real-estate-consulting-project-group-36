@@ -61,6 +61,8 @@ https://discover.data.vic.gov.au/dataset/vicmap-features-of-interest-rest-api
 ambulence
 https://discover.data.vic.gov.au/dataset/ambulance-victoria-referral-service-2011-18
 
+park
+https://vicparks.com.au/find-a-park/
 
 https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/main-structure-and-greater-capital-city-statistical-areas/statistical-area-level-2
 
