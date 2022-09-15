@@ -1,0 +1,373 @@
+,Facility ID,Facility Name,Street Name,Suburb/Town,Pcode,Latitude,Longitude,Field/Surface Type,FullAddress,MelwaysVicRoadsRef
+0,BALLAR12461,Anytime Fitness Ballarat,La Trobe,BALLARAT,3350.0,-37.573219,143.835744,,"601-603 La Trobe Street, BALLARAT 3350",565 U10
+1,BALLAR12462,Anytime Fitness Mount Clear,Geelong,MOUNT CLEAR,3350.0,-37.602661,143.867711,,"5/1174 Geelong Road, MOUNT CLEAR 3350",572 F6
+2,BALLAR12516,O'Briens Kickboxing & Boxing Gym,Howitt,BALLARAT NORTH,3350.0,-37.542919,143.857592,,"502 Howitt Street, BALLARAT NORTH 3350",566 D4
+3,BALLAR12517,On Track Personal Fitness,Sturt,BALLARAT,3350.0,-37.562484,143.859425,,"37 Sturt Street, BALLARAT 3350",566 D8
+4,BALLAR12525,Spartans Gym and Supplements,Howitt,BALLARAT NORTH,3350.0,-37.542901,143.857062,,"502 Howitt Street, BALLARAT NORTH 3350",566 D4
+5,BALLAR5560,4U Health and Fitness,Gregory,BALLARAT,3350.0,-37.546259,143.868684,,"12 Gregory Street, BALLARAT 3350",
+6,BANYUL12837,Macleod Recreation & Fitness Centre,Wungan,MACLEOD,3085.0,-37.723317,145.068971,Wooden Gymnasium,"157 Wungan Street, MACLEOD 3085",20 A7
+7,BANYUL12817,Anytime Fitness Greensborough,Main,GREENSBOROUGH,3088.0,-37.702516,145.102782,,"25 Main Road, GREENSBOROUGH 3088",
+8,BANYUL12796,Anytime Fitness Heidelberg,Burgundy,HEIDELBERG,3084.0,-37.75609,145.064412,,"163/165 Burgundy Street, HEIDELBERG 3084",
+9,BANYUL12797,Gym on Grimshaw,Grimshaw,BUNDOORA ,3083.0,-37.702087,145.071402,,"7/445 Grimshaw Street, BUNDOORA  3083",
+10,BANYUL12828,Ivanhoe Aquatic & Fitness Centre,Waterdale,IVANHOE ,3079.0,-37.76226,145.043423,," Waterdale Road, IVANHOE  3079",31 E10
+11,BANYUL12832,Jetts Fitness Bundoora,Grimshaw,BUNDOORA ,3083.0,-37.699165,145.059327,,"584 Grimshaw Street, BUNDOORA  3083",
+12,BANYUL12809,Take2 Fitness For Women,Beetham ,ROSANNA,3084.0,-37.743578,145.065542,,"57 Beetham  Parade, ROSANNA 3084",32 A1
+13,BAWBAW12126,Braha Martial Arts & Fitness Centre,Victoria,WARRAGUL,3820.0,-38.157426,145.930786,," Victoria Street, WARRAGUL 3820",704 F5
+14,BAWBAW12135,Feel Good Fitness,Sutton,WARRAGUL,3820.0,-38.161673,145.955081,,"199 Sutton Street, WARRAGUL 3820",704 E4
+15,BAWBAW12141,Fitness 101,Albert,WARRAGUL,3820.0,-38.161778,145.940645,,"122 Albert Street, WARRAGUL 3820",704 F6
+16,BAWBAW12086,Gregory's Fitness Centre,Main Nerrim,DROUIN WEST,3818.0,,,,"435 Main Nerrim Road, DROUIN WEST 3818",96 F3
+17,BAWBAW12134,Jada Fitness,Pearse,WARRAGUL,3820.0,,,," Pearse Street, WARRAGUL 3820",704 H7
+18,BAWBAW12138,Studio Samsara Fitness,Olympic ,WARRAGUL,3820.0,,,,"7 Olympic  Street, WARRAGUL 3820",704 H7
+19,BAWBAW11521,Warragul Gymnastic Club,Alfred ,WARRAGUL,3820.0,,,,"40 Alfred  Street, WARRAGUL 3820",
+20,BAYSID12326,Bustamove Health & Fitness,Balcombe,BLACK ROCK,3193.0,-37.975858,145.017226,,"595 Balcombe Road, BLACK ROCK 3193",79 B9
+21,BAYSID12328,Fitness First Bayside,Bay,HIGHETT,3190.0,-37.954689,145.031245,,"241 - 245 Bay Road, HIGHETT 3190",79 B9
+22,BAYSID12369,Fitness First Brighton,Nepean,BRIGHTON EAST,3187.0,-37.909073,145.012179,,"531 Nepean Hwy, BRIGHTON EAST 3187",
+23,BAYSID12380,Gecko Kids Fitness,South,HAMPTON EAST,3188.0,,,,"338 South Road, HAMPTON EAST 3188",
+24,BAYSID12335,Harpers Fitness,Bluff,HAMPTON,3188.0,,,,"515 Bluff Road, HAMPTON 3188",
+25,BAYSID12382,Middle Brighton Gymnasium,The Esplanade,BRIGHTON,3186.0,,,,"251 The Esplanade , BRIGHTON 3186",
+26,BAYSID12371,One Fitness,Bay,BRIGHTON,3186.0,-37.905149,144.999266,,"210 Bay Street, BRIGHTON 3186",
+27,BAYSID12336,Push it Fitness & Health,Charman,CHELTENHAM,3192.0,,,,"258 Charman Road, CHELTENHAM 3192",
+28,BAYSID12393,Red Team Health & Fitness,Willis,HAMPTON,3188.0,,,,"8 Willis Street, HAMPTON 3188",
+29,BENALL11446,Benalla Gymnastics Club,Bridge,BENALLA,3672.0,,,," Bridge Street, BENALLA 3672",
+30,GREATE8665,Evolution Sports & Fitness Centre,Edwards,BENDIGO,3550.0,-36.777569,144.301115,," Edwards Road, BENDIGO 3550",608 B10
+31,GREATE8656,Dohertys Gym Benidgo,Garsed,BENDIGO,3550.0,-36.763944,144.2815,,"15 Garsed Street, BENDIGO 3550",607 R8
+32,GREATE8630,ASM Fitness,Powells,BENDIGO EAST,3550.0,-36.7525,144.318,,"70 Powells Avenue, BENDIGO EAST 3550",608 E4
+33,GREATE8667,Feelgood Fitness Golden Square,High,GOLDEN SQUARE,3555.0,-36.779,144.251028,,"435-439 High Street, GOLDEN SQUARE 3555",607 N10
+34,GREATE8668,Feelgood Fitness Strathdale,Edwards,STRATHDALE,3550.0,-36.772,144.306,,"88 Edwards Road, STRATHDALE 3550",608 C9
+35,GREATE8689,Lifestyle Fitness,Bath,BENDIGO,3550.0,-36.7605,144.279,,"1 Bath Lane, BENDIGO 3550",607 S6
+36,BENDIG11471,Jets Gymnastics Bendigo,Hattam,GOLDEN SQUARE,3551.0,,,,"73 Hattam Street, GOLDEN SQUARE 3551",
+37,BOROON11072,Your Gym Surrey Hills,Whitehorse,SURREY HILLS,3127.0,-37.815214,145.099815,,"558 Whitehorse Road, SURREY HILLS 3127",46 H8
+38,BOROON5547,Inspire Fitness for Wellbeing,Doncaster,NORTH BALWYN,3104.0,-37.790861,145.095296,,"317 Doncaster Road, NORTH BALWYN 3104",
+39,BOROON11480,MLC Gymnastic Club (Methodist Ladies College),Barkers,KEW,3101.0,,,,"207 Barkers Road, KEW 3101",
+40,BOROON11481,Ruyton Rhythmic Gymnastic ,Selbourne,KEW,3101.0,,,,"12 Selbourne Road, KEW 3101",
+41,BOROON11457,Strathcona Rythmic Gymnastic Club (Strathcona Baptist Girls Grammar),Scott,CANTERBURY,3126.0,,,,"34 Scott Street, CANTERBURY 3126",
+42,BRIMBA8379,Max Bowman Gymnasium,Dorothy,SUNSHINE,3020.0,-37.783767,144.843339,,"10 Dorothy Avenue, SUNSHINE 3020",27 A12
+43,BRIMBA5539,Anytime Fitness Keilor Downs,Taylors,KEILOR DOWNS,3038.0,-37.72728,144.806626,,"80 Taylors Road, KEILOR DOWNS 3038",
+44,BRIMBA8349,Fenix Fitness Taylors Lakes,Melton,TAYLORS LAKES,3038.0,-37.700147,144.774151,,"399 Melton Highway, TAYLORS LAKES 3038",14 A1
+45,BRIMBA8350,Fernwood Gym,Melton,SYDENHAM,3037.0,-37.695334,144.767025,,"511/521 Melton Highway, SYDENHAM 3037",354 J11
+46,BRIMBA8353,Focus Health & Fitness,Carrick,TULLAMARINE,3043.0,-37.700289,144.884997,,"35 Carrick Drive, TULLAMARINE 3043",15 K1
+47,BRIMBA5533,Run With Me Fitness Club Sunshine West,David,SUNSHINE WEST,3020.0,-37.79186,144.789894,,"11/1 David Drive, SUNSHINE WEST 3020",
+48,BRIMBA8393,St Albans Campus Fitness Centre,McKechnie,ST ALBANS,3021.0,-37.752777,144.798147,," McKechnie Street, ST ALBANS 3021",25 K3
+49,BRIMBA8404,The Lakes Health & Fitness Centre,Sunshine,SUNSHINE,3020.0,-37.703161,144.80096,,"555 Sunshine Avenue, SUNSHINE 3020",26 G1
+50,BRIMBA8330,World Gym Sunshine,Harvester,SUNSHINE,3020.0,-37.779588,144.828995,,"131 Harvester Road, SUNSHINE 3020",26 H11
+51,BRIMBA5534,Xplode 24 Hr Gym,Somerville,SUNSHINE WEST,3020.0,-37.805148,144.817151,,"656 Somerville Road, SUNSHINE WEST 3020",
+52,BRIMBA11479,Gymnastics Unlimited,Malcolm,KELBA,3021.0,,,,"12 Malcolm Court, KELBA 3021",
+53,BRIMBA8356,Gymnastics Unlimited Australia,Sunshine,KEALBA,3021.0,-37.740374,144.827255,,"4/12 Sunshine Avenue, KEALBA 3021",14 G12
+54,CAMPAS8830,Y Central Health & Fitness Studio,Hare,ECHUCA,3564.0,-36.127233,144.748909,,"157 Hare Street, ECHUCA 3564",596 H7
+55,CARDIN10986,Anytime Fitness Pakenham,John,PAKENHAM,3810.0,-38.076979,145.483098,,"50 John Street, PAKENHAM 3810",
+56,CARDIN11013,Hype Youth Gym,Beaconsfield-Emerald ,BEACONSFIELD,3807.0,,,,"2 Beaconsfield-Emerald  Road, BEACONSFIELD 3807",
+57,CARDIN11037,Pinnacle Fitness,Princes ,BEACONSFIELD,3807.0,,,,"70 Princes  Hwy, BEACONSFIELD 3807",
+58,CARDIN11045,Vibe Health & Fitness,Belgrave-Gembrook,EMERALD,3782.0,,,,"366 Belgrave-Gembrook Road, EMERALD 3782",
+59,CASEYC12254,4 U Body Fitness,Excel,CRANBOURNE,3977.0,-38.108347,145.284425,,"4 Excel Drive, CRANBOURNE 3977",
+60,CASEYC12303,Beach House Health & Fitness Narre Warren,Brechin ,NARRE WARREN,3805.0,-38.021954,145.302476,," Brechin  Drive, NARRE WARREN 3805",
+61,CASEYC12237,Fit Gym ,Bemersyde,BERWICK,3806.0,-38.056175,145.346867,,"96 Bemersyde Drive, BERWICK 3806",
+62,CASEYC12256,Fitness Shack,High,CRANBOURNE,3977.0,,,,"21 High Street, CRANBOURNE 3977",
+63,CASEYC12241,Manic Fitness ,Enterprise,BERWICK,3806.0,,,,"1 Enterprise Avenue, BERWICK 3806",
+64,CASEYC12290,Nitro Gym,Princess,HALLAM,3803.0,,,,"159 Princess Hwy, HALLAM 3803",
+65,CASEYC11448,Funtastic Gym,Enterprise,BERWICK,3806.0,,,,"34 Enterprise Avenue, BERWICK 3806",
+66,CENTRA11487,Goldfields Gymnastics ,Gillies,MARYBOROUGH,3465.0,,,,"46 Gillies Street, MARYBOROUGH 3465",
+67,COLACO11279,Blue Water Fitness Centre ,Hearn,COLAC,3250.0,-38.35032,143.588796,Wooden Gymnasium,"118 Hearn Street , COLAC 3250",520 B5
+68,COLACO11286,Colac Squash & Fitness Centre,Dennis,COLAC,3250.0,-38.3385,143.5915,,"78 Dennis Street, COLAC 3250",520 E4
+69,GREATE11615,Alphonsa Fitness Centre & Jym,Balmoral,SPRINGVALE,3171.0,-37.949303,145.152029,,"1 Balmoral Avenue, SPRINGVALE 3171",
+70,GREATE11629,Doherty's 24 Hour Gym Dandenong,Cheltenham,DANDENONG,3175.0,-37.989265,145.203498,,"83 Cheltenham Road, DANDENONG 3175",
+71,DANDEN11460,Grips Gym,Elliott,DANDENONG SOUTH,3175.0,,,,"35 Elliott Road, DANDENONG SOUTH 3175",
+72,DANDEN11501,Koala Gymnastic Club,Buckley,NOBLE PARK,3174.0,,,,"34 Buckley Street, NOBLE PARK 3174",
+73,DAREBI11817,Genesis Fitness Club Preston,Bell,PRESTON,3072.0,-37.74697,145.0205,,"140 Bell Street, PRESTON 3072",31 A2
+74,DAREBI11847,The Fitness Club,Johnson,KEON PARK,3073.0,-37.695615,145.012,,"49 Johnson Street, KEON PARK 3073",8 J12
+75,DAREBI11837,Northside Boxing Gym,Townhall,PRESTON,3072.0,-37.74,145.008,,"25-27 Townhall Avenue, PRESTON 3072",18 H12
+76,DAREBI11502,Kaygees Gym Club ,Beavers,NORTHCOTE,3070.0,,,,"177 Beavers Road, NORTHCOTE 3070",
+77,DAREBI11503,Twisters Gymnastic Club (Santa Maria College),Shepparton,NORTHCOTE,3070.0,,,,"50 Shepparton Street, NORTHCOTE 3070",
+78,EASTGI11047,Totally Pumped Group fitness Studio,Bailey,BAIRNSDALE,3875.0,-37.826798,147.631458,,"44 Bailey Street, BAIRNSDALE 3875",688 K7
+79,EASTGI11048,Totally pumped health and Fitness,Princess ,BAIRNSDALE,3875.0,-37.834674,147.59968,," Princess  Hwy, BAIRNSDALE 3875",688 E9
+80,EASTGI11454,East Gippsland Gymnastics Club,Princes,BROADLANDS,3875.0,,,,"455 Princes Highway, BROADLANDS 3875",
+81,FRANKS11024,Beach House Health & Fitness Frankston,Nepean,FRANKSTON,3199.0,-38.141714,145.120857,,"444 Nepean Hwy, FRANKSTON 3199",
+82,FRANKS11063,Beachside Fitness Centre Seaford,Brunel,SEAFORD,3198.0,-38.100956,145.143005,,"35 Brunel Road, SEAFORD 3198",
+83,FRANKS11021,Chisolm Fitness Centre,Fletcher,FRANKSTON,3199.0,,,," Fletcher Road, FRANKSTON 3199",
+84,FRANKS11022,Energym Health & Fitness,Overton,FRANKSTON,3199.0,-38.129461,145.129853,,"25 Overton Road, FRANKSTON 3199",
+85,FRANKS11027,Genesis Health & Fitness,Karingal,FRANKSTON,3199.0,,,,"197 Karingal Drive, FRANKSTON 3199",
+86,FRANKS11017,Input Fitness,Cranbourne,FRANKSTON,3199.0,,,,"224 Cranbourne Road, FRANKSTON 3199",
+87,FRANKS11045,Jetts Fitness,Cranbourne-Frankston,LANGWARRIN,3910.0,,,,"230 Cranbourne-Frankston Road, LANGWARRIN 3910",
+88,FRANKS11020,Lifestyle Fitness Centre,Nepean,FRANKSTON,3199.0,,,,"313 Nepean Hwy, FRANKSTON 3199",
+89,FRANKS10993,Lime Health & Fitness,Frankston-Dandenong,CARRUM DOWNS,3201.0,,,,"490 Frankston-Dandenong Road, CARRUM DOWNS 3201",
+90,FRANKS11062,Living Now Health & Fitness,Hartnett,SEAFORD,3198.0,,,,"42 Hartnett Drive, SEAFORD 3198",
+91,FRANKS11043,My Time Health & Fitness,McClelland,LANGWARRIN,3910.0,,,,"389 McClelland Drive, LANGWARRIN 3910",
+92,FRANKS11064,Not a Gym,Peninsula,SEAFORD,3198.0,,,,"46 Peninsula Boulevard, SEAFORD 3198",
+93,FRANKS11025,Snap Fitness Frankston,Beach,FRANKSTON,3199.0,-38.140634,145.124849,,"15-29 Beach Road, FRANKSTON 3199",
+94,FRANKS10992,XFC Gym,Lathams,CARRUM DOWNS,3201.0,,,,"31 Lathams Road, CARRUM DOWNS 3201",
+95,FRANKS11482,Bayside Gymnastics (Langwarrin Park Primary School),North,LANGWARRIN,3910.0,,,," North gateway, LANGWARRIN 3910",
+96,FRANKS11458,Dolphin Gymnastics Club,Amayla,CARRUM DOWNS,3201.0,,,,"2 Amayla Cresent, CARRUM DOWNS 3201",
+97,GREATE10993,Barwon Heads Boxing and Fitness,Hitchcock,BARWON HEADS,3227.0,-38.279033,144.492677,,"84 Hitchcock Avenue, BARWON HEADS 3227",
+98,GREATE11042,Anytime Fitness Bell,Anakie,NORLANE,3214.0,-38.089272,144.336603,,"306 Anakie Road, NORLANE 3214",
+99,GREATE11045,Anytime Fitness Bell Post Hill,Anakie,NORLANE,3214.0,-38.089171,144.33644,,"306 Anakie Road, NORLANE 3214",
+100,GREATE10988,Anytime Fitness Grovedale,Essington,GROVEDALE,3216.0,-38.198895,144.347232,,"40 Essington street, GROVEDALE 3216",
+101,GREATE11002,Bellarine Aquatic and Fitness Centre,Shell,OCEAN GROVE,3226.0,-38.258951,144.540321,," Shell Road, OCEAN GROVE 3226",529 Q8
+102,GREATE11047,Fitness Physique,Brougham,GEELONG,3220.0,,,,"45 Brougham Street, GEELONG 3220",
+103,GREATE11048,Fitness Training Studio,Pakinston,NEWTOWN,3220.0,,,,"360 Pakinston street, NEWTOWN 3220",
+104,GREATE11053,Fresh Look Fitness,Brentwood,WAURN PONDS,3216.0,,,,"7 Brentwood Way, WAURN PONDS 3216",
+105,GREATE11063,Geelong's Gym,West Fyans ,NEWTOWN,3220.0,,,,"10 West Fyans  Street, NEWTOWN 3220",
+106,GREATE11076,Jak Gym,Crown,SOUTH GEELONG,3220.0,,,," Crown Street, SOUTH GEELONG 3220",
+107,GREATE11079,Jets Fitness Geelong West,Pakington,GEELONG WEST,3218.0,,,,"63 Pakington Road, GEELONG WEST 3218",
+108,GREATE11025,Main Event Fitness,Gordon,GEELONG WEST,3218.0,-38.144065,144.352468,,"5/2A Gordon Avenue, GEELONG WEST 3218",
+109,GREATE11124,Reflex Fitness,Settlement,BELMONT,3216.0,,,," Settlement Road, BELMONT 3216",
+110,GREATE11126,Rockets Health and Fitness,South Forrests ,LARA,3212.0,,,,"5 South Forrests  Road, LARA 3212",
+111,GREATE11043,Snap Fitness Waurn Ponds,Rossack,WAURN PONDS,3216.0,-38.202495,144.311533,,"26 Rossack Drive, WAURN PONDS 3216",
+112,GREATE11132,Sphere Health and Fitness,separation,NORTH GEELONG,3215.0,,,,"39 separation street, NORTH GEELONG 3215",
+113,GREATE11133,Sphere Health and Fitness,McClelland,LARA,3212.0,,,,"33 McClelland Avenue, LARA 3212",
+114,GREATE11139,Studio Fitness Gym,separation,GEELONG,3220.0,,,,"141 separation Street, GEELONG 3220",
+115,GREATE11145,University fitness Club,Pigdins,WAURN PONDS,3216.0,,,," Pigdins Road, WAURN PONDS 3216",
+116,GREATE11146,Victorian Fitness Academy,Yarra,GEELONG,3220.0,,,,"78 Yarra Street, GEELONG 3220",
+117,GREATE11148,Vital Fitness,Church ,MANIFOLD HEIGHTS,3218.0,,,,"140 Church  Street, MANIFOLD HEIGHTS 3218",
+118,GLENEI11241,Monash University Fitness & Rec Centre,Princes,CAULFIELD EAST,3162.0,,,Wooden Flooring,"2 Princes Avenue, CAULFIELD EAST 3162",
+119,GLENEI11250,6 Degrees South Health & Fitness,Glen Huntley,ELSTERNWICK,3162.0,-37.883737,144.997702,,"207 Glen Huntley Road, ELSTERNWICK 3162",
+120,GLENEI11238,Australian Fitness Academy,Glenhuntly ,CAULFIELD   ,3162.0,-37.885953,145.018846,,"701 Glenhuntly  Road, CAULFIELD    3162",
+121,GLENEI11213,Bentleigh Fitness Centre,East Boundary ,BENTLEIGH,3204.0,-37.90937,145.063423,,"236/262 East Boundary  Road, BENTLEIGH 3204",
+122,GLENEI11240,EFM Health & Fitness Club,Kooyong,CAULFIELD   ,3162.0,-37.883686,145.015446,,"262 Kooyong Road, CAULFIELD    3162",
+123,GLENEI5557,Gecko Kids Fitness Caulfield,Maple,CAULFIELD SOUTH,3162.0,-37.893154,145.021404,,"6 Maple Street, CAULFIELD SOUTH 3162",
+124,GLENEI11248,Lifestyle Fitness Centre ,Glenhuntley,ELSTERNWICK,3162.0,,,,"233 Glenhuntley Road, ELSTERNWICK 3162",
+125,GLENEI11263,Ormond Health & Fitness,Newham,ORMOND,3204.0,,,,"1 Newham Grove, ORMOND 3204",
+126,GLENEI11249,Sage Institute of Fitness,Glenhuntley,ELSTERNWICK,3162.0,-37.883879,144.999084,,"233 Glenhuntley Road, ELSTERNWICK 3162",
+127,GLENEI11447,Bentleigh Mckinnon Gym Club,Higgins ,BENTLEIGH,3204.0,,,,"5 Higgins  Road, BENTLEIGH 3204",
+128,GLENEI11497,Chamford Gymnastics Club,North  ,MURRUMBEENA,3163.0,,,,"993 North   Road, MURRUMBEENA 3163",
+129,GLENEI11506,Wiz Kids Kindergym,North  ,ORMOND,3204.0,,,,"574 North   Road, ORMOND 3204",
+130,GLENEI11224,All Stars Health Fitness & Martial Arts,East Boundary ,BENTLEIGH EAST  ,3165.0,,,,"236 East Boundary  Road, BENTLEIGH EAST   3165",
+131,HINDMA9614,Dimboola Community Health & Fitness Centre,School,DIMBOOLA,3414.0,-36.450984,142.034712,," School Street, DIMBOOLA 3414",546 H9
+132,HOBSON12942,Beach House Health & Fitness Williamstown,Kororoit Creek,WILLIAMSTOWN,3016.0,-37.853924,144.8585,,"388-390 Kororoit Creek Road, WILLIAMSTOWN 3016",55 D7
+133,HOBSON12962,Inspiration Health and Fitness,Blackshaws,ALTONA NORTH,3025.0,-37.832222,144.861995,,"6/216 Blackshaws Road, ALTONA NORTH 3025",55 E1
+134,HOBSON12969,Laverton Swim and Fitness Centre,Jennings,LAVERTON,3028.0,-37.856729,144.774534,," Jennings Street, LAVERTON 3028",53 E8
+135,HOBSON12977,Peyote Gym Williamstown,Ferguson,WILLIAMSTOWN,3016.0,-37.859291,144.898802,,"1/65 Ferguson Street, WILLIAMSTOWN 3016",56 C8
+136,HOBSON12979,Run With Me Fitness Club Altona,Pier,ALTONA,3018.0,-37.865405,144.830678,,"117 Pier Street, ALTONA 3018",54 H10
+137,HOBSON12984,Sweeney's Swim & Fitness Centre,Pier,ALTONA,3018.0,-37.8655,144.831,,"116 Pier Street, ALTONA 3018",54 H10
+138,HOBSON12986,Westgate Health and Fitness Club Altona North,Grieve,ALTONA NORTH,3025.0,-37.833056,144.825247,,"499 Grieve Parade, ALTONA NORTH 3025",54 G1
+139,HORSHA11378,Natimuk & District Gymnastic Club,Sudholz,NATIMUK,3409.0,-36.743172,141.93657,," Sudholz Street, NATIMUK 3409",543 R11
+140,HUMECI11752,Focus Health and Fitness,Carrick,TULLAMARINE,3043.0,-37.7005,144.885,,"35 Carrick Drive, TULLAMARINE 3043",15 K1
+141,HUMECI11772,Life Fitness Centre,Somerton,SOMERTON,3062.0,-37.642,144.9465,,"1/40 Somerton Road, SOMERTON 3062",180 D9
+142,HUMECI11776,OnTarget Fitness,Elizabeth,SUNBURY,3429.0,-37.566,144.724,,"282 Elizabeth Drive, SUNBURY 3429",362 C12
+143,HUMECI11777,Powercore Fitness,Sydney,CRAIGIEBURN,3064.0,-37.616648,144.948157,,"302 Sydney Road, CRAIGIEBURN 3064",180 D2
+144,HUMECI11739,Unique Female Fitness,Walters,CRAIGIEBURN,3064.0,-37.601,144.943,,"1 Walters Street, CRAIGIEBURN 3064",387 C9
+145,HUMECI11751,Fitness Arena,Reservoir,COOLAROO,3064.0,-37.642729,144.93232,,"33/22-36 Reservoir Drive, COOLAROO 3064",179 K9
+146,HUMECI11516,Sunbury Gymnastic College,Sussex,SUNBURY,3429.0,,,,"14 Sussex Court, SUNBURY 3429",
+147,INDIGO10994,Beechworth Squash and Fitness Centre,Melish,BEECHWORTH,3747.0,-36.366693,146.682768,,"4 Melish Street, BEECHWORTH 3747",659 N6
+148,KINGST10944,Anytime Fitness Cheltenham,Jamieson,CHELTENHAM ,3192.0,-37.960408,145.055455,,"10 Jamieson Street, CHELTENHAM  3192",
+149,KINGST10915,Beach House Health & Fitness Chelsea Heights,Ashley Park,CHELSEA HEIGHTS,3196.0,-38.037529,145.137083,,"4 Ashley Park Drive, CHELSEA HEIGHTS 3196",
+150,KINGST10935,Fitness is Fun,Como,PARKDALE,3194.0,-37.993904,145.076483,,"278 Como Parade, PARKDALE 3194",
+151,KINGST10934,Kennedy's Health and Fitness,Wells,CHELSEA HEIGHTS,3196.0,-38.042087,145.139786,,"4/227 Wells Road, CHELSEA HEIGHTS 3196",
+152,KINGST10977,Push It Fitness & Health,Charman,CHELTENHAM ,3192.0,,,,"258 Charman Road, CHELTENHAM  3192",
+153,KINGST11491,Mordialloc Gymnastic Club,Warren,MORDIALLOC,3195.0,,,,"115 Warren Road, MORDIALLOC 3195",
+154,KINGST11507,Patterson Lakes Gymnastics,Thompsons,PATTERSON LAKES,3197.0,-38.06901,145.143441,,"70 Thompsons Road, PATTERSON LAKES 3197",
+155,KINGST10969,Moorabbin Sqush and Fitness Centre,Inderpendance,MOORABBIN,3189.0,,,Wooden Flooring,"10 Inderpendance Street, MOORABBIN 3189",
+156,KNOXCI8544,Beach House Health & Fitness Boronia,Boronia,BORONIA,3155.0,-37.861,145.2815,,"9/163 Boronia Road, BORONIA 3155",64 K9
+157,KNOXCI8549,Boronia Busybodies Health & Fitness Centre,Erica,BORONIA,3155.0,-37.861278,145.284043,,"29 Erica Avenue, BORONIA 3155",64 K9
+158,KNOXCI8566,Fitness First Health Clubs,Burwood,WANTIRNA SOUTH,3152.0,-37.869,145.243,,"509 Burwood Highway, WANTIRNA SOUTH 3152",64 A11
+159,KNOXCI8568,Future Health & Fitness,Laser,ROWVILLE,3178.0,-37.91,145.2445,,"6 Laser Drive, ROWVILLE 3178",73 A10
+160,KNOXCI8578,Jetts Fitness Boronia,Dorset,BORONIA,3155.0,-37.861223,145.285471,,"3/241 Dorset Road, BORONIA 3155",64 K9
+161,KNOXCI8604,Platinum Health & Fitness Centre,Corporate,ROWVILLE,3178.0,-37.920156,145.218242,," Corporate Avenue, ROWVILLE 3178",81 E2
+162,KNOXCI8624,Winning Physique Gym,Underwood,FERNTREE GULLY,3178.0,-37.881857,145.2965,,"3/170 Underwood Drive, FERNTREE GULLY 3178",74 C3
+163,KNOXCI8625,Wow Health & Fitness,Lewis,WANTIRNA SOUTH,3152.0,-37.8705,145.2495,,"26/111 Lewis Road, WANTIRNA SOUTH 3152",64 B11
+164,KNOXCI5552,Anytime Fitness Bayswater,High,BAYSWATER,3153.0,-37.842701,145.266609,,"7-13 High Street, BAYSWATER 3153",
+165,KNOXCI5555,Personal Best Fitness Centre,Bayswater,BAYSWATER,3153.0,-37.83602,145.271846,,"379 Bayswater Road, BAYSWATER 3153",
+166,KNOXCI8584,Knox Gymnastics Centre,Mossfield,FERNTREE GULLY,3156.0,-37.881,145.276,,"4 Mossfield Avenue, FERNTREE GULLY 3156",73 H2
+167,KNOXCI8599,Mountain Districts Gymnastics Centre,Michellan,BAYSWATER,3153.0,-37.842391,145.241647,,"23 Michellan Court, BAYSWATER 3153",64 A4
+168,LATROB11390,Body and Soul Group Fitness Centre,Davidson,TRARALGON,3844.0,-38.190521,146.539291,,"5/15 Davidson street, TRARALGON 3844",696 H5
+169,LATROB11441,Reps Fitness Club,Lloyd,MOE,3825.0,,,,"83 Lloyd Street, MOE 3825",700 D5
+170,LATROB11451,Traralgon Fun Fitness Centre,Argyle,TRARALGON,3844.0,,,,"180 Argyle street, TRARALGON 3844",696 J6
+171,LATROB11403,Traralgon Fun Fitness Centre,Argyle,TRARALGON,3844.0,-38.190688,146.558518,,"180-182 Argyle Street, TRARALGON 3844",696 F8
+172,LATROB11526,Energetic Gymnastics (Lavalla Catholic College),Grey,TRARALGON,3844.0,,,," Grey Street, TRARALGON 3844",
+173,LATROB11493,Morwell Academy of Gym,Princes,MORWELL,3840.0,,,,"523 Princes Drive, MORWELL 3840",
+174,LATROB11520,Ulinga Gymnastics Club,Traralgon-Maffra,TRARALGON,3844.0,,,," Traralgon-Maffra Road, TRARALGON 3844",
+175,MACEDO10927,Jets Gymnastics,Hamilton,NEW GISBORNE,3438.0,-37.456422,144.603694,,"200 Hamilton Road, NEW GISBORNE 3438",415 C13
+176,MANNIN10995,Definition Fitness Centre,Blackburn,EAST DONCASTER,3109.0,-37.776105,145.165123,,"352 Blackburn Road, EAST DONCASTER 3109",
+177,MANNIN11007,Focus Health & Fitness,Bulleen ,BULLEEN,3105.0,,,,"209 Bulleen  Road, BULLEEN 3105",
+178,MANNIN11461,BTYC Gymnastics,Springvale,DONVALE,3111.0,,,,"360 Springvale Road, DONVALE 3111",
+179,MANNIN11455,Carey Gymnastics Club,Bulleen ,BULLEEN,3101.0,,,,"169 Bulleen  Road, BULLEEN 3101",
+180,MANSFI11486,Mansfield Gymnastic Club,Highett,MANSFIELD,3722.0,,,," Highett Street, MANSFIELD 3722",
+181,MARIBY8458,Footscray Park Aquatic and Fitness Centre (Vic Uni),Ballarat,FOOTSCRAY,3011.0,-37.792875,144.898001,," Ballarat Road, FOOTSCRAY 3011",42 C2
+182,MARIBY5530,Anytime Fitness West Footscray,Ashley,BRAYBROOK,3019.0,-37.794398,144.86264,,"67 Ashley Street, BRAYBROOK 3019",
+183,MARIBY5535,Crunch Fitness,Rosamond,MARIBYRNONG,3032.0,-37.775697,144.886545,,"120-200 Rosamond Road, MARIBYRNONG 3032",
+184,MARIBY5532,Derrimut 24/7 Gym,Ballarat,BRAYBROOK,3019.0,-37.780115,144.861437,,"244-246 Ballarat Road, BRAYBROOK 3019",
+185,MARIBY8454,Focus Health and Fitness Yarraville,Hyde,YARRAVILLE,3013.0,-37.809801,144.899339,,"121-123 Hyde Street, YARRAVILLE 3013",42 C7
+186,MARIBY8460,Fusion Martial Arts & Fitness,Hyde,YARRAVILLE,3013.0,-37.821389,144.896175,,"275 Hyde Street, YARRAVILLE 3013",42 C 9
+187,MARIBY8461,Genesis Fitness Maidstone,Hampstead,MAIDSTONE,3012.0,-37.775649,144.880083,,"42 Hampstead Road, MAIDSTONE 3012",27 J10
+188,MARIBY8487,United Force Gymnasium,Barkly,FOOTSCRAY,3012.0,-37.796787,144.873101,,"630 Barkly Street, FOOTSCRAY 3012",41 G3
+189,MARIBY5531,Zoo Fitness - Braybrook,Ballarat,BRAYBROOK,3019.0,-37.780523,144.861096,,"2/244 Ballarat Road, BRAYBROOK 3019",
+190,MARIBY11523,Footscray City Gym Club,Mitford ,WEST FOOTSCRAY,3012.0,,,,"10 Mitford  Parade, WEST FOOTSCRAY 3012",
+191,MAROON11016,Genesis Fitness Club Ringwood,Maroondah,RINGWOOD,3134.0,-37.815835,145.224604,,"93-97 Maroondah Highway, RINGWOOD 3134",49 G9
+192,MAROON11026,Jetts Fitness Ringwood,Maroondah,RINGWOOD,3134.0,-37.817472,145.223661,,"76-82 Maroondah Highway, RINGWOOD 3134",49 F9
+193,MAROON11035,Personal Fitness Centre Bayswater,Bayswater,BAYSWATER,3153.0,-37.835821,145.271935,,"379 Bayswater Road, BAYSWATER 3153",64 G2
+194,MAROON11015,Eclipse Gymnastics Ringwood,Maroondah,RINGWOOD,3134.0,-37.799715,145.251253,,"2/481-493 Maroondah Highway, RINGWOOD 3134",50 C4
+195,MELBOU10991,Corporate Fitness Club,Flinders,MELBOURNE,3000.0,-37.817507,144.963621,,"321 Flinders Lane, MELBOURNE 3000",
+196,MELBOU10992,Equilibrium Health & Fitness,Errol,NORTH MELBOURNE,,-37.804412,144.949088,,"23 Errol Steet, NORTH MELBOURNE ",
+197,MELBOU5529,Fitness First Melbourne CBD Bourke St,Bourke,MELBOURNE,3000.0,-37.814466,144.96356,,"341-345 Bourke Street, MELBOURNE 3000",
+198,MELBOU10998,Fitness First Melbourne Central,Latrobe,MELBOURNE,,-37.810917,144.962776,,"211 Latrobe Street, MELBOURNE ",
+199,MELBOU10999,Fitness First QV Platinum,Lonsdale,MELBOURNE,,-37.809845,144.966508,," Lonsdale Street, MELBOURNE ",
+200,MELBOU11003,Gensis Fitness,Lonsdale,MELBOURNE,,,,,"50 Lonsdale Street, MELBOURNE ",
+201,MELBOU11005,Jetts Fitness ,Collins,DOCKLANDS,3008.0,,,,"750 Collins Street, DOCKLANDS 3008",
+202,MELBOU11010,Ladyworks Fitness Club,Little Latrobe,MELBOURNE,,,,,"23 Little Latrobe Street, MELBOURNE ",
+203,MELBOU11011,Lifestyle Fitness Centre ,Burke ,MELBOURNE,,,,,"500 Burke  Street, MELBOURNE ",
+204,MELBOU11012,Lifestyle Fitness Centre ,Russell,MELBOURNE ,3000.0,,,,"276 Russell Street, MELBOURNE  3000",
+205,MELBOU11018,Metrobody Health & Fitness,Summerset,MELBOURNE,,,,,"29 Summerset Place, MELBOURNE ",
+206,MELBOU11025,RMIT Union Fitness Centre,Swanston,MELBOURNE,,,,," Swanston Street, MELBOURNE ",
+207,MELBOU11029,TKO Fitness,Hawke,WEST MELBOURNE,,-37.807537,144.946833,,"99 Hawke Street, WEST MELBOURNE ",
+208,MELBOU11488,Wesley Lions Gymnastics,St Kilda,MELBOURNE,3181.0,,,,"577 St Kilda Road, MELBOURNE 3181",
+209,MELTON9050,Body Style World of Health & Fitness,McKenzie,MELTON,3337.0,-37.685,144.581,,"41 McKenzie Street, MELTON 3337",337 A9
+210,MELTON9057,Contours Caroline Springs Fitness Studio,Caroline Springs,CAROLINE SPRINGS,3023.0,-37.732122,144.741538,," Caroline Springs Boulevard, CAROLINE SPRINGS 3023",356 H10
+211,MELTON9082,Obsessed with Fitness,Westwood,RAVENHALL,3023.0,-37.771128,144.754312,,"3/7-9 Westwood Drive, RAVENHALL 3023",356 K8
+212,MELTON9061,Gymnastics Unlimited Caroline Springs,Westwood,RAVENHALL,3023.0,-37.764999,144.752,,"5/51-53 Westwood Drive, RAVENHALL 3023",358 K7
+213,MELTON11489,Melton Gymnastic Academy,Collins,MELTON,3337.0,,,,"9 Collins Road, MELTON 3337",
+214,MILDUR9104,Fitness Master,Lemon,MILDURA,3500.0,-34.187,142.1665,,"28 Lemon Avenue, MILDURA 3500",535 q6
+215,MILDUR11511,Mildura Gymnastic Club,Westcliffs,RED CLIFFS,3496.0,,,,"18 Westcliffs Avenue, RED CLIFFS 3496",
+216,MOIRAS12198,Numurkah Aquatic & Fitness Centre,Melville,NUMURKAH,3636.0,-36.096993,145.44205,," Melville Street, NUMURKAH 3636",670 C4
+217,MOIRAS12208,Priority Fitness,Acacia ,YARRAWONGA,3730.0,,,,"1 Acacia  Street, YARRAWONGA 3730",
+218,MONASH11988,Back2Base Health & Fitness,Muir,MT WAVERLEY,3149.0,-37.867916,145.137746,,"67 Muir Street, MT WAVERLEY 3149",
+219,MONASH11999,Challenge Fitness Centre,Burlington,OAKLEIGH,3166.0,-37.901764,145.092321,,"6 Burlington Street, OAKLEIGH 3166",69 G8
+220,MONASH12014,Fitness Central,High St,MT WAVERLEY,3149.0,-37.872432,145.147259,,"558 High St Road, MT WAVERLEY 3149",61 B11
+221,MONASH12016,Fitness First,Coleman,GLEN WAVERLEY,3150.0,-37.876646,145.148006,,"3 Coleman Parade, GLEN WAVERLEY 3150",70 K1
+222,MONASH12015,Fitness First - Malvern Valley,Waverley,CHADSTONE,3148.0,-37.87708,145.083199,," Waverley Road, CHADSTONE 3148",
+223,MONASH12033,Leading Edge Health & Fitness,Springvale,GLEN WAVERLEY,3150.0,,,,"452 Springvale Road, GLEN WAVERLEY 3150",71 B5
+224,MONASH12034,Lifestyle Fitness,Ferntree Gully,WHEELERS HILL,3150.0,,,,"355 Ferntree Gully Road, WHEELERS HILL 3150",71 D9
+225,MONASH11990,Next Level Fitness HQ,Centre,CLAYTON,3168.0,-37.930062,145.134576,,"1535 Centre Road, CLAYTON 3168",79 A3
+226,MONASH12052,Perfectfit Gym,Waverley ,MALVERN EAST,3145.0,,,,"135 Waverley  Road, MALVERN EAST 3145",
+227,MONASH12053,Pinewood Fitness,The,MT WAVERLEY,3149.0,,,,"15 The Centreway, MT WAVERLEY 3149",
+228,MONASH12012,Zap Fitness Clayton,Dandenong,CLAYTON,3168.0,-37.909935,145.118863,,"1668 Dandenong Road, CLAYTON 3168",70 A7
+229,MONASH11469,Brentwood Gymnastics Club,Ferntree Gully,GLEN WAVERLEY,3150.0,,,,"649 Ferntree Gully Road, GLEN WAVERLEY 3150",
+230,MONASH11470,Waverley Gymnastics Centre,High Street,GLEN WAVERLEY,3150.0,,,,"620 High Street Road, GLEN WAVERLEY 3150",
+231,MONASH11496,Waverley Gymnastics Centre Mt Waverley,Dorrington,MT WAVERLEY,3149.0,,,,"7 Dorrington Drive, MT WAVERLEY 3149",
+232,MOONEE9348,Anytime Fitness Moonee Ponds,Mount Alexander,MOONEE PONDS,3039.0,-37.765377,144.923491,,"683 Mount Alexander Road, MOONEE PONDS 3039",28 J7
+233,MOONEE9351,BTB Martials Arts & Fitness Centre,Wingara,KEILOR EAST,3033.0,-37.732911,144.8675,,"54a Wingara Avenue, KEILOR EAST 3033",15 f10
+234,MOONEE9375,Fighting Lyons Taekwondo Health & Fitness Centre,Keilor,NORTH ESSENDON,3041.0,-37.742996,144.906,,"70 Keilor Road, NORTH ESSENDON 3041",28 E1
+235,MOONEE9376,Fitness First Essendon,Pascoe Vale,ESSENDON,3040.0,-37.7455,144.926,,"299-311 Pascoe Vale Road, ESSENDON 3040",28 j1
+236,MOONEE9378,Full Fitness Personal Training,Everage,MOONEE PONDS,3039.0,-37.766,144.922,,"3 Everage Street, MOONEE PONDS 3039",28 H7
+237,MOONEE9392,Paramount Health & Fitness Centre,Union,ASCOT VALE,3032.0,-37.775665,144.91557,,"142 Union Road, ASCOT VALE 3032",28 g10
+238,MOONEE9399,Spark Fitness,Maribyrnong,MOONEE PONDS,3039.0,-37.77,144.904,,"284a Maribyrnong Road, MOONEE PONDS 3039",28 D8
+239,MOONEE9403,Windy Hill Fitness Centre,Napier,ESSENDON,3040.0,-37.752527,144.918666,,"74-84 Napier Street, ESSENDON 3040",28 h3
+240,MOONEE11443,Essendon Keilor Gym Academy,Roberts,AIRPORT WEST,3042.0,,,,"196 Roberts Road, AIRPORT WEST 3042",
+241,MOONEE11466,Niddrie Gymnastic Club,Wirraway,ESSENDON,3041.0,,,,"44 Wirraway Road, ESSENDON 3041",
+242,MORELA5544,Powerplay Gym,Holmes,BRUNSWICK,3056.0,-37.758271,144.974742,,"66 Holmes Street, BRUNSWICK 3056",
+243,MORELA12995,Bell St Fitness,Bell,COBURG,3058.0,-37.741134,144.966066,,"96 Bell Street, COBURG 3058",17 H12
+244,MORELA13016,Doherty's 24 Hour Gym Brunswick,Weston,BRUNSWICK,3056.0,-37.775066,144.964625,,"45-49 Weston Street, BRUNSWICK 3056",29 H9
+245,MORELA13020,Fenix Fitness Clubs Coburg,Gaffney,COBURG,3058.0,-37.733358,144.959937,,"64 Gaffney Street, COBURG 3058",17 G10
+246,MORELA13022,Fitzys Gym,Victoria,BRUNSWICK WEST,3055.0,-37.764936,144.945367,,"507-515 Victoria Street, BRUNSWICK WEST 3055",29 D7
+247,MORELA5543,Anytime Fitness Brunswick,Percy,BRUNSWICK,3056.0,-37.766163,144.958773,,"2 Percy Street, BRUNSWICK 3056",
+248,MORELA13021,Fighting Arts Fitness Centre,Glenroy,GLENROY,3046.0,-37.706243,144.917243,,"203 Glenroy Road, GLENROY 3046",16 G3
+249,MORNIN11140,Hastings Community Hub (Fitness & Leisure Centre),Frankston-Flinders ,HASTINGS,3915.0,-38.297198,145.184966,Wooden Gymnasium,"1973 Frankston-Flinders  Road, HASTINGS 3915",154 G8
+250,MORNIN11160,Adrenalin Gym & Fitness,Satu ,MORNINGTON,3931.0,-38.236638,145.063501,,"7 Satu  Way, MORNINGTON 3931",
+251,MORNIN11192,Anytime Fitness Somerville,Eramosa,SOMERVILLE,3912.0,-38.22304,145.169419,,"49/55 Eramosa Road West, SOMERVILLE 3912",107 D12
+252,MORNIN11163,Body of Health Fitness & Recreation,Tanti,MORNINGTON,3931.0,-38.224704,145.048,,"131 Tanti Avenue, MORNINGTON 3931",
+253,MORNIN11180,Bruno's Gym,Colchester,ROSEBUD,3939.0,-38.379389,144.886355,,"15 Colchester Road, ROSEBUD 3939",
+254,MORNIN11154,Optima Health & Fitness,Milgate,MORNINGTON,3931.0,,,,"36 Milgate Drive, MORNINGTON 3931",
+255,MORNIN11159,Orbit Fitness,Nepean,MORNINGTON,3931.0,,,,"686 Nepean Hwy, MORNINGTON 3931",145 F1
+256,MORNIN11169,Stephen Halpin Fitness & Education,Dunns,MOUNT MARTHA,3934.0,,,," Dunns Road, MOUNT MARTHA 3934",
+257,MORNIN11513,Peninsula Gymnastic ,Boneo,ROSEBUD,3939.0,,,,"212 Boneo Road, ROSEBUD 3939",
+258,MORNIN11474,Western Port Gymnastics,Frankston Flinders,HASTINGS,3915.0,,,,"1973 Frankston Flinders Road, HASTINGS 3915",
+259,MORNIN11136,Dromana Tennis & Netball (Sports & Fitness Centre),Marna,DROMANA,3936.0,-38.336802,144.970217,Asphalt,"10 Marna Street, DROMANA 3936",159 J7
+260,MOUNTA12661,Everyone Health and Fitness,Lyttleton,CASTLEMAINE,3450.0,-37.0645,144.218,,"23a Lyttleton Street, CASTLEMAINE 3450",628 G6
+261,MOUNTA12696,Life Cycle Gymnasium,Pyrenees,CHEWTON,3451.0,-37.084703,144.272087,,"723 Pyrenees Highway, CHEWTON 3451",629 R10
+262,MURRIN11018,Pheasant Creek Fitness Centre ,Jorgensen,KINGLAKE WEST,3757.0,-37.480111,145.2785,,"33 Jorgensen Parade, KINGLAKE WEST 3757",428 G2
+263,NILLUM11039,Diamond Valley Sports and Fitness Centre,Civic,GREENSBOROUGH  ,3088.0,-37.688252,145.108263,Wooden Gymnasium," Civic Drive, GREENSBOROUGH   3088",11 A10
+264,NILLUM11033,Anytime Fitness Diamond Creek,George,DIAMOND CREEK,3089.0,-37.673852,145.1603,,"10 George Street, DIAMOND CREEK 3089",
+265,NILLUM11026,Balance Gymnastics & Fitness,Candlebark,RESEARCH,3095.0,-37.69913,145.186761,,"11 Candlebark Court , RESEARCH 3095",
+266,NILLUM11043,Mickey's Fitness,Candelbark,RESEARCH,3095.0,-37.698766,145.185437,,"2/7 Candelbark Court, RESEARCH 3095",
+267,NILLUM11463,Jets Gymnastics Eltham,Brisbane,ELTHAM,3095.0,-37.717426,145.138686,,"12 Brisbane Street, ELTHAM 3095",
+268,NORTHE11515,Stawell Gymnastic Club,Sloane,STAWELL,3380.0,,,,"42 Sloane Street, STAWELL 3380",
+269,PORTPH11508,Fishermen's Bend Gymnastics Club,Dunstan ,PORT MELBOURNE,3207.0,,,," Dunstan  Parade, PORT MELBOURNE 3207",
+270,GREATE12090,All About You Health Lifestlye & Fitness,Corio,SHEPPARTON,3630.0,-36.381117,145.403295,,"174 Corio Street, SHEPPARTON 3630",673 P9
+271,GREATE12108,GV Functional Fitness,Mill,MOOROOPNA,3629.0,-36.393783,145.359989,,"5 Mill Street, MOOROOPNA 3629",673 G12
+272,GREATE12134,Mud's Gym,Kialla Lakes,KIALLA,3631.0,-36.415813,145.400183,," Kialla Lakes Drive, KIALLA 3631",675 P5
+273,GREATE12140,Northside Health & Fitness,Numurkah,SHEPPARTON,3630.0,-36.348538,145.401354,,"228 Numurkah Road, SHEPPARTON 3630",673 P2
+274,GREATE12153,Tatura Gym & Fitness Centre,Rodney,TATURA,3616.0,-36.447275,145.233427,,"1 Rodney Court, TATURA 3616",671 O6
+275,GREATE12159,Total Body Health Fitness & Wellbeing,Golburn Valley,KIALLA,3631.0,-36.415198,145.39133,,"7953 Golburn Valley Highway, KIALLA 3631",675 N5
+276,SHEPPA11514,Shepparton Gymnastic ,Hawdon,SHEPPARTON,3630.0,,,," Hawdon Street, SHEPPARTON 3630",
+277,SOUTHG12440,Fitness First - Leongatha,McCartin,LEONGATHA,3953.0,-38.478084,145.943859,,"51 McCartin Street, LEONGATHA 3953",
+278,SOUTHG11483,Leongatha Gymnastic Club (St Laurence O'tool Primary School),Ogilvy,LEONGATHA,3953.0,,,,"35 Ogilvy Street, LEONGATHA 3953",
+279,SOUTHE11423,Vitality Health & Fitness,Shakespear,HAMILTON ,3300.0,,,,"93 Shakespear Street, HAMILTON  3300",506 F6
+280,SOUTHE11473,Hamilton and District Gym Club,Mt Baimbridge,HAMILTON,3300.0,,,,"266 Mt Baimbridge Road, HAMILTON 3300",
+281,STONNI11971,Fitness First,Chapel,SOUTH YARRA,3141.0,-37.845225,144.99467,,"402 Chapel Street, SOUTH YARRA 3141",
+282,STONNI11974,Fitness HQ,Jackson,TOORAK,3142.0,-37.840872,145.009989,,"30 Jackson Street, TOORAK 3142",
+283,STONNI11975,Genesis Health & Fitness,Toorak,TOORAK,3142.0,,,,"521 Toorak Road, TOORAK 3142",
+284,STONNI11979,Malvern Health & Fitness,Malvern,MALVERN,3144.0,,,,"1291 Malvern Road, MALVERN 3144",
+285,STONNI11977,Origin Fitness,Percy,PRAHRAN,3181.0,,,,"2 Percy Street, PRAHRAN 3181",
+286,STONNI11969,PerfectFit Gym,Waverley,EAST MALVERN,3145.0,,,,"135 Waverley Road, EAST MALVERN 3145",
+287,STONNI11985,Snap Fitness Armadale,High,ARMADALE,3143.0,-37.854622,145.012349,,"724 High Street, ARMADALE 3143",
+288,STONNI11980,Supreme Fitness,Malvern,MALVERN,3144.0,,,,"1/1442 Malvern Road, MALVERN 3144",
+289,STONNI11973,Terry Bennett Fitness Centre,High ,PRAHRAN,3181.0,,,,"1/227 High  Street, PRAHRAN 3181",
+290,STONNI11468,Glen Iris Gymnastics (Korowa Anglican Girls Grammar School),Ranfurlie,GLEN IRIS,3146.0,,,," Ranfurlie Cresent, GLEN IRIS 3146",
+291,STONNI11510,LF Fitness For Fun,Green,PRAHRAN,3181.0,,,," Green Street, PRAHRAN 3181",
+292,STONNI11517,Loreto Gymnastic Club,Mandeville,TOORAK,3142.0,,,,"10 Mandeville Cresent, TOORAK 3142",
+293,SURFCO11882,Torquay Coastal Boxing & Fitness Family Gym,Baines,TORQUAY,3228.0,-38.32707,144.31515,," Baines Cresent, TORQUAY 3228",527 P5
+294,SURFCO11886,Great Ocean Fitness,Ocean View,TORQUAY,3228.0,-38.334245,144.309227,,"54 Ocean View Crescent, TORQUAY 3228",527 Q5
+295,SURFCO11884,Jetts Fitness Torquay,Bristol,TORQUAY,3228.0,-38.331439,144.32095,,"41 Bristol Avenue, TORQUAY 3228",527 Q6
+296,SURFCO11885,Zoo Health & Fitness,Gilbert ,TORQUAY,3228.0,,,,"12 Gilbert  Street, TORQUAY 3228",527 R6
+297,SWANHI9483,Voyage Fitness Swan Hill,Campbell ,SWAN HILL,3585.0,-35.337425,143.559342,,"121-123 Campbell  street, SWAN HILL 3585",586 H3
+298,WARRNA11674,Action Fitness Centre ,Mortlake,WARRNAMBOOL,3280.0,-38.368489,142.493713,,"63 Mortlake Road, WARRNAMBOOL 3280",515 M5
+299,WARRNA11681,Body Blitzer Fitness Centre,Raglan,WARRNAMBOOL,3280.0,-38.366511,142.460197,,"1113 Raglan Parade, WARRNAMBOOL 3280",515 Q8
+300,WARRNA11692,logans Beach Spa & Fitness,logans Beach,WARRNAMBOOL,3280.0,-38.401034,142.517923,," logans Beach Road, WARRNAMBOOL 3280",515 P11
+301,WARRNA11707,Warrnambool Gymnastics Centre,Hyland,WARRNAMBOOL,3280.0,-38.375505,142.470354,," Hyland Street, WARRNAMBOOL 3280",
+302,WELLIN10994,Anytime Fitness Sale,York,SALE,3850.0,-38.105426,147.067981,,"205 York Street, SALE 3850",693 P8
+303,WELLIN11004,High Powered Fitness,York,SALE,3850.0,,,,"256 York Street, SALE 3850",693 P8
+304,WELLIN11005,iTrain Fitness Studio,Raymond,SALE,3850.0,,,,"89 Raymond Street, SALE 3850",693 O4
+305,WELLIN11007,KC 7 Fitness Centre,Johnson ,MAFFRA,3860.0,,,,"192 Johnson  Street, MAFFRA 3860",694 B6
+306,WELLIN11028,Sale Health and Fitness,Raymond,SALE,3850.0,,,,"308 Raymond Street, SALE 3850",693 O4
+307,WHITEH10985,Advantage Health & Fitness,Swan,BLACKBURN SOUTH,3130.0,-37.840231,145.138889,,"41 Swan Street, BLACKBURN SOUTH 3130",
+308,WHITEH10986,Anytime Fitness,Whitehorse,MITCHAM,3132.0,-37.815908,145.193752,,"1/517 Whitehorse Road, MITCHAM 3132",
+309,WHITEH11014,Global One Fitness,Station ,BLACKBURN,3130.0,,,,"20 Station  Street, BLACKBURN 3130",
+310,WHITEH11016,Hammer's Gym,Whitehorse,BLACKBURN,3130.0,,,,"198 Whitehorse Road, BLACKBURN 3130",
+311,WHITEH11024,LifeStyle Fitness Centre,Mahoneys,FOREST HILL,3131.0,,,,"79 Mahoneys Road, FOREST HILL 3131",
+312,WHITEH11004,Snap Fitness Vermont South,Burwood ,VERMONT SOUTH,3133.0,-37.855714,145.180138,,"475 Burwood  Hwy, VERMONT SOUTH 3133",
+313,WHITEH11050,Whitehorse Fitness,Bank,BOX HILL,3128.0,,,,"20 Bank Street, BOX HILL 3128",
+314,WHITEH11052,Your Gym,Whitehorse,SURREY HILLS,3127.0,,,,"558 Whitehorse Road, SURREY HILLS 3127",
+315,WHITEH11456,BUGS Gymnastics,Highbury,BURWOOD,3125.0,,,,"76 Highbury Road, BURWOOD 3125",
+316,WHITEH11450,Eastern Gymnastics Club,Clarice,BOX HILL SOUTH,3128.0,,,,"21 Clarice Road, BOX HILL SOUTH 3128",
+317,WHITEH11449,Eastern Gymnastics Club (Box Hill North Primary School),Elizabeth,BOX HILL NORTH,3129.0,,,," Elizabeth Street, BOX HILL NORTH 3129",
+318,WHITEH11505,Nunawading Gymnastic Club,Whitehorse,NUNAWADING,3131.0,,,," Whitehorse Road, NUNAWADING 3131",
+319,WHITTL9518,Diamond Valley Fitness Centre,Grimshaw,BUNDOORA,3083.0,-37.701423,145.071079,,"434 Grimshaw Street, BUNDOORA 3083",19 B1
+320,WHITTL9531,Epping Squash and Fitness Centre,Coulstock,EPPING,3076.0,-37.649827,145.023759,,"69 Coulstock Street, EPPING 3076",182 A11
+321,WHITTL9529,Fitness First Epping,high,EPPING,3076.0,-37.652438,145.023665,,"650 high Street, EPPING 3076",182 A12
+322,WHITTL9561,Five Star Fitness Centre 24/7 Gym,Settlement ,THOMASTOWN,3074.0,-37.687975,145.013334,,"391 Settlement  Road, THOMASTOWN 3074",8 J10
+323,WHITTL9566,Whittlesea Fitness Centre,Church,WHITTLESEA,3757.0,-37.51197,145.11723,,"2-68 Church Street, WHITTLESEA 3757",246 G8
+324,WHITTL236,Genesis Fitness Club Bundoora,Scholar,BUNDOORA ,3083.0,-37.682711,145.073338,,"24 Scholar Drive, BUNDOORA  3083",
+325,WHITTL11465,Gymsports Academy of Movement ,Gipps,EPPING,3076.0,,,,"5 Gipps Court, EPPING 3076",
+326,WHITTL11490,PIT Gymnastic ,Heaths,MILL PARK,3082.0,,,,"40 Heaths Court, MILL PARK 3082",
+327,WODONG11104,Lifeforce Fitness Centre,High ,WODONGA,3690.0,,,,"38 High  Street, WODONGA 3690",653 N5
+328,WODONG11100,Lifestyle Fitness,Elgin ,WODONGA,3690.0,,,,"70 Elgin  Road, WODONGA 3690",653 L5
+329,WODONG11525,Flyaway Gymnastics Club (Wodonga Primary School),Brockley,WODONGA,3690.0,,,," Brockley street, WODONGA 3690",
+330,WODONG11105,Fighting Fitness Martial Arts training Centre,Thomas Mitchell,WODONGA,3690.0,,,,"87 Thomas Mitchell Drive, WODONGA 3690",653 N7
+331,WYNDHA8491,Aeromax Fitness Health Club,Derrimut,WERRIBEE,3030.0,-37.875501,144.680496,," Derrimut Road, WERRIBEE 3030",206 D4
+332,WYNDHA8500,Fenix Fitness Club Hoppers Crossing,Mossfiel,HOPPERS CROSSING,3029.0,-37.869127,144.691056,,"116 Mossfiel Drive, HOPPERS CROSSING 3029",202 F11
+333,WYNDHA8501,Fenix Fitness Club Point Cook,Main,POINT COOK,3030.0,-37.884,144.735125,,"2 Main Street, POINT COOK 3030",207 F3
+334,WYNDHA8509,In-Balance Fitness Werribee,Manly,WERRIBEE,3030.0,-37.898392,144.661842,,"3 Manly Street, WERRIBEE 3030",205 J7
+335,WYNDHA8513,Manor Lake Fitness,Manor Lakes,WYNDHAM VALE,3024.0,-37.876367,144.61474,," Manor Lakes Boulevard, WYNDHAM VALE 3024",204 H1
+336,WYNDHA8515,My Gym Hoppers Crossing,Graham,HOPPERS CROSSING,3029.0,-37.871074,144.72919,," Graham Court, HOPPERS CROSSING 3029",203 E12
+337,WYNDHA8530,Werribee Sports & Fitness Centre,Ballan,WERRIBEE,3030.0,-37.898601,144.640316,Wooden Flooring," Ballan Road, WERRIBEE 3030",205 F8
+338,WYNDHA8525,Victorian University Fitness Centres,Hoppers,WERRIBEE,3030.0,-37.87829,144.680757,," Hoppers Lane, WERRIBEE 3030",206 H5
+339,WYNDHA11477,Gym Monkeys,Shaft ,HOPPERS CROSSING,3029.0,,,,"3 Shaft  Court, HOPPERS CROSSING 3029",
+340,WYNDHA11478,Resilience Gymnastic ,Graham,HOPPERS CROSSING,3029.0,,,,"15 Graham Court, HOPPERS CROSSING 3029",
+341,WYNDHA11522,Werribee Gymnastic Club,Riverside,WERRIBEE,3030.0,,,,"52 Riverside Avenue, WERRIBEE 3030",
+342,YARRAC11024,Melbourne Aboriginal Sport and Recreation Gym,Gertrude,FITZROY,,,,," Gertrude Street, FITZROY ",
+343,YARRAC11054,All Seasons Personal Fitness,Bridge,RICHMOND,3121.0,-37.817479,144.991239,,"41 Bridge Road, RICHMOND 3121",
+344,YARRAC11034,Anytime Fitness Alphington,Heidelberg ,ALPHINGTON ,3067.0,-37.780993,145.031394,,"738 Heidelberg  Road, ALPHINGTON  3067",
+345,YARRAC11056,Anytime Fitness Richmond,Coppin,RICHMOND,3121.0,-37.820398,145.003818,,"8/53 Coppin Street, RICHMOND 3121",
+346,YARRAC11019,Australian Institute of Fitness,Church,RICHMOND,3121.0,-37.824922,144.998156,,"405 Church Street, RICHMOND 3121",
+347,YARRAC10981,Collingwood Housing Estate Gymnasium ,Hoddle,COLLINGWOOD,3066.0,-37.80287,144.992863,," Hoddle Street, COLLINGWOOD 3066",2C H10
+348,YARRAC11046,Fitness 24 Hours,Johnston,FITZROY ,3065.0,-37.79809,144.979215,,"133 Johnston Street, FITZROY  3065",
+349,YARRAC11016,Fitness First,Church,RICHMOND,3121.0,-37.82937,144.9964,,"560 Church Street, RICHMOND 3121",
+350,YARRAC11059,Fitness Live,Stephenson,RICHMOND,3121.0,,,,"4 Stephenson Street, RICHMOND 3121",
+351,YARRAC11066,Fitness Ring Studio ,Victoria ,RICHMOND,3121.0,,,,"488 Victoria  Street, RICHMOND 3121",
+352,YARRAC11051,fitness Xplosion,St. Georges ,FITZROY NORTH,3068.0,,,," St. Georges  Road, FITZROY NORTH 3068",
+353,YARRAC10992,Fitnessland Gym,Grange,FAIRFIELD,3078.0,,,,"212 Grange Road, FAIRFIELD 3078",
+354,YARRAC11040,Hunts Fitness Centre,Johnston,FITZROY,3065.0,,,,"41 Johnston Street, FITZROY 3065",
+355,YARRAC10980,Hurl's Fitness,Queens ,CLIFTON HILL,3068.0,,,,"107 Queens  Parade, CLIFTON HILL 3068",
+356,YARRAC11018,Lifestyle Fitness Centre,Church,RICHMOND,3121.0,,,,"401 Church Street, RICHMOND 3121",
+357,YARRAC11011,Muscle & Body Shape Gym,Wangaratta,RICHMOND,3121.0,,,,"25 Wangaratta Street, RICHMOND 3121",
+358,YARRAC11014,Pisces Speacilised Fitness,Bridge,RICHMOND,3121.0,,,,"45 Bridge Road, RICHMOND 3121",
+359,YARRAC11000,Time 4 Fitness,Johnston,FITZROY,3065.0,,,,"135 Johnston Street, FITZROY 3065",
+360,YARRAC11064,Unique Fitness Studio ,Waverley,RICHMOND,3121.0,,,,"33 Waverley Street, RICHMOND 3121",
+361,YARRAC11044,Vibes Fitness ,Leicester,FITZROY,3065.0,,,,"106 Leicester Street, FITZROY 3065",
+362,YARRAC11045,Vigor Health & Fitness,Smith,FITZROY,3065.0,,,,"393 Smith Street, FITZROY 3065",
+363,YARRAC11058,Zap Fitness Richmond,Bridge,RICHMOND,3121.0,-37.819201,145.007592,,"509-511 Bridge Road, RICHMOND 3121",
+364,YARRAR11430,Female Gym Chirnside Park,Maroondah,CHIRNSIDE PARK,3116.0,-37.767272,145.302566,,"286 Maroondah Hwy, CHIRNSIDE PARK 3116",37 H5
+365,YARRAR11477,Fit Gym ,Wray,MOUNT EVELYN,3796.0,-37.786307,145.378829,,"17 Wray Crescent, MOUNT EVELYN 3796",120 A1
+366,YARRAR11455,Jetts Fitness Lilydale,Hutchinson,LILYDALE,3140.0,,,,"33 Hutchinson Street, LILYDALE 3140",
+367,YARRAR11458,Lilydale Squash & Fitness Centre,Maroondah,LILYDALE,3140.0,,,,"446 Maroondah Hwy, LILYDALE 3140",280 K12
+368,YARRAR11444,Nitro Gym,Canterbury,KILSYTH,3137.0,,,,"115 Canterbury Road, KILSYTH 3137",
+369,YARRAR11491,Ranges Fitness,Main,UPWEY,3158.0,,,,"82 Main Street, UPWEY 3158",
+370,YARRAR11446,Spartans Gym & Fitness,Colchester,KILSYTH,3137.0,,,,"255 Colchester Road, KILSYTH 3137",51 F5
+371,YARRAR5214,Glitz Gymnastics Academy,Beresford,LILYDALE,3140.0,,,,"155 Beresford Road, LILYDALE 3140",
