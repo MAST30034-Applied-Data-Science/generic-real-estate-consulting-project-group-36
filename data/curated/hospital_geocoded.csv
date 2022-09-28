@@ -1,0 +1,271 @@
+,Hospital ID,Formal Name,Other Name,Emergency Capable,Location Address,Suburb,Postcode,Access Point,Category,Agency Type,Location,latitudes,longitudes
+0,5488,Albert Road Clinic,Albert Road Clinic,NO,31-33 Albert Road,South Melbourne,VIC  3205,,PRIVATE,Private Hospital,"31-33 Albert Road,South Melbourne,VIC  3205",-37.8378596,144.96617
+1,3485,Albury Wodonga Health,Albury Wodonga Health,YES,69 Vermont Street,Wodonga,VIC  3690,,PUBLIC,Public Hospital,"69 Vermont Street,Wodonga,VIC  3690",-36.1320403,146.8800037
+2,12990,"Albury Wodonga Health, Albury Campus","Albury Wodonga Health, Albury Campus",YES,Borella,Albury,VIC  2640,,PUBLIC,Public Hospital,"Borella,Albury,VIC  2640",-37.0,145.0
+3,3491,Alexandra District Health,Alexandra District Health,NO,20 Cooper Street,Alexandra,VIC  3714,,PUBLIC,Public Hospital,"20 Cooper Street,Alexandra,VIC  3714",-37.1960382,145.7085458
+4,11519,Alfred Health,Alfred Health,NO,Commercial Road,Melbourne,VIC  3004,,PUBLIC,Public Hospital,"Commercial Road,Melbourne,VIC  3004",-37.8448392,144.9789364
+5,5618,Alpine Health,Alpine Health,NO,30 O'Donnell Avenue,Myrtleford,VIC  3737,,PUBLIC,Multi Purpose Service,"30 O'Donnell Avenue,Myrtleford,VIC  3737",-36.5506738,146.7270364
+6,3483,Angliss Hospital,Angliss Hospital,YES,Albert Street,Upper Ferntree Gully,VIC  3156,,PUBLIC,Public Hospital,"Albert Street,Upper Ferntree Gully,VIC  3156",-37.8965217,145.3100668
+7,12266,Appearance Medical Centre,Appearance Medical Centre,NO,57 Garsed Street,Bendigo,VIC  3550,,PRIVATE,Day Procedure Centre,"57 Garsed Street,Bendigo,VIC  3550",-36.7630749,144.2821403
+8,3401,Austin Health,Austin Health,NO,145 Studley Road,Heidelberg,VIC  3084,,PUBLIC,Public Hospital,"145 Studley Road,Heidelberg,VIC  3084",-37.7565612,145.0586566
+9,11733,Austin Health - Austin Hospital,Austin Health - Austin Hospital,YES,145 Studley Road,Heidelberg,VIC  3084,,PUBLIC,Public Hospital,"145 Studley Road,Heidelberg,VIC  3084",-37.7565612,145.0586566
+10,11744,Austin Health - Heidelberg Repatriation Hospital,Austin Health - Heidelberg Repatriation Hospital,NO,300 Waterdale Road,Heidelberg Heights,VIC  3081,,PUBLIC,Public Hospital,"300 Waterdale Road,Heidelberg Heights,VIC  3081",-37.739192,145.0483772
+11,6272,Bairnsdale Regional Health Service,Bairnsdale Regional Health Service,YES,122 Day St,Bairnsdale,VIC  3875,,PUBLIC,Public Hospital,"122 Day St,Bairnsdale,VIC  3875",-37.8247855,147.6099144
+12,6057,Ballan District Health and Care,Ballan District Health and Care,NO,33 Cowie Street,Ballan,VIC  3342,,PRIVATE,Bush Nursing Hospital,"33 Cowie Street,Ballan,VIC  3342",-37.5995317,144.2224358
+13,11920,Ballarat Day Procedure Centre,Ballarat Day Procedure Centre,NO,1119/1123 Howitt Street,Ballarat,VIC  3355,,PRIVATE,Day Procedure Centre,"1119/1123 Howitt Street,Ballarat,VIC  3355",-37.5391886,143.8225455
+14,10441,Barwon Health,Barwon Health,YES,272-322 Ryrie Street,Geelong,VIC  3220,,PUBLIC,Public Hospital,"272-322 Ryrie Street,Geelong,VIC  3220",-38.1539,144.3351
+15,6884,Bass Coast Health,Bass Coast Health,NO,235 Graham Street,Wonthaggi,VIC  3995,,PUBLIC,Public Hospital,"235 Graham Street,Wonthaggi,VIC  3995",-38.6054014,145.5977288
+16,11533,Bayside Day Procedure and Specialist Centre,Bayside Day Procedure and Specialist Centre,NO,141 Cranbourne Road,Frankston,VIC  3199,,PRIVATE,Day Procedure Centre,"141 Cranbourne Road,Frankston,VIC  3199",-38.147025,145.1398909
+17,10765,Bayside Endoscopy Day Hospital,Bayside Endoscopy Day Hospital,NO,441 South Road,Moorabbin,VIC  3189,,PRIVATE,Day Procedure Centre,"441 South Road,Moorabbin,VIC  3189",-37.9358421,145.0562872
+18,12058,Bayswater Day Procedure and Specialist Centre,Bayswater Day Procedure and Specialist Centre,NO,664 Mountain Highway,Bayswater,VIC  3153,,PRIVATE,Day Procedure Centre,"664 Mountain Highway,Bayswater,VIC  3153",-37.8418999,145.2629359
+19,3609,Beaufort and Skipton Health Service,Beaufort and Skipton Health Service,NO,28 Havelock Street,Beaufort,VIC  3373,,PUBLIC,Public Hospital,"28 Havelock Street,Beaufort,VIC  3373",-37.4311534,143.3824205
+20,3377,Beechworth Health Service,Beechworth Health Service,NO,52 Sydney Road,Beechworth,VIC  3747,,PUBLIC,Public Hospital,"52 Sydney Road,Beechworth,VIC  3747",-36.3490283,146.6916113
+21,2416,Beleura Private Hospital,Beleura Private Hospital,NO,925 Nepean Highway,Mornington,VIC  3931,,PRIVATE,Private Hospital,"925 Nepean Highway,Mornington,VIC  3931",-38.2264479,145.0489792
+22,2418,Bellbird Private Hospital,Bellbird Private Hospital,NO,198 Canterbury Road,Blackburn,VIC  3130,,PRIVATE,Private Hospital,"198 Canterbury Road,Blackburn,VIC  3130",-37.8317757,145.1480131
+23,3217,Benalla Health,Benalla Health,NO,45-63 Coster Street,Benalla,VIC  3672,,PUBLIC,Public Hospital,"45-63 Coster Street,Benalla,VIC  3672",-36.5549571,145.9944981
+24,12695,Bendigo Day Surgery,Bendigo Day Surgery,NO,1-7 Chum Street,Bendigo,VIC  3550,,PRIVATE,Day Procedure Centre,"1-7 Chum Street,Bendigo,VIC  3550",-36.7709339,144.2632204
+25,3292,Bendigo Health,Bendigo Health,YES,62 Lucan St ,Bendigo,VIC  3550,,PUBLIC,Public Hospital,"62 Lucan St ,Bendigo,VIC  3550",-36.749821,144.2839336
+26,12472,Bentleigh Surgicentre,Bentleigh Surgicentre,NO,155 Jasper Road,Bentleigh,VIC  3204,,PRIVATE,Day Procedure Centre,"155 Jasper Road,Bentleigh,VIC  3204",-37.922317,145.0410284
+27,11462,Berwick Surgicentre,Berwick Surgicentre,NO,22 Langmore Lane,Berwick,VIC  3806,,PRIVATE,Day Procedure Centre,"22 Langmore Lane,Berwick,VIC  3806",-38.0329271,145.3436904
+28,6103,Boort District Health,Boort District Health,NO,31 Kiniry Street,Boort,VIC  3537,,PUBLIC,Public Hospital,"31 Kiniry Street,Boort,VIC  3537",-36.114281,143.7275701
+29,3403,Box Hill Hospital,Box Hill Hospital,YES,51 Nelson Road ,Box Hill,VIC  3128,,PUBLIC,Public Hospital,"51 Nelson Road ,Box Hill,VIC  3128",-37.8174181,145.1192958
+30,10769,Brighton Plastic Surgery Centre,Brighton Plastic Surgery Centre,NO,206 New Street,Brighton,VIC  3186,,PRIVATE,Day Procedure Centre,"206 New Street,Brighton,VIC  3186",-37.9090357,144.9922766
+31,10815,Broadmeadows Health Service,Broadmeadows Health Service,NO,35 Johnstone St,Broadmeadows,VIC  3047,,PUBLIC,Public Hospital,"35 Johnstone St,Broadmeadows,VIC  3047",-37.6849639,144.9180178
+32,2517,Brunswick Private Hospital,Brunswick Private Hospital,NO,82 Moreland Road,Brunswick,VIC  3056,,PRIVATE,Private Hospital,"82 Moreland Road,Brunswick,VIC  3056",-37.7542466,144.9539729
+33,3574,Bundoora Extended Care Centre,Bundoora Extended Care Centre,NO,1231 Plenty Road,Bundoora,VIC  3083,,PUBLIC,Public Hospital,"1231 Plenty Road,Bundoora,VIC  3083",-37.7015035,145.0555573
+34,2421,Cabrini Brighton,Cabrini Brighton,NO,243 New Street,Brighton,VIC  3186,,PRIVATE,Private Hospital,"243 New Street,Brighton,VIC  3186",-37.911664,144.9911825
+35,2445,Cabrini Health Elsternwick Rehabilitation Service,Cabrini Health Elsternwick Rehabilitation Service,NO,494 Glenhuntly Road,Elsternwick,VIC  3185,,PRIVATE,Private Hospital,"494 Glenhuntly Road,Elsternwick,VIC  3185",-37.8984,145.0088
+36,2456,Cabrini Hopetoun Rehabilitation,Cabrini Hopetoun Rehabilitation,NO,2-4 Hopetoun Street,Elsternwick,VIC  3185,,PRIVATE,Private Hospital,"2-4 Hopetoun Street,Elsternwick,VIC  3185",-37.8836979,145.010281
+37,2499,Cabrini Malvern,Cabrini Malvern,NO,181-183 Wattletree Road,Malvern,VIC  3144,,PRIVATE,Private Hospital,"181-183 Wattletree Road,Malvern,VIC  3144",-37.8618034,145.0335038
+38,11344,Cabrini Prahran,Cabrini Prahran,NO,646 High Street,Prahran East,VIC  3181,,PRIVATE,Private Hospital,"646 High Street,Prahran East,VIC  3181",-37.853,144.9929
+39,3384,Calvary Health Care Bethlehem Ltd.,Calvary Health Care Bethlehem Ltd.,NO,476 Kooyong Road,Caulfield,VIC  3162,,PUBLIC,Denominational Hospital,"476 Kooyong Road,Caulfield,VIC  3162",-37.8925819,145.0137345
+40,3385,Caritas Christi Hospice Ltd,Caritas Christi Hospice Ltd,NO,104 Studley Park Road,Kew,VIC  3101,,PUBLIC,Denominational Hospital,"104 Studley Park Road,Kew,VIC  3101",-37.8067377,145.0202482
+41,12280,Casey Hospital,Casey Hospital,YES,52 Kangan Drive,Berwick,VIC  3806,,PUBLIC,Public Hospital,"52 Kangan Drive,Berwick,VIC  3806",-38.0402389,145.342292
+42,6151,Casterton Memorial Hospital,Casterton Memorial Hospital,NO,63-69 Russell Street,Casterton,VIC  3311,,PUBLIC,Public Hospital,"63-69 Russell Street,Casterton,VIC  3311",-37.590451,141.3923575
+43,3397,Caulfield Hospital,Caulfield Hospital,NO,260 Kooyong Road,Caulfield,VIC  3162,,PUBLIC,Public Hospital,"260 Kooyong Road,Caulfield,VIC  3162",-37.8823815,145.016733
+44,11269,Central Gippsland Health Service,Central Gippsland Health Service,YES,155 Guthridge Parade,Sale,VIC  3850,,PUBLIC,Public Hospital,"155 Guthridge Parade,Sale,VIC  3850",-38.1179262,147.0800094
+45,10434,Central Highlands Rural Health,Central Highlands Rural Health,NO,13 Hospital Street,Daylesford,VIC  3460,,PUBLIC,Public Hospital,"13 Hospital Street,Daylesford,VIC  3460",-37.3372135,144.1452915
+46,5495,Chesterville Day Hospital,Chesterville Day Hospital,NO,28 Chesterville Road,Cheltenham,VIC  3192,,PRIVATE,Day Procedure Centre,"28 Chesterville Road,Cheltenham,VIC  3192",-37.9604882,145.056943
+47,2432,Cobden District Health Service Inc.,Cobden District Health Service Inc.,NO,5 Victoria Street,Cobden,VIC  3266,,PRIVATE,Bush Nursing Hospital,"5 Victoria Street,Cobden,VIC  3266",-38.3284145,143.077269
+48,12057,Coburg Endoscopy Centre,Coburg Endoscopy Centre,NO,15 Munro Street,Coburg,VIC  3058,,PRIVATE,Day Procedure Centre,"15 Munro Street,Coburg,VIC  3058",-37.7443011,144.9589224
+49,3333,Cohuna District Hospital,Cohuna District Hospital,NO,144-158 King George Street,Cohuna,VIC  3568,,PUBLIC,Public Hospital,"144-158 King George Street,Cohuna,VIC  3568",-35.8072555,144.2201772
+50,3463,Colac Area Health,Colac Area Health,NO,2-28 Conner St,Colac,VIC  3250,,PUBLIC,Public Hospital,"2-28 Conner St,Colac,VIC  3250",-38.339,143.5849
+51,3335,Corryong Health,Corryong Health,NO,20 Kiell Street,Corryong,VIC  3707,,PUBLIC,Multi Purpose Service,"20 Kiell Street,Corryong,VIC  3707",-36.1977057,147.9029391
+52,12694,Corymbia House,Corymbia House,NO,92-94 David Street,Dandenong,VIC  3175,,PRIVATE,Day Procedure Centre,"92-94 David Street,Dandenong,VIC  3175",-37.9755476,145.2042924
+53,2435,Cotham Private Hospital,Cotham Private Hospital,NO,209 Cotham Road,Kew,VIC  3101,,PRIVATE,Private Hospital,"209 Cotham Road,Kew,VIC  3101",-37.8071492,145.0333314
+54,12580,Craigieburn Health Service,Craigieburn Health Service,NO,350 Craigieburn Road West,Craigieburn,VIC  3064,,PUBLIC,Public Hospital,"350 Craigieburn Road West,Craigieburn,VIC  3064",-37.5986795,144.9416983
+55,12583,Cranbourne Integrated Care Centre,Cranbourne Integrated Care Centre,NO,140-154 Sladen Street,Cranbourne,VIC  3977,,PUBLIC,Public Hospital,"140-154 Sladen Street,Cranbourne,VIC  3977",-38.1107381,145.2653405
+56,2575,Dandenong Eye Clinic,Dandenong Eye Clinic,NO,1-3 Falkiner Crescent,Dandenong,VIC  3175,,PRIVATE,Day Procedure Centre,"1-3 Falkiner Crescent,Dandenong,VIC  3175",-37.9746377,145.2253413
+57,3405,Dandenong Hospital,Dandenong Hospital,YES,105-135 David Street,Dandenong,VIC  3175,,PUBLIC,Public Hospital,"105-135 David Street,Dandenong,VIC  3175",-37.9755476,145.2042924
+58,11880,Darebin Endoscopy Services,Darebin Endoscopy Services,NO,42 Station Street,Fairfield,VIC  3078,,PRIVATE,Day Procedure Centre,"42 Station Street,Fairfield,VIC  3078",-37.7847412,145.0171343
+59,2439,Delmont Private Hospital,Delmont Private Hospital,NO,298 Warrigal Road,Burwood,VIC  3125,,PRIVATE,Private Hospital,"298 Warrigal Road,Burwood,VIC  3125",-37.8519191,145.0953536
+60,3386,Dental Health Services Victoria,Dental Health Services Victoria,NO,720 Swanston Street,Carlton,VIC  3053,,PUBLIC,Public Hospital,"720 Swanston Street,Carlton,VIC  3053",-37.799306,144.9643473
+61,6526,Dhelkaya Health [Castlemaine Health],Dhelkaya Health [Castlemaine Health],NO,142 Cornish Street,Castlemaine,VIC  3450,,PUBLIC,Public Hospital,"142 Cornish Street,Castlemaine,VIC  3450",-37.0519115,144.2123435
+62,3349,Dhelkaya Health [Maldon Hospital],Dhelkaya Health [Maldon Hospital],NO,Chapel Street,Maldon,VIC  3463,,PUBLIC,Public Hospital,"Chapel Street,Maldon,VIC  3463",-36.9881713,144.0625861
+63,2440,Diamond Valley Renal Care Centre,Diamond Valley Renal Care Centre,NO,Grimshaw Street,Greensborough,VIC  3088,,PRIVATE,Day Procedure Centre,"Grimshaw Street,Greensborough,VIC  3088",-37.7052871,145.1085552
+64,5472,Digestive Health Centre,Digestive Health Centre,NO,90 David Street,Dandenong,VIC  3175,,PRIVATE,Day Procedure Centre,"90 David Street,Dandenong,VIC  3175",-37.9773876,145.2166302
+65,2441,Donvale Rehabilitation Hospital,Donvale Rehabilitation Hospital,NO,1119-1121 Doncaster Road,Donvale,VIC  3111,,PRIVATE,Private Hospital,"1119-1121 Doncaster Road,Donvale,VIC  3111",-37.7905413,145.1734215
+66,2444,Dorset Rehabilitation Centre,Dorset Rehabilitation Centre,NO,146 Derby Street,Pascoe Vale,VIC  3044,,PRIVATE,Private Hospital,"146 Derby Street,Pascoe Vale,VIC  3044",-37.7314447,144.9459392
+67,12197,Dr Walters Vasectomy Centre,Dr Walters Vasectomy Centre,NO,486 Burwood Highway,Vermont South,VIC  3133,,PRIVATE,Day Procedure Centre,"486 Burwood Highway,Vermont South,VIC  3133",-37.8569856,145.183228
+68,3301,East Grampians Health Service,East Grampians Health Service,NO,Lot 5B Girdlestone Street ,Ararat,VIC  3377,,PUBLIC,Public Hospital,"Lot 5B Girdlestone Street ,Ararat,VIC  3377",-37.2854,142.9273
+69,11390,East Melbourne Day Procedure Centre,East Melbourne Day Procedure Centre,NO,116 - 118 Wellington Parade,East Melbourne,VIC  3002,,PRIVATE,Day Procedure Centre,"116 - 118 Wellington Parade,East Melbourne,VIC  3002",-37.8156113,144.978941
+70,10433,East Wimmera Health Service,East Wimmera Health Service,NO,52 North Western Road,St Arnaud,VIC  3478,,PUBLIC,Public Hospital,"52 North Western Road,St Arnaud,VIC  3478",-36.6122544,143.2542031
+71,11518,Eastern Health,Eastern Health,NO,"Level 4, 5 Arnold Street",Box Hill,VIC  3128,,PUBLIC,Public Hospital,"Level 4, 5 Arnold Street,Box Hill,VIC  3128",-37.8145583,145.1184659
+72,11911,Eastside Endoscopy Centre,Eastside Endoscopy Centre,NO,33 Wantirna Road,Ringwood,VIC  3134,,PRIVATE,Day Procedure Centre,"33 Wantirna Road,Ringwood,VIC  3134",-37.8160608,145.2273127
+73,3052,Echuca Regional Health,Echuca Regional Health,YES,9-27 Frances Street,Echuca,VIC  3564,,PUBLIC,Public Hospital,"9-27 Frances Street,Echuca,VIC  3564",-36.1,144.9
+74,2431,Epworth Cliveden,Epworth Cliveden,NO,29 Simpson Street,East Melbourne,VIC  3002,,PRIVATE,Private Hospital,"29 Simpson Street,East Melbourne,VIC  3002",-37.8156804,144.9874795
+75,2571,Epworth Eastern Hospital,Epworth Eastern Hospital,NO,1 Arnold Street,Box Hill,VIC  3128,,PRIVATE,Private Hospital,"1 Arnold Street,Box Hill,VIC  3128",-37.8141724,145.1177405
+76,2450,Epworth Freemasons,Epworth Freemasons,NO,166 Clarendon Street,East Melbourne,VIC  3002,,PRIVATE,Private Hospital,"166 Clarendon Street,East Melbourne,VIC  3002",-37.811073,144.9840649
+77,2449,Epworth Rehabilitation Brighton,Epworth Rehabilitation Brighton,NO,85-91 Wilson Street,Brighton,VIC  3186,,PRIVATE,Private Hospital,"85-91 Wilson Street,Brighton,VIC  3186",-37.9101844,144.9984046
+78,2424,Epworth Rehabilitation Camberwell,Epworth Rehabilitation Camberwell,NO,888 Toorak Road,Camberwell,VIC  3124,,PRIVATE,Private Hospital,"888 Toorak Road,Camberwell,VIC  3124",-37.8462317,145.0544831
+79,2447,Epworth Richmond,Epworth Richmond,YES,89 Bridge Road,Richmond,VIC  3121,,PRIVATE,Private Hospital,"89 Bridge Road,Richmond,VIC  3121",-37.8168201,144.9940109
+80,12198,Essendon Day Procedure Centre,Essendon Day Procedure Centre,NO,"Level 2, 665 Mount Alexander Road",Moonee Ponds,VIC  3039,,PRIVATE,Day Procedure Centre,"Level 2, 665 Mount Alexander Road,Moonee Ponds,VIC  3039",-37.7643303,144.9236242
+81,2415,Essendon Private Clinic,Essendon Private Clinic,NO,33-35 Rosehill Road,Essendon,VIC  3040,,PRIVATE,Private Hospital,"33-35 Rosehill Road,Essendon,VIC  3040",-37.7479236,144.8817949
+82,6290,Euroa Health Inc,Euroa Health Inc,NO,36 Kennedy Street,Euroa,VIC  3666,,PRIVATE,Bush Nursing Hospital,"36 Kennedy Street,Euroa,VIC  3666",-36.7598199,145.5694044
+83,3407,Footscray Hospital,Footscray Hospital,YES,160 Gordon Street,Footscray,VIC  3011,,PUBLIC,Public Hospital,"160 Gordon Street,Footscray,VIC  3011",-37.7984789,144.8882307
+84,11996,Forest Hill Dialysis Centre,Forest Hill Dialysis Centre,NO,"Shops 26 & 27 Forest Hill Chase, 69 Mahoneys ",Forest Hill,VIC  3131,,PRIVATE,Day Procedure Centre,"Shops 26 & 27 Forest Hill Chase, 69 Mahoneys ,Forest Hill,VIC  3131",39.58511,-76.38774
+85,10767,Frances Perry House,Frances Perry House,NO,Levels 6 & 7 Cnr Grattan St & Flemington Rd,Parkville,VIC  3052,,PRIVATE,Private Hospital,"Levels 6 & 7 Cnr Grattan St & Flemington Rd,Parkville,VIC  3052",-37.78333,144.95
+86,3465,Frankston Hospital,Frankston Hospital,YES,Hastings Rd,Frankston,VIC  3199,,PUBLIC,Public Hospital,"Hastings Rd,Frankston,VIC  3199",-38.1536671,145.1338638
+87,10771,Geelong Private Hospital,Geelong Private Hospital,NO,272 Ryrie St,Geelong,VIC  3220,,PRIVATE,Private Hospital,"272 Ryrie St,Geelong,VIC  3220",-38.1474289,144.3533325
+88,7230,Gippsland Southern Health Service,Gippsland Southern Health Service,NO,66 Koonwarra Road,Leongatha,VIC  3953,,PUBLIC,Public Hospital,"66 Koonwarra Road,Leongatha,VIC  3953",-38.4795626,145.9493598
+89,12217,Glen Eira Day Surgery,Glen Eira Day Surgery,NO,554 Hawthorn Road,Caulfield South,VIC  3162,,PRIVATE,Day Procedure Centre,"554 Hawthorn Road,Caulfield South,VIC  3162",-37.8907576,145.0212435
+90,12289,Glenferrie Private Hospital,Glenferrie Private Hospital,NO,25 Linda Crescent,Hawthorn,VIC  3122,,PRIVATE,Private Hospital,"25 Linda Crescent,Hawthorn,VIC  3122",-37.8178744,145.0290416
+91,6333,Goulburn Valley Health,Goulburn Valley Health,YES,2 Graham Street,Shepparton,VIC  3630,,PUBLIC,Public Hospital,"2 Graham Street,Shepparton,VIC  3630",-36.3625128,145.4025668
+92,7783,Grampians Health [Ballarat Health Services],Grampians Health [Ballarat Health Services],YES,Drummond Street North,Ballarat,VIC  3353,,PUBLIC,Public Hospital,"Drummond Street North,Ballarat,VIC  3353",-37.5576433,143.8480333
+93,3340,Grampians Health [Edenhope and District Hospital],Grampians Health [Edenhope and District Hospital],NO,128-134 Elizabeth Street,Edenhope,VIC  3318,,PUBLIC,Public Hospital,"128-134 Elizabeth Street,Edenhope,VIC  3318",-37.0356163,141.2879437
+94,3544,Grampians Health [Stawell Regional Health],Grampians Health [Stawell Regional Health],NO,27-29 Sloane Street ,Stawell,VIC  3380,,PUBLIC,Public Hospital,"27-29 Sloane Street ,Stawell,VIC  3380",-37.0630968,142.7756733
+95,3595,Grampians Health [Wimmera Health Care Group],Grampians Health [Wimmera Health Care Group],YES,83 Baillie Street,Horsham,VIC  3400,,PUBLIC,Public Hospital,"83 Baillie Street,Horsham,VIC  3400",-36.7126078,142.208892
+96,2454,Hawthorn Birth and Development Centre,Hawthorn Birth and Development Centre,NO,144 Barkers Road,Hawthorn,VIC  3122,,PRIVATE,Private Hospital,"144 Barkers Road,Hawthorn,VIC  3122",-37.8126101,145.019217
+97,3510,Healesville and District Hospital,Healesville and District Hospital,NO,377 Maroondah Highway,Healesville,VIC  3777,,PUBLIC,Public Hospital,"377 Maroondah Highway,Healesville,VIC  3777",-37.6467345,145.5289774
+98,6355,Heathcote Health,Heathcote Health,NO,39 Hospital Street,Heathcote,VIC  3523,,PUBLIC,Public Hospital,"39 Hospital Street,Heathcote,VIC  3523",-36.9294703,144.7122299
+99,10766,Heidelberg Endoscopy and Day Surgery Centre,Heidelberg Endoscopy and Day Surgery Centre,NO,177-179 Northern Road,Heidelberg,VIC  3081,,PRIVATE,Day Procedure Centre,"177-179 Northern Road,Heidelberg,VIC  3081",-37.7299164,145.0528046
+100,6873,Hesse Rural Health Service,Hesse Rural Health Service,NO,8 Gosney Street,Winchelsea,VIC  3241,,PUBLIC,Public Hospital,"8 Gosney Street,Winchelsea,VIC  3241",-38.2432644,143.9837778
+101,2455,Heyfield Hospital Inc.,Heyfield Hospital Inc.,NO,21 Tyson Road,Heyfield,VIC  3858,,PRIVATE,Bush Nursing Hospital,"21 Tyson Road,Heyfield,VIC  3858",-37.9783334,146.7845569
+102,3512,Heywood Rural Health,Heywood Rural Health,NO,21 Barclay Street,Heywood,VIC  3304,,PUBLIC,Public Hospital,"21 Barclay Street,Heywood,VIC  3304",-38.1379457,141.624074
+103,10843,Hobson's Bay Endoscopy Centre Altona,Hobson's Bay Endoscopy Centre Altona,NO,5 Sargood Street,Altona,VIC  3018,,PRIVATE,Day Procedure Centre,"5 Sargood Street,Altona,VIC  3018",-37.8644073,144.8295729
+104,12476,Hobson's Bay Werribee Endoscopy Centre,Hobson's Bay Werribee Endoscopy Centre,NO,179 Princes Highway,Werribee,VIC  3030,,PRIVATE,Day Procedure Centre,"179 Princes Highway,Werribee,VIC  3030",-37.8849166,144.7000629
+105,12643,Hyperbaric Health Wound Centre Berwick,Hyperbaric Health Wound Centre Berwick,NO,3 Gibb Street,Berwick,VIC  3806,,PRIVATE,Day Procedure Centre,"3 Gibb Street,Berwick,VIC  3806",-38.0345554,145.3432746
+106,6371,Inglewood and District Health Service,Inglewood and District Health Service,NO,3 Hospital Street,Inglewood,VIC  3517,,PUBLIC,Public Hospital,"3 Hospital Street,Inglewood,VIC  3517",-36.5721529,143.8729694
+107,10910,Ivanhoe Endoscopy and Day Procedure Centre,Ivanhoe Endoscopy and Day Procedure Centre,NO,2/226 Upper Heidelberg Road,Ivanhoe,VIC  3079,,PRIVATE,Day Procedure Centre,"2/226 Upper Heidelberg Road,Ivanhoe,VIC  3079",-37.7657078,145.0461062
+108,2458,Jessie McPherson Private Hospital,Jessie McPherson Private Hospital,NO,246 Clayton Road,Clayton,VIC  3168,,PRIVATE,Private Hospital,"246 Clayton Road,Clayton,VIC  3168",-37.9201905,145.1224991
+109,2459,John Fawkner Private Hospital,John Fawkner Private Hospital,NO,275 Moreland Road,Coburg,VIC  3058,,PRIVATE,Private Hospital,"275 Moreland Road,Coburg,VIC  3058",-37.7542851,144.9588695
+110,5477,Jolimont Endoscopy,Jolimont Endoscopy,NO,19/201 Wellington Parade South,East Melbourne,VIC  3002,,PRIVATE,Day Procedure Centre,"19/201 Wellington Parade South,East Melbourne,VIC  3002",-37.8166545,144.980857
+111,5493,Keilor Private,Keilor Private,NO,771 Old Calder Highway,Keilor,VIC  3036,,PRIVATE,Day Procedure Centre,"771 Old Calder Highway,Keilor,VIC  3036",-37.7197368,144.8346752
+112,3308,Kerang District Health,Kerang District Health,NO,13 Burgoyne Street,Kerang,VIC  3579,,PUBLIC,Public Hospital,"13 Burgoyne Street,Kerang,VIC  3579",-35.7249185,143.9199052
+113,12188,Kew Endoscopy Centre,Kew Endoscopy Centre,NO,"Units 4/5, 828 High Street",Kew,VIC  3101,,PRIVATE,Day Procedure Centre,"Units 4/5, 828 High Street,Kew,VIC  3101",-37.8064,145.0309
+114,3346,Kilmore District Health,Kilmore District Health,NO,Rutledge Street,Kilmore,VIC  3764,,PUBLIC,Public Hospital,"Rutledge Street,Kilmore,VIC  3764",-37.299895,144.9485593
+115,3558,Kingston Centre,Kingston Centre,NO,400 Warrigal Rd ,Cheltenham,VIC  3192,,PUBLIC,Public Hospital,"400 Warrigal Rd ,Cheltenham,VIC  3192",-37.9659827,145.0744485
+116,2460,Knox Private Hospital,Knox Private Hospital,NO,262 Mountain Highway,Wantirna,VIC  3152,,PRIVATE,Private Hospital,"262 Mountain Highway,Wantirna,VIC  3152",-37.8494723,145.2278565
+117,3550,Kooweerup Regional Health Service,Kooweerup Regional Health Service,NO,Rossiter Rd,Kooweerup,VIC  3981,,PUBLIC,Public Hospital,"Rossiter Rd,Kooweerup,VIC  3981",-38.1667,145.5333
+118,6416,Kyabram District Health Service,Kyabram District Health Service,NO,88 Fenaughty Street,Kyabram,VIC  3620,,PUBLIC,Public Hospital,"88 Fenaughty Street,Kyabram,VIC  3620",-36.3155169,145.0423601
+119,11042,La Trobe Private Hospital,La Trobe Private Hospital,NO,Cnr Plenty Road & Kingsbury Drive,Bundoora,VIC  3083,,PRIVATE,Private Hospital,"Cnr Plenty Road & Kingsbury Drive,Bundoora,VIC  3083",-37.7062,145.0474
+120,6430,Latrobe Regional Hospital,Latrobe Regional Hospital,YES,Cnr Princes Highway & Village Avenue ,Traralgon West,VIC  3844,,PUBLIC,Public Hospital,"Cnr Princes Highway & Village Avenue ,Traralgon West,VIC  3844",-37.0,145.0
+121,2463,Linacre Private Hospital,Linacre Private Hospital,NO,12-16 Linacre Road,Hampton,VIC  3188,,PRIVATE,Private Hospital,"12-16 Linacre Road,Hampton,VIC  3188",-37.9426807,145.0033437
+122,3476,Mallee Track Health and Community Service,Mallee Track Health and Community Service,NO,28 Britt Street,Ouyen,VIC  3490,,PUBLIC,Multi Purpose Service,"28 Britt Street,Ouyen,VIC  3490",-35.0734602,142.3150907
+123,12290,Malvern Dialysis Centre,Malvern Dialysis Centre,NO,"Ground Floor, 1133 Malvern Road",Malvern,VIC  3144,,PRIVATE,Day Procedure Centre,"Ground Floor, 1133 Malvern Road,Malvern,VIC  3144",-37.8524613,145.0362855
+124,2464,Malvern Private Hospital,Malvern Private Hospital,NO,3-9 Wilton Vale Crescent,Malvern East,VIC  3145,,PRIVATE,Private Hospital,"3-9 Wilton Vale Crescent,Malvern East,VIC  3145",-37.8671559,145.0605832
+125,12392,Manningham Day Procedure Centre,Manningham Day Procedure Centre,NO,"Level 3, 200 High Street",Lower Templestowe,VIC  3107,,PRIVATE,Day Procedure Centre,"Level 3, 200 High Street,Lower Templestowe,VIC  3107",-37.757911,145.1185332
+126,6465,Mansfield District Hospital,Mansfield District Hospital,NO,53 Highett Street,Mansfield,VIC  3722,,PUBLIC,Public Hospital,"53 Highett Street,Mansfield,VIC  3722",-37.0524609,146.0882225
+127,11343,Marie Stopes International East St Kilda,Marie Stopes International East St Kilda,NO,338 Dandenong Road,St Kilda East,VIC  3182,,PRIVATE,Day Procedure Centre,"338 Dandenong Road,St Kilda East,VIC  3182",-37.8580012,144.9930546
+128,10764,Marie Stopes International Maroondah,Marie Stopes International Maroondah,NO,411 Dorset Road,Croydon,VIC  3136,,PRIVATE,Day Procedure Centre,"411 Dorset Road,Croydon,VIC  3136",-37.7868348,145.292372
+129,3416,Maroondah Hospital,Maroondah Hospital,YES,1-15 Mt Dandenong Rd,East Ringwood,VIC  3135,,PUBLIC,Public Hospital,"1-15 Mt Dandenong Rd,East Ringwood,VIC  3135",-37.811503,145.2397263
+130,3312,Maryborough District Health Service,Maryborough District Health Service,NO,75-87 Clarendon St,Maryborough,VIC  3465,,PUBLIC,Public Hospital,"75-87 Clarendon St,Maryborough,VIC  3465",-37.0411009,143.7396713
+131,2466,Maryvale Private Hospital,Maryvale Private Hospital,NO,McDonald Street,Morwell,VIC  3840,,PRIVATE,Private Hospital,"McDonald Street,Morwell,VIC  3840",-38.2288365,146.4112321
+132,2467,Masada Private Hospital,Masada Private Hospital,NO,26-28 Balaclava Road,East St Kilda,VIC  3183,,PRIVATE,Private Hospital,"26-28 Balaclava Road,East St Kilda,VIC  3183",-37.8695236,144.9995995
+133,10772,Melbourne Day Surgery,Melbourne Day Surgery,NO,961 Glenhuntly Road,Caulfield,VIC  3162,,PRIVATE,Day Procedure Centre,"961 Glenhuntly Road,Caulfield,VIC  3162",-37.8914,145.0254
+134,5479,Melbourne Endoscopy Group DPC,Melbourne Endoscopy Group DPC,NO,34/517 St Kilda Road,Melbourne,VIC  3000,,PRIVATE,Day Procedure Centre,"34/517 St Kilda Road,Melbourne,VIC  3000",-37.814,144.9633
+135,5478,Melbourne Endoscopy Monash Day Hospital (DPC),Melbourne Endoscopy Monash Day Hospital (DPC),NO,277 Clayton Road,Clayton,VIC  3168,,PRIVATE,Day Procedure Centre,"277 Clayton Road,Clayton,VIC  3168",-37.9215015,145.1202812
+136,11520,Melbourne Health,Melbourne Health,NO,"Level 8 South, RMH, 300 Grattan Street",Parkville,VIC  3050,,PUBLIC,Public Hospital,"Level 8 South, RMH, 300 Grattan Street,Parkville,VIC  3050",-37.7981,144.9555
+137,12380,Melbourne Oral and Facial Surgery Pty Ltd,Melbourne Oral and Facial Surgery Pty Ltd,NO,"Level 12, 63 Exhibition Street",Melbourne,VIC  3000,,PRIVATE,Day Procedure Centre,"Level 12, 63 Exhibition Street,Melbourne,VIC  3000",-37.8080872,144.9686766
+138,5480,Melbourne Private Hospital,Melbourne Private Hospital,NO,1f Royal Parade ,Parkville,VIC  3050,,PRIVATE,Private Hospital,"1f Royal Parade ,Parkville,VIC  3050",-37.7958491,144.9578616
+139,12579,Melton Health,Melton Health,NO,195-209 Barries Road,Melton,VIC  3337,,PUBLIC,Public Hospital,"195-209 Barries Road,Melton,VIC  3337",-37.6874637,144.5582263
+140,3379,Mercy Health - O'Connell Family Centre,Mercy Health - O'Connell Family Centre,NO,6 Mont Albert Road,Canterbury,VIC  3126,,PUBLIC,Denominational Hospital,"6 Mont Albert Road,Canterbury,VIC  3126",-37.8165467,145.0652475
+141,11607,Mercy Hospital for Women,Mercy Hospital for Women,YES,163 Studley Road,Heidelberg,VIC  3084,,PUBLIC,Denominational Hospital,"163 Studley Road,Heidelberg,VIC  3084",-37.7558954,145.0609462
+142,3388,Mercy Hospitals Victoria Limited,Mercy Hospitals Victoria Limited,NO,Shelley Street,Richmond,VIC  3121,,PUBLIC,Denominational Hospital,"Shelley Street,Richmond,VIC  3121",-37.8111783,144.9936407
+143,2470,Mildura Private Hospital,Mildura Private Hospital,NO,220 Thirteenth Street,Mildura,VIC  3500,,PRIVATE,Private Hospital,"220 Thirteenth Street,Mildura,VIC  3500",-34.184166,142.1438896
+144,2472,Mitcham Private Hospital,Mitcham Private Hospital,NO,27 Doncaster East Road,Mitcham,VIC  3132,,PRIVATE,Private Hospital,"27 Doncaster East Road,Mitcham,VIC  3132",-37.8103081,145.1947482
+145,3289,Monash Health,Monash Health,NO,246 Clayton Road,Clayton,VIC  3168,,PUBLIC,Public Hospital,"246 Clayton Road,Clayton,VIC  3168",-37.9201905,145.1224991
+146,12060,Monash IVF Clinic,Monash IVF Clinic,NO,142 Little Ryrie Street,Geelong,VIC  3220,,PRIVATE,Day Procedure Centre,"142 Little Ryrie Street,Geelong,VIC  3220",-38.1517135,144.3636238
+147,3390,"Monash Medical Centre, Clayton Campus","Monash Medical Centre, Clayton Campus",YES,246 Clayton Road,Clayton,VIC  3168,,PUBLIC,Public Hospital,"246 Clayton Road,Clayton,VIC  3168",-37.9201905,145.1224991
+148,10757,"Monash Medical Centre, Moorabbin Campus","Monash Medical Centre, Moorabbin Campus",NO,865 Centre Road,East Bentleigh,VIC  3165,,PUBLIC,Public Hospital,"865 Centre Road,East Bentleigh,VIC  3165",-37.9234327,145.0772769
+149,2473,Monash Surgical Private Hospital,Monash Surgical Private Hospital,NO,252-254 Clayton Road,Clayton,VIC  3168,,PRIVATE,Private Hospital,"252-254 Clayton Road,Clayton,VIC  3168",-37.9135321,145.1219143
+150,3572,"Mount Eliza Rehabilitation, Aged and Palliative Care","Mount Eliza Rehabilitation, Aged and Palliative Care",NO,33 Jacksons Rd,Mt Eliza,VIC  3930,,PUBLIC,Public Hospital,"33 Jacksons Rd,Mt Eliza,VIC  3930",-38.1706771,145.0951771
+151,2403,Moyne Health Services,Moyne Health Services,NO,Villiers Street,Port Fairy,VIC  3284,,PUBLIC,Public Hospital,"Villiers Street,Port Fairy,VIC  3284",-38.380479,142.228017
+152,2438,Mulgrave Private Hospital,Mulgrave Private Hospital,NO,535-559 Police Road,Mulgrave,VIC  3170,,PRIVATE,Private Hospital,"535-559 Police Road,Mulgrave,VIC  3170",-37.9167,145.2
+153,10962,Murray Valley Private Hospital,Murray Valley Private Hospital,NO,63 Pearce St ,Wodonga,VIC  3690,,PRIVATE,Private Hospital,"63 Pearce St ,Wodonga,VIC  3690",-36.1376992,146.8719854
+154,2480,Nagambie HealthCare,Nagambie HealthCare,NO,22 Church Street,Nagambie,VIC  3608,,PRIVATE,Bush Nursing Hospital,"22 Church Street,Nagambie,VIC  3608",-36.7805003,145.1503204
+155,23471,NCN Health,NCN Health,NO,2 Katamatitie Road,Numurkah,VIC  3636,,PUBLIC,Public Hospital,"2 Katamatitie Road,Numurkah,VIC  3636",-36.0987,145.4946
+156,2481,Neerim District Soldiers Memorial Hospital,Neerim District Soldiers Memorial Hospital,NO,29 Main Road,Neerim,VIC  3831,,PRIVATE,Private Hospital,"29 Main Road,Neerim,VIC  3831",-37.9843562,145.9446648
+157,10763,Noble Park Endoscopy Centre,Noble Park Endoscopy Centre,NO,1304 Heatherton Road,Noble Park,VIC  3174,,PRIVATE,Day Procedure Centre,"1304 Heatherton Road,Noble Park,VIC  3174",-37.9659981,145.1815791
+158,2457,North Eastern Rehabilitation Centre,North Eastern Rehabilitation Centre,NO,134-142 Ford Street,Ivanhoe,VIC  3079,,PRIVATE,Private Hospital,"134-142 Ford Street,Ivanhoe,VIC  3079",-37.7635299,145.0310362
+159,6802,Northeast Health Wangaratta,Northeast Health Wangaratta,YES,35-47 Green Street,Wangaratta,VIC  3677,,PUBLIC,Public Hospital,"35-47 Green Street,Wangaratta,VIC  3677",-36.3541127,146.3138041
+160,11517,Northern Health,Northern Health,NO,201 Bell Street,Preston,VIC  3072,,PUBLIC,Public Hospital,"201 Bell Street,Preston,VIC  3072",-37.7456812,145.0063368
+161,2483,Northpark Private Hospital,Northpark Private Hospital,NO,10 Greenhills Road,Bundoora,VIC  3083,,PRIVATE,Private Hospital,"10 Greenhills Road,Bundoora,VIC  3083",-37.6950213,145.0440787
+162,10761,Northwest Day Hospital,Northwest Day Hospital,NO,221 Maribyrnong Road,Ascot Vale,VIC  3032,,PRIVATE,Day Procedure Centre,"221 Maribyrnong Road,Ascot Vale,VIC  3032",-37.7701084,144.9016057
+163,3355,Omeo District Health,Omeo District Health,NO,12 Easton Street,Omeo,VIC  3898,,PUBLIC,Public Hospital,"12 Easton Street,Omeo,VIC  3898",-37.0983225,147.5971753
+164,6582,Orbost Regional Health,Orbost Regional Health,NO,Boundary Road,Orbost,VIC  3888,,PUBLIC,Multi Purpose Service,"Boundary Road,Orbost,VIC  3888",-37.7013886,148.4648186
+165,12168,PANCH Health Service,PANCH Health Service,NO,300 Bell Street,Preston,VIC  3072,,PUBLIC,Public Hospital,"300 Bell Street,Preston,VIC  3072",-37.7453981,145.0078838
+166,5482,Peninsula Endoscopy Centre,Peninsula Endoscopy Centre,NO,17 Yuille Street,Frankston,VIC  3199,,PRIVATE,Day Procedure Centre,"17 Yuille Street,Frankston,VIC  3199",-38.1488042,145.1268374
+167,3285,Peninsula Health,Peninsula Health,NO,"c/- Frankston Hospital, Hastings Road",Frankston,VIC  3199,,PUBLIC,Public Hospital,"c/- Frankston Hospital, Hastings Road,Frankston,VIC  3199",-38.1333,145.1333
+168,12478,Peninsula Oncology Centre,Peninsula Oncology Centre,NO,24-28 Frankston-Flinders Road,Frankston,VIC  3199,,PRIVATE,Day Procedure Centre,"24-28 Frankston-Flinders Road,Frankston,VIC  3199",-38.1539019,145.1339357
+169,2487,Peninsula Private Hospital,Peninsula Private Hospital,NO,49 McClelland Drive,Frankston,VIC  3199,,PRIVATE,Private Hospital,"49 McClelland Drive,Frankston,VIC  3199",-38.1561576,145.1705921
+170,3577,"Peter James Centre, The","Peter James Centre, The",NO,321-345 Burwood Hwy,Forest Hill,VIC  3131,,PUBLIC,Public Hospital,"321-345 Burwood Hwy,Forest Hill,VIC  3131",-37.8526149,145.1649491
+171,3591,Peter MacCallum Cancer Institute,Peter MacCallum Cancer Institute,NO,305 Grattan Street,Melbourne,VIC  3000,,PUBLIC,Public Hospital,"305 Grattan Street,Melbourne,VIC  3000",-37.7999274,144.9562153
+172,6613,Portland District Health,Portland District Health,NO,Bentinck Street,Portland,VIC  3305,,PUBLIC,Public Hospital,"Bentinck Street,Portland,VIC  3305",-38.335977,141.6068526
+173,3380,Queen Elizabeth Centre,Queen Elizabeth Centre,NO,53 Thomas Street,Noble Park,VIC  3174,,PUBLIC,Public Hospital,"53 Thomas Street,Noble Park,VIC  3174",-37.9711839,145.1777112
+174,2497,Reservoir Private Hospital,Reservoir Private Hospital,NO,73-75 Pine Street,Reservoir,VIC  3073,,PRIVATE,Private Hospital,"73-75 Pine Street,Reservoir,VIC  3073",-37.7170159,144.9983506
+175,2498,Ringwood Private Hospital,Ringwood Private Hospital,NO,36 Mount Dandenong Road,Ringwood,VIC  3135,,PRIVATE,Private Hospital,"36 Mount Dandenong Road,Ringwood,VIC  3135",-37.8114079,145.2437099
+176,11258,Robinvale District Health Services,Robinvale District Health Services,NO,128-132 Latje Road,Robinvale,VIC  3549,,PUBLIC,Multi Purpose Service,"128-132 Latje Road,Robinvale,VIC  3549",-34.5829885,142.7728016
+177,6648,Rochester and Elmore District Health Service,Rochester and Elmore District Health Service,NO,1 Pascoe Street,Rochester,VIC  3561,,PUBLIC,Public Hospital,"1 Pascoe Street,Rochester,VIC  3561",-36.365644,144.7004296
+178,5475,Rosebud Endoscopy,Rosebud Endoscopy,NO,1537 Point Nepean Road,Rosebud West,VIC  3940,,PRIVATE,Day Procedure Centre,"1537 Point Nepean Road,Rosebud West,VIC  3940",-38.3620168,144.8823641
+179,3466,Rosebud Hospital,Rosebud Hospital,YES,1527 Point Nepean Road,Rosebud,VIC  3939,,PUBLIC,Public Hospital,"1527 Point Nepean Road,Rosebud,VIC  3939",-38.3629259,144.884897
+180,3424,Royal Melbourne Hospital - City Campus,Royal Melbourne Hospital - City Campus,YES,300 Grattan Street,Parkville,VIC  3050,,PUBLIC,Public Hospital,"300 Grattan Street,Parkville,VIC  3050",-37.7986693,144.9564033
+181,3564,Royal Melbourne Hospital - Royal Park Campus,Royal Melbourne Hospital - Royal Park Campus,NO,34-55 Poplar Road,Parkville,VIC  3052,,PUBLIC,Public Hospital,"34-55 Poplar Road,Parkville,VIC  3052",-37.7843924,144.9558858
+182,3402,Royal Talbot Rehabilitation Centre,Royal Talbot Rehabilitation Centre,NO,1 Yarra Boulevard,Kew,VIC  3101,,PUBLIC,Public Hospital,"1 Yarra Boulevard,Kew,VIC  3101",-37.8034568,145.0161624
+183,11011,Rural Northwest Health,Rural Northwest Health,NO,Lot 1 Dimboola Road,Warracknabeal,VIC  3393,,PUBLIC,Public Hospital,"Lot 1 Dimboola Road,Warracknabeal,VIC  3393",-36.2531827,142.3819587
+184,3425,Sandringham Hospital,Sandringham Hospital,YES,193 Bluff Road,Sandringham,VIC  3191,,PUBLIC,Public Hospital,"193 Bluff Road,Sandringham,VIC  3191",-37.9608309,145.0180093
+185,6675,Seymour Health,Seymour Health,NO,Lot 2 Bretonneux Street ,Seymour,VIC  3660,,PUBLIC,Public Hospital,"Lot 2 Bretonneux Street ,Seymour,VIC  3660",-37.018726,145.1393266
+186,2501,Shepparton Private Hospital,Shepparton Private Hospital,NO,20 Fitzgerald Street,Shepparton,VIC  3630,,PRIVATE,Private Hospital,"20 Fitzgerald Street,Shepparton,VIC  3630",-36.3591392,145.4109224
+187,5481,Sir John Monash Private Hospital,Sir John Monash Private Hospital,NO,212-220 Clayton Road,Clayton,VIC  3168,,PRIVATE,Day Procedure Centre,"212-220 Clayton Road,Clayton,VIC  3168",-37.9186257,145.1214718
+188,2502,South Eastern Private Hospital,South Eastern Private Hospital,NO,313-329 Princes Highway,Noble Park,VIC  3174,,PRIVATE,Private Hospital,"313-329 Princes Highway,Noble Park,VIC  3174",-37.9667,145.1667
+189,6691,South Gippsland Hospital,South Gippsland Hospital,NO,87 Station Road,Foster,VIC  3960,,PUBLIC,Public Hospital,"87 Station Road,Foster,VIC  3960",-38.6591277,146.206412
+190,11268,South West Healthcare,South West Healthcare,NO,Ryot Street,Warrnambool,VIC  3280,,PUBLIC,Public Hospital,"Ryot Street,Warrnambool,VIC  3280",-38.3750107,142.4777231
+191,2823,"South West Healthcare, Camperdown Campus","South West Healthcare, Camperdown Campus",NO,9 Robinson Street,Camperdown,VIC  3260,,PUBLIC,Public Hospital,"9 Robinson Street,Camperdown,VIC  3260",-38.2368467,143.1402415
+192,3451,"South West Healthcare, Warrnambool Campus","South West Healthcare, Warrnambool Campus",YES,Ryot Street,Warrnambool,VIC  3280,,PUBLIC,Public Hospital,"Ryot Street,Warrnambool,VIC  3280",-38.3750107,142.4777231
+193,11329,Southern Cross Specialist Centre Day Surgery,Southern Cross Specialist Centre Day Surgery,NO,250 Childs Road,Mill Park,VIC  3082,,PRIVATE,Day Procedure Centre,"250 Childs Road,Mill Park,VIC  3082",-37.6695353,145.0650749
+194,10768,"Southern Eye Centre, Day Surgery and Laser Centre","Southern Eye Centre, Day Surgery and Laser Centre",NO,44 Cranbourne Road,Frankston,VIC  3199,,PRIVATE,Day Procedure Centre,"44 Cranbourne Road,Frankston,VIC  3199",-38.147025,145.1398909
+195,12291,Specialist Surgicentre Docklands,Specialist Surgicentre Docklands,NO,"Tenancy 2, 22 Rakaia Way",Docklands,VIC  3008,,PRIVATE,Day Procedure Centre,"Tenancy 2, 22 Rakaia Way,Docklands,VIC  3008",-37.8138849,144.9403317
+196,12470,Specialist Surgicentre Geelong,Specialist Surgicentre Geelong,NO,200 Malop Street,Geelong,VIC  3220,,PRIVATE,Day Procedure Centre,"200 Malop Street,Geelong,VIC  3220",-38.1491556,144.3663344
+197,10760,Springvale Endoscopy Services,Springvale Endoscopy Services,NO,20 Balmoral Avenue,Springvale,VIC  3171,,PRIVATE,Day Procedure Centre,"20 Balmoral Avenue,Springvale,VIC  3171",-37.9495467,145.1495951
+198,11391,St Alban's Endoscopy Centre,St Alban's Endoscopy Centre,NO,328-330 Station Road,St Albans,VIC  3021,,PRIVATE,Day Procedure Centre,"328-330 Station Road,St Albans,VIC  3021",-37.7429645,144.7793496
+199,3429,St George's Health Service,St George's Health Service,NO,283 Cotham Road,Kew,VIC  3101,,PUBLIC,Public Hospital,"283 Cotham Road,Kew,VIC  3101",-37.8084292,145.0527324
+200,11504,St John of God Frankston Rehabilitation Hospital,St John of God Frankston Rehabilitation Hospital,NO,255 Cranbourne Road,Frankston,VIC  3199,,PRIVATE,Private Hospital,"255 Cranbourne Road,Frankston,VIC  3199",-38.147025,145.1398909
+201,2437,"St John of God Hospital Pinelodge Clinic, Dandenong","St John of God Hospital Pinelodge Clinic, Dandenong",NO,1480 Heatherton Road,Dandenong,VIC  3175,,PRIVATE,Private Hospital,"1480 Heatherton Road,Dandenong,VIC  3175",-37.9679922,145.1976686
+202,2504,"St John of God Hospital, Ballarat","St John of God Hospital, Ballarat",NO,101 Drummond Street North,Ballarat,VIC  3350,,PRIVATE,Private Hospital,"101 Drummond Street North,Ballarat,VIC  3350",-37.5576119,143.8461822
+203,2477,"St John of God Hospital, Bendigo","St John of God Hospital, Bendigo",NO,133-145 Lily Street ,Bendigo,VIC  3550,,PRIVATE,Private Hospital,"133-145 Lily Street ,Bendigo,VIC  3550",-36.7620565,144.263377
+204,5550,"St John of God Hospital, Berwick","St John of God Hospital, Berwick",NO,44 Gloucester Avenue ,Berwick,VIC  3806,,PRIVATE,Private Hospital,"44 Gloucester Avenue ,Berwick,VIC  3806",-38.0313114,145.3462929
+205,2503,"St John of God Hospital, Geelong","St John of God Hospital, Geelong",NO,80 Myers Street,Geelong,VIC  3220,,PRIVATE,Private Hospital,"80 Myers Street,Geelong,VIC  3220",-38.151798,144.3575572
+206,2505,"St John of God Hospital, Warrnambool","St John of God Hospital, Warrnambool",NO,136 Botanic Road,Warrnambool,VIC  3280,,PRIVATE,Private Hospital,"136 Botanic Road,Warrnambool,VIC  3280",-38.3714579,142.4791674
+207,12393,St Kilda Day Hospital,St Kilda Day Hospital,NO,26A Dickens Street,Elwood,VIC  3184,,PRIVATE,Day Procedure Centre,"26A Dickens Street,Elwood,VIC  3184",-37.8733094,144.9820702
+208,10694,St Vincent's Health,St Vincent's Health,NO,41 Victoria Parade,Fitzroy,VIC  3065,,PUBLIC,Denominational Hospital,"41 Victoria Parade,Fitzroy,VIC  3065",-37.8070907,144.974686
+209,3432,St Vincent's Hospital (Melbourne) Ltd,St Vincent's Hospital (Melbourne) Ltd,YES,41 Victoria Parade,Fitzroy,VIC  3065,,PUBLIC,Denominational Hospital,"41 Victoria Parade,Fitzroy,VIC  3065",-37.8070907,144.974686
+210,2469,St Vincent's Private Hospital East Melbourne,St Vincent's Private Hospital East Melbourne,NO,159 Grey Street,East Melbourne,VIC  3002,,PRIVATE,Private Hospital,"159 Grey Street,East Melbourne,VIC  3002",-37.8123036,144.9843687
+211,5484,St Vincent's Private Hospital Fitzroy,St Vincent's Private Hospital Fitzroy,NO,59 Victoria Parade,Fitzroy,VIC  3065,,PRIVATE,Private Hospital,"59 Victoria Parade,Fitzroy,VIC  3065",-37.8076918,144.9760735
+212,2561,St Vincent's Private Hospital Kew,St Vincent's Private Hospital Kew,NO,5 Studley Avenue,Kew,VIC  3101,,PRIVATE,Private Hospital,"5 Studley Avenue,Kew,VIC  3101",-37.806527,145.0236944
+213,11481,Stonnington Day Surgery,Stonnington Day Surgery,NO,"Level 1, 253 Wattletree Road",Malvern,VIC  3144,,PRIVATE,Day Procedure Centre,"Level 1, 253 Wattletree Road,Malvern,VIC  3144",-37.8634921,145.037014
+214,12992,Sunbury Day Hospital,Sunbury Day Hospital,NO,Macedon,Sunbury,VIC  3429,,PUBLIC,Public Hospital,"Macedon,Sunbury,VIC  3429",-37.5832102,144.74013
+215,10582,Sunshine Hospital,Sunshine Hospital,YES,176 Furlong Road,St Albans,VIC  3021,,PUBLIC,Public Hospital,"176 Furlong Road,St Albans,VIC  3021",-37.7587368,144.8175208
+216,11443,Sunshine Private Day Surgery,Sunshine Private Day Surgery,NO,145 Furlong Road,St Albans,VIC  3021,,PRIVATE,Day Procedure Centre,"145 Furlong Road,St Albans,VIC  3021",-37.7585536,144.797712
+217,6739,Swan Hill District Health,Swan Hill District Health,YES,48 Splatt Street,Swan Hill,VIC  3585,,PUBLIC,Public Hospital,"48 Splatt Street,Swan Hill,VIC  3585",-35.340599,143.5562698
+218,6748,Tallangatta Health Service,Tallangatta Health Service,NO,Barree Street,Tallangatta,VIC  3700,,PUBLIC,Public Hospital,"Barree Street,Tallangatta,VIC  3700",-36.2156702,147.1817683
+219,10762,Tarietta Day Surgery,Tarietta Day Surgery,NO,73 Kooyong Road,Caulfield North,VIC  3161,,PRIVATE,Day Procedure Centre,"73 Kooyong Road,Caulfield North,VIC  3161",-37.8720234,145.0177277
+220,3547,Terang and Mortlake Health Service,Terang and Mortlake Health Service,NO,1 Austin Avenue,Terang,VIC  3264,,PUBLIC,Public Hospital,"1 Austin Avenue,Terang,VIC  3264",-38.2394071,142.9026973
+221,10636,The Alfred,The Alfred,YES,Commercial Road ,Melbourne,VIC  3004,,PUBLIC,Public Hospital,"Commercial Road ,Melbourne,VIC  3004",-37.8448392,144.9789364
+222,2509,The Avenue Private Hospital,The Avenue Private Hospital,NO,40 The Avenue,Windsor,VIC  3181,,PRIVATE,Private Hospital,"40 The Avenue,Windsor,VIC  3181",-37.8551084,144.9986594
+223,10865,The Bays Hospital,The Bays Hospital,NO,262-268 Main Street,Mornington,VIC  3931,,PRIVATE,Private Hospital,"262-268 Main Street,Mornington,VIC  3931",-38.229059,145.0446079
+224,2453,The Bays Hospital - Hastings,The Bays Hospital - Hastings,NO,86 Victoria St,Hastings,VIC  3915,,PRIVATE,Private Hospital,"86 Victoria St,Hastings,VIC  3915",-38.3001249,145.1897956
+225,2417,The Geelong Clinic,The Geelong Clinic,NO,98 Townsend Road,Whittington,VIC  3219,,PRIVATE,Private Hospital,"98 Townsend Road,Whittington,VIC  3219",-38.1802393,144.3825229
+226,11833,The Glen Endoscopy Centre,The Glen Endoscopy Centre,NO,302 Springvale Road,Glen Waverley,VIC  3150,,PRIVATE,Day Procedure Centre,"302 Springvale Road,Glen Waverley,VIC  3150",-37.8846595,145.1651723
+227,12475,The Hampton Park Women's Health Care Centre,The Hampton Park Women's Health Care Centre,NO,2 Warana Drive,Hampton Park,VIC  3976,,PRIVATE,Day Procedure Centre,"2 Warana Drive,Hampton Park,VIC  3976",-38.0315086,145.2685558
+228,2510,The Melbourne Clinic ,The Melbourne Clinic ,NO,130 Church Street,Richmond,VIC  3121,,PRIVATE,Private Hospital,"130 Church Street,Richmond,VIC  3121",-37.8148469,144.9989455
+229,2478,The Melbourne Eastern Private Hospital,The Melbourne Eastern Private Hospital,NO,157 Scoresby Road,Boronia,VIC  3155,,PRIVATE,Private Hospital,"157 Scoresby Road,Boronia,VIC  3155",-37.8555688,145.2688591
+230,10214,The Northern Hospital,The Northern Hospital,YES,185 Cooper Street ,Epping,VIC  3076,,PUBLIC,Public Hospital,"185 Cooper Street ,Epping,VIC  3076",-37.6533986,145.0145055
+231,3392,The Royal Children's Hospital,The Royal Children's Hospital,YES,50 Flemington Road,Parkville,VIC  3052,,PUBLIC,Public Hospital,"50 Flemington Road,Parkville,VIC  3052",-37.793935,144.948979
+232,3395,The Royal Victorian Eye and Ear Hospital,The Royal Victorian Eye and Ear Hospital,YES,32 Gisborne Street,East Melbourne,VIC  3002,,PUBLIC,Public Hospital,"32 Gisborne Street,East Melbourne,VIC  3002",-37.8090493,144.9762736
+233,3394,The Royal Women's Hospital,The Royal Women's Hospital,YES,Levels 6 & 7 Cnr Grattan St & Flemington Rd,Parkville,VIC  3052,,PUBLIC,Public Hospital,"Levels 6 & 7 Cnr Grattan St & Flemington Rd,Parkville,VIC  3052",-37.78333,144.95
+234,2518,The Victoria Clinic,The Victoria Clinic,NO,324 Malvern Road,Prahran,VIC  3181,,PRIVATE,Private Hospital,"324 Malvern Road,Prahran,VIC  3181",-37.8489557,145.0097821
+235,5489,The Victorian Rehabilitation Centre,The Victorian Rehabilitation Centre,NO,499 Springvale Road,Glen Waverley,VIC  3150,,PRIVATE,Private Hospital,"499 Springvale Road,Glen Waverley,VIC  3150",-37.888785,145.1642505
+236,11306,The Women's Clinic Day Surgical Centre,The Women's Clinic Day Surgical Centre,NO,366 Church Street,Richmond,VIC  3121,,PRIVATE,Day Procedure Centre,"366 Church Street,Richmond,VIC  3121",-37.8340117,144.9966216
+237,3548,Timboon and District Healthcare Service,Timboon and District Healthcare Service,NO,21 Hospital Road,Timboon,VIC  3268,,PUBLIC,Multi Purpose Service,"21 Hospital Road,Timboon,VIC  3268",-38.4861602,142.9773816
+238,12267,Toorak Cosmetic Surgery Day Centre,Toorak Cosmetic Surgery Day Centre,NO,109 Mathoura Rd ,Toorak,VIC  3142,,PRIVATE,Day Procedure Centre,"109 Mathoura Rd ,Toorak,VIC  3142",-37.8437565,145.0077595
+239,12326,Toorak-Malvern Day Surgery Centre,Toorak-Malvern Day Surgery Centre,NO,30-32 Glenferrie Road,Malvern,VIC  3144,,PRIVATE,Day Procedure Centre,"30-32 Glenferrie Road,Malvern,VIC  3144",-37.8591537,145.0288776
+240,2410,Tweddle Child and Family Health Service,Tweddle Child and Family Health Service,NO,53 Adelaide Street,Footscray,VIC  3011,,PUBLIC,Public Hospital,"53 Adelaide Street,Footscray,VIC  3011",-37.7962145,144.8873286
+241,12471,Victoria Parade Surgery Centre,Victoria Parade Surgery Centre,NO,"Level 1, 100 Victoria Parade",East Melbourne,VIC  3002,,PRIVATE,Day Procedure Centre,"Level 1, 100 Victoria Parade,East Melbourne,VIC  3002",-37.80846,144.974797
+242,12552,Victorian Gut Centre Bundoora,Victorian Gut Centre Bundoora,NO,119 Plenty Road,Bundoora,VIC  3083,,PRIVATE,Day Procedure Centre,"119 Plenty Road,Bundoora,VIC  3083",-37.692518,145.0616827
+243,12642,Victorian Sleep Centre,Victorian Sleep Centre,NO,695-697 Rathdowne Street,Carlton North,VIC  3054,,PRIVATE,Private Hospital,"695-697 Rathdowne Street,Carlton North,VIC  3054",-37.7925747,144.9714126
+244,2573,Vision Day Surgery Camberwell,Vision Day Surgery Camberwell,NO,27 Denmark Hill Road,Hawthorn East,VIC  3123,,PRIVATE,Day Procedure Centre,"27 Denmark Hill Road,Hawthorn East,VIC  3123",-37.8324197,145.0532576
+245,11672,Vision Day Surgery Eastern,Vision Day Surgery Eastern,NO,852-856 Whitehorse Road,Box Hill,VIC  3128,,PRIVATE,Day Procedure Centre,"852-856 Whitehorse Road,Box Hill,VIC  3128",-37.8177409,145.1206264
+246,5476,Vision Day Surgery Footscray,Vision Day Surgery Footscray,NO,89 Paisley Street,Footscray,VIC  3011,,PRIVATE,Day Procedure Centre,"89 Paisley Street,Footscray,VIC  3011",-37.8003833,144.8951299
+247,12191,Vision Laser St Kilda Road,Vision Laser St Kilda Road,NO,"Ground Floor, 600 St Kilda Rd",Melbourne,VIC  3000,,PRIVATE,Day Procedure Centre,"Ground Floor, 600 St Kilda Rd,Melbourne,VIC  3000",-37.8203025,144.9686427
+248,5490,Wangaratta Private Hospital,Wangaratta Private Hospital,NO,134-150 Templeton Street,Wangaratta,VIC  3677,,PRIVATE,Private Hospital,"134-150 Templeton Street,Wangaratta,VIC  3677",-36.3489075,146.3125361
+249,12582,Wantirna Health,Wantirna Health,NO,251 Mountain Highway,Wantirna,VIC  3152,,PUBLIC,Public Hospital,"251 Mountain Highway,Wantirna,VIC  3152",-37.8486099,145.2255934
+250,2565,Warringal Private Hospital,Warringal Private Hospital,NO,216 Burgundy Street,Heidelberg,VIC  3084,,PRIVATE,Private Hospital,"216 Burgundy Street,Heidelberg,VIC  3084",-37.754818,145.0609134
+251,5491,Waverley Endoscopy Suites,Waverley Endoscopy Suites,NO,301 Blackburn Road,Mount Waverley,VIC  3149,,PRIVATE,Day Procedure Centre,"301 Blackburn Road,Mount Waverley,VIC  3149",-37.8803221,145.1465914
+252,2566,Waverley Private Hospital,Waverley Private Hospital,NO,343-357 Blackburn Road,Mount Waverley,VIC  3149,,PRIVATE,Private Hospital,"343-357 Blackburn Road,Mount Waverley,VIC  3149",-37.8845884,145.1460174
+253,3389,Werribee Mercy Hospital,Werribee Mercy Hospital,YES,300 Princes Highway,Werribee,VIC  3030,,PUBLIC,Denominational Hospital,"300 Princes Highway,Werribee,VIC  3030",-37.8849166,144.7000629
+254,6833,West Gippsland Healthcare Group,West Gippsland Healthcare Group,YES,41 Landsborough Street,Warragul,VIC  3820,,PUBLIC,Public Hospital,"41 Landsborough Street,Warragul,VIC  3820",-38.1726377,145.9310585
+255,3592,West Wimmera Health Service,West Wimmera Health Service,NO,49 Nelson Street,Nhill,VIC  3418,,PUBLIC,Public Hospital,"49 Nelson Street,Nhill,VIC  3418",-36.3340726,141.6628399
+256,10567,Western District Health Service,Western District Health Service,YES,20 Foster Street,Hamilton,VIC  3300,,PUBLIC,Public Hospital,"20 Foster Street,Hamilton,VIC  3300",-37.7364357,142.0290434
+257,3500,"Western District Health Service, Coleraine Campus","Western District Health Service, Coleraine Campus",NO,71 McLeod Street,Coleraine,VIC  3315,,PUBLIC,Public Hospital,"71 McLeod Street,Coleraine,VIC  3315",-37.5996928,141.6934414
+258,5492,Western Gastroenterology Services,Western Gastroenterology Services,NO,30 Eleanor Street,Footscray,VIC  3011,,PRIVATE,Day Procedure Centre,"30 Eleanor Street,Footscray,VIC  3011",-37.7980796,144.8845225
+259,11515,Western Health,Western Health,NO,160 Gordon Street,Footscray,VIC  3011,,PUBLIC,Public Hospital,"160 Gordon Street,Footscray,VIC  3011",-37.7984789,144.8882307
+260,10435,Western Health [Djerriwarrh Health Services],Western Health [Djerriwarrh Health Services],NO,Lot 4 Grant Street,Bacchus Marsh,VIC  3340,,PUBLIC,Public Hospital,"Lot 4 Grant Street,Bacchus Marsh,VIC  3340",-37.6756316,144.4352415
+261,10929,Western Private Hospital,Western Private Hospital,NO,1-9 Marion St ,Footscray,VIC  3011,,PRIVATE,Private Hospital,"1-9 Marion St ,Footscray,VIC  3011",-37.7931911,144.8858742
+262,12502,Westpoint Endoscopy Day Hospital,Westpoint Endoscopy Day Hospital,NO,243 Heaths Road,Werribee,VIC  3030,,PRIVATE,Day Procedure Centre,"243 Heaths Road,Werribee,VIC  3030",-37.8767847,144.6752587
+263,3433,Williamstown Hospital,Williamstown Hospital,YES,77b Railway Crescent,Williamstown,VIC  3016,,PUBLIC,Public Hospital,"77b Railway Crescent,Williamstown,VIC  3016",-37.8633011,144.8928627
+264,5483,Windsor Private Hospital,Windsor Private Hospital,NO,20 The Avenue,Windsor,VIC  3181,,PRIVATE,Private Hospital,"20 The Avenue,Windsor,VIC  3181",-37.8553825,144.9979784
+265,2569,Yackandandah Bush Nursing Hospital Inc.,Yackandandah Bush Nursing Hospital Inc.,NO,20 Isaacs Avenue,Yackandandah,VIC  3749,,PRIVATE,Bush Nursing Hospital,"20 Isaacs Avenue,Yackandandah,VIC  3749",-36.3106458,146.8457293
+266,12581,Yarra Ranges Health,Yarra Ranges Health,NO,25 Market Street,Lilydale,VIC  3140,,PUBLIC,Public Hospital,"25 Market Street,Lilydale,VIC  3140",-37.7565429,145.351376
+267,3324,Yarram and District Health Service,Yarram and District Health Service,NO,85 Commercial Road,Yarram,VIC  3971,,PUBLIC,Public Hospital,"85 Commercial Road,Yarram,VIC  3971",-38.5570826,146.6781973
+268,11271,Yarrawonga Health,Yarrawonga Health,NO,33 Piper Street,Yarrawonga,VIC  3730,,PUBLIC,Public Hospital,"33 Piper Street,Yarrawonga,VIC  3730",-36.0110454,145.9989225
+269,3554,Yea and District Memorial Hospital,Yea and District Memorial Hospital,NO,45 Station Street,Yea,VIC  3717,,PUBLIC,Public Hospital,"45 Station Street,Yea,VIC  3717",-37.2134424,145.430706
