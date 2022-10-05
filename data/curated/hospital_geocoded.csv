@@ -1,4 +1,4 @@
-,Hospital ID,Formal Name,Other Name,Emergency Capable,Location Address,Suburb,Postcode,Access Point,Category,Agency Type,Location,latitudes,longitudes
+,Hospital ID,Formal Name,Other Name,Emergency Capable,Location Address,Suburb,Postcode,Access Point,Category,Agency Type,Location,Latitude,Longitude
 0,5488,Albert Road Clinic,Albert Road Clinic,NO,31-33 Albert Road,South Melbourne,VIC  3205,,PRIVATE,Private Hospital,"31-33 Albert Road,South Melbourne,VIC  3205",-37.8378596,144.96617
 1,3485,Albury Wodonga Health,Albury Wodonga Health,YES,69 Vermont Street,Wodonga,VIC  3690,,PUBLIC,Public Hospital,"69 Vermont Street,Wodonga,VIC  3690",-36.1320403,146.8800037
 2,12990,"Albury Wodonga Health, Albury Campus","Albury Wodonga Health, Albury Campus",YES,Borella,Albury,VIC  2640,,PUBLIC,Public Hospital,"Borella,Albury,VIC  2640",-37.0,145.0
@@ -155,7 +155,7 @@
 153,10962,Murray Valley Private Hospital,Murray Valley Private Hospital,NO,63 Pearce St ,Wodonga,VIC  3690,,PRIVATE,Private Hospital,"63 Pearce St ,Wodonga,VIC  3690",-36.1376992,146.8719854
 154,2480,Nagambie HealthCare,Nagambie HealthCare,NO,22 Church Street,Nagambie,VIC  3608,,PRIVATE,Bush Nursing Hospital,"22 Church Street,Nagambie,VIC  3608",-36.7805003,145.1503204
 155,23471,NCN Health,NCN Health,NO,2 Katamatitie Road,Numurkah,VIC  3636,,PUBLIC,Public Hospital,"2 Katamatitie Road,Numurkah,VIC  3636",-36.0987,145.4946
-156,2481,Neerim District Soldiers Memorial Hospital,Neerim District Soldiers Memorial Hospital,NO,29 Main Road,Neerim,VIC  3831,,PRIVATE,Private Hospital,"29 Main Road,Neerim,VIC  3831",-37.9843562,145.9446648
+156,2481,Neerim District Soldiers Memorial Hospital,Neerim District Soldiers Memorial Hospital,NO,29 Main Road,Neerim,VIC  3831,,PRIVATE,Private Hospital,"29 Main Road,Neerim,VIC  3831",-38.0168,145.9545
 157,10763,Noble Park Endoscopy Centre,Noble Park Endoscopy Centre,NO,1304 Heatherton Road,Noble Park,VIC  3174,,PRIVATE,Day Procedure Centre,"1304 Heatherton Road,Noble Park,VIC  3174",-37.9659981,145.1815791
 158,2457,North Eastern Rehabilitation Centre,North Eastern Rehabilitation Centre,NO,134-142 Ford Street,Ivanhoe,VIC  3079,,PRIVATE,Private Hospital,"134-142 Ford Street,Ivanhoe,VIC  3079",-37.7635299,145.0310362
 159,6802,Northeast Health Wangaratta,Northeast Health Wangaratta,YES,35-47 Green Street,Wangaratta,VIC  3677,,PUBLIC,Public Hospital,"35-47 Green Street,Wangaratta,VIC  3677",-36.3541127,146.3138041

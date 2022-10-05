@@ -1,0 +1,59 @@
+,Facility ID,Facility Name,Street Name,Suburb/Town,Pcode,Latitude,Longitude,Field/Surface Type,FullAddress,MelwaysVicRoadsRef
+0,ALPINE10918,Bright p-12 College,Bakers Gully ,BRIGHT,3741.0,-36.733701,146.962508,Synthetic Pitch," Bakers Gully  Road, BRIGHT 3741",661 O6
+1,BALLAR12533,University of Ballarat Oval,University,MOUNT HELEN,3350.0,-37.625006,143.887907,Grass Running Track," University Drive, MOUNT HELEN 3350",572 J10
+2,BALLAR12472,Ballarat Secondary College - East Campus,Victoria,BALLARAT EAST,3350.0,-37.559416,143.894588,Grass," Victoria Street, BALLARAT EAST 3350",567 L8
+3,BALLAR12473,Ballarat Secondary College - Wendouree Campus,Forest,WENDOUREE,3355.0,-37.519558,143.832447,Grass," Forest Road, WENDOUREE 3355",561 U10
+4,BAWBAW12150,Drouin Secondary College,Drouin-Korumburra,DROUIN,3818.0,-38.14571,145.851613,Synthetic Pitch," Drouin-Korumburra Road, DROUIN 3818",
+5,BAWBAW12152,Marist Sion College,Burke,WARRAGUL,3820.0,-38.160869,145.914327,Synthetic Pitch," Burke Street, WARRAGUL 3820",
+6,BAWBAW12149,Warragul Regional College,Burke,WARRAGUL,3820.0,-38.159164,145.913787,Synthetic Pitch," Burke Street, WARRAGUL 3820",
+7,BAYSID11289,Brighton Secondary College,Marriage  ,BRIGHTON EAST,3187.0,-37.921837,145.01837,Artificial Turf," Marriage   Road, BRIGHTON EAST 3187",
+8,BOROON11480,MLC Gymnastic Club (Methodist Ladies College),Barkers,KEW,3101.0,,,,"207 Barkers Road, KEW 3101",
+9,BOROON11475,Skylark Sports (Bialik College- Gringlas Sports Centre),Auburn,HAWTHORN EAST,3123.0,,,,"429 Auburn Road, HAWTHORN EAST 3123",
+10,BRIMBA8332,Brimbank College,Jamieson,ST ALBANS,3021.0,-37.740071,144.784559,," Jamieson Street, ST ALBANS 3021",13 G12
+11,BRIMBA8340,Copperfield Secondary College,Community,SYDENHAM,3037.0,-37.702186,144.760049,Asphalt,"65-75 Community Hub, SYDENHAM 3037",13 D10
+12,BRIMBA8397,St Albans Secondary College,Main,ST ALBANS,3021.0,-37.745805,144.807771,," Main Road East, ST ALBANS 3021",26 C1
+13,CASEYC5588,Kambrya College,St Boswells,BERWICK,3806.0,-38.054077,145.345203,Grass,"47-51 St Boswells Avenue, BERWICK 3806",
+14,CASEYC5122,Berwick Secondary College,Manuka,BERWICK,3806.0,-38.030368,145.361966,Artificial Turf," Manuka Road, BERWICK 3806",
+15,CASEYC5585,Gleneagles Secondary College,Reema,ENDEAVOUR HILLS,3802.0,-37.974215,145.275533,Grass,"85-87 Reema Boulevard, ENDEAVOUR HILLS 3802",
+16,GREATE11668,The Grenda Aquatic Centre (Haileybury College Pool),Springvale,KEYSBOROUGH,3173.0,-37.994627,145.145307,50m Pool - Outdoor," Springvale Road, KEYSBOROUGH 3173",88 J10
+17,DAREBI11503,Twisters Gymnastic Club (Santa Maria College),Shepparton,NORTHCOTE,3070.0,,,,"50 Shepparton Street, NORTHCOTE 3070",
+18,EASTGI11014,Lakes Entrance Secondary College,North ,LAKES ENTRANCE,3909.0,-37.869671,147.998741,Synthetic Pitch," North  Street, LAKES ENTRANCE 3909",686 H4
+19,EASTGI11035,Orbost Secondary College,Arnold ,ORBOST,3888.0,-37.70333,148.467274,Synthetic Pitch," Arnold  Street, ORBOST 3888",684 D9
+20,FRANKS11042,Langwarren Basketball Stadium (Elizabeth Murdoch college),Warrandyte,LANGWARRIN,3910.0,-38.158699,145.190719,Wooden Gymnasium,"80 Warrandyte Road, LANGWARRIN 3910",
+21,FRANKS11046,Monash University,Bloom,FRANKSTON,3199.0,-38.15244,145.136785,," Bloom Street, FRANKSTON 3199",
+22,GREATE11078,Deakin University Oval,Jarvis,WAURN PONDS,3216.0,-38.20371,144.29576,Turf Pitch," Jarvis Road, WAURN PONDS 3216",464 H7
+23,GREATE11145,University fitness Club,Pigdins,WAURN PONDS,3216.0,,,," Pigdins Road, WAURN PONDS 3216",
+24,GLENEI11241,Monash University Fitness & Rec Centre,Princes,CAULFIELD EAST,3162.0,,,Wooden Flooring,"2 Princes Avenue, CAULFIELD EAST 3162",
+25,HOBSON12940,Bayside College Williamstown,Bayview,WILLIAMSTOWN,3016.0,-37.859193,144.884943,Grass,"83 Bayview Street, WILLIAMSTOWN 3016",55 K8
+26,HORSHA11363,Horsham College,Dimboola,HORSHAM,3400.0,-36.707916,142.188694,Grass," Dimboola Road, HORSHAM 3400",544 D4
+27,HUMECI11516,Sunbury Gymnastic College,Sussex,SUNBURY,3429.0,,,,"14 Sussex Court, SUNBURY 3429",
+28,KINGST11293,Haileybury College,Springvale,KEYSBOROUGH,3173.0,-38.00101,145.138254,Artificial Turf," Springvale road, KEYSBOROUGH 3173",88 J9
+29,KNOXCI11073,Bayswater Secondary College,Church,BAYSWATER,3153.0,-37.836924,145.262217,Synthetic Pitch," Church Street, BAYSWATER 3153",
+30,KNOXCI8610,Scoresby Secondary College,Cavelle,SCORESBY,3179.0,-37.889564,145.237716,Synthetic Pitch,"2 Cavelle Street, SCORESBY 3179",72 J5
+31,KNOXCI11077,Wantirna Secondary College,Harold,WANTIRNA,3152.0,-37.856243,145.23149,Synthetic Pitch," Harold Street, WANTIRNA 3152",
+32,LATROB11526,Energetic Gymnastics (Lavalla Catholic College),Grey,TRARALGON,3844.0,,,," Grey Street, TRARALGON 3844",
+33,LATROB11290,Monash University - Churchill,Northways,CHURCHILL,,-38.310476,146.426651,Artificial Turf," Northways Road, CHURCHILL ",
+34,LODDON12609,Pyramid Hill College Stadium,Kelly,PYRAMID HILLS,3575.0,-36.048731,144.11324,Wooden Gymnasium," Kelly Street, PYRAMID HILLS 3575",592 B9
+35,MACEDO11303,Gisborne Secondary College,Melton,GISBORNE,3437.0,-37.497629,144.584963,," Melton Road, GISBORNE 3437",
+36,MANNIN11015,Marcellin College,Bulleen ,BULLEEN,3105.0,-37.774856,145.08208,Grass," Bulleen  Road, BULLEEN 3105",32 D8
+37,MARIBY5281,Victoria University of Technology,,,,-37.891872,144.70688,,"  ,  ",
+38,MELTON9081,Heathdale Christian College (Formerly Mowbray College),Centenary,MELTON,3337.0,-37.669602,144.58118,Artificial Turf," Centenary Avenue, MELTON 3337",337 B6
+39,MELTON11297,Mowbray College,Centenary,MELTON,3337.0,-37.669944,144.581028,Artificial Turf," Centenary Avenue, MELTON 3337",334 A4
+40,MELTON9076,Melton Table Tennis Association (Victoria University),Rees,MELTON SOUTH,3338.0,-37.707164,144.565688,Wooden Gymnasium," Rees Road, MELTON SOUTH 3338",342 H3
+41,MONASH5124,Monash University Baseball Club,Oval,CLAYTON,3168.0,-37.913903,145.139159,Grass," Oval Road, CLAYTON 3168",
+42,MONASH12025,Ashwood College,Cassina,ASHWOOD,3147.0,-37.865999,145.106002,Synthetic Pitch," Cassina Avenue, ASHWOOD 3147",60 K10
+43,MONASH11459,Monash University Trampolining,Wellington,CLAYTON,3168.0,,,," Wellington Road, CLAYTON 3168",
+44,MONASH11291,Monash University - Clayton,Wellington,CLAYTON,3168.0,-37.908959,145.137801,Artificial Turf," Wellington Road, CLAYTON 3168",
+45,MONASH12073,Wheelers Hill Secondary College,Raphael ,WHEELERS HILL,3150.0,-37.910424,145.179929,Grass," Raphael  Drive, WHEELERS HILL 3150",71 G10
+46,MORELA11303,Brunswick Secondary College,Dawson,BRUNSWICK,,-37.771923,144.956176,Artificial Turf,"47 Dawson Street, BRUNSWICK ",
+47,SOUTHG12419,Mirboo North Secondary College,castle,MIRBOO NORTH,3871.0,-38.401961,146.146844,Wooden Gymnasium,"2 castle Street, MIRBOO NORTH 3871",710 D4
+48,SURFCO5513,Surf Coast Secondary College,White,TORQUAY,3228.0,-38.304533,144.322765,Wooden Gymnasium,"75 White Street, TORQUAY 3228",93 G6
+49,SURFCO11518,Aerosport Allstars (Torquay College),Grossmans,TORQUAY,3228.0,,,," Grossmans Road, TORQUAY 3228",
+50,WARRNA11726,Brauer College,Caramut,WARRNAMBOOL,3280.0,-38.359147,142.458928,Wooden Gymnasium," Caramut Road, WARRNAMBOOL 3280",
+51,WELLIN10992,Catholic College Playing Fields,Cunninghame,SALE,3850.0,-38.110822,147.055123,Turf Pitch," Cunninghame Street, SALE 3850",693 R6
+52,WHITEH11296,Koonung Secondary College,Elgar,BOX HILL ,3128.0,-37.803174,145.11582,Artificial Turf," Elgar Road, BOX HILL  3128",
+53,WODONG11107,La Trobe University Soccer Facility,University,WONDONGA,3690.0,-36.113593,146.848708,Grass," University Drive, WONDONGA 3690",652 F4
+54,WYNDHA8525,Victorian University Fitness Centres,Hoppers,WERRIBEE,3030.0,-37.87829,144.680757,," Hoppers Lane, WERRIBEE 3030",206 H5
+55,YARRAC11029,Collingwood Secondary College,Mc Cutcheon,COLLINGWOOD,,,,Wooden Gymnasium," Mc Cutcheon Way, COLLINGWOOD ",
+56,YARRAC11028,Melbourne Girls College,Yarra,BURNLEY,,,,Wooden Gymnasium," Yarra Boulevard, BURNLEY ",
+57,YARRAC11030,Princes Hill Seconary College,Arnold,PRINCES HILL,,,,Wooden Gymnasium," Arnold Strret, PRINCES HILL ",
