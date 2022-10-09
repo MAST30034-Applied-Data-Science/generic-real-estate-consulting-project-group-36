@@ -25,3 +25,4 @@ To run the pipeline, please visit the `scripts` directory and run the files in o
 18. `18_geomap.ipynb`: This notebook draws the map visualization of house and apartment price VS suburbs and outputs the maps to the `plots` directory.
 19. `19_growth_rate.ipynb`: This notebooks calculated the top 10 price growth rate suburbs and outputs the plots to the `plots` directory.
 20. `20_affordbility.ipynb`: This notebooks calculated the top 10 affordable suburbs and outputs the plots to the `plots` directory and the top 10 livable suburbs and outputs the plots to the `plots` directory.
+21. `Summary_notebook.ipynb`: This notebooks covered the prediction analysis and answers to 3 major questions.
