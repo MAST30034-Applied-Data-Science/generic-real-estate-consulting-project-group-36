@@ -8,7 +8,7 @@ def get_html(url, ty):
     """This function is used to extract information from the website"""
     
     #file path used to save 
-    log_path = './domain_' + ty + '.csv'
+    log_path = '../data/raw/domain_' + ty + '.csv'
     file = open(log_path, 'a+', encoding='utf-8', newline='')
     csv_writer = csv.writer(file)
     csv_writer.writerow([f'address', 'price','beds','baths','parking','propertyTypeFormatted'])
